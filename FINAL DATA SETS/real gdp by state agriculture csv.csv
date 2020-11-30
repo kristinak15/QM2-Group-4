@@ -1,0 +1,901 @@
+Year,State,Agri GDP
+2005,United States,196126.00
+2005,Alabama,3837.00
+2005,Alaska,417.00
+2005,Arizona,3019.60
+2005,Arkansas,4282.60
+2005,California,37673.30
+2005,Colorado,3253.30
+2005,Connecticut,565.50
+2005,Delaware,650.00
+2005,District of Columbia,0.70
+2005,Florida,8987.10
+2005,Georgia,5298.20
+2005,Hawaii,655.70
+2005,Idaho,3415.40
+2005,Illinois,3923.40
+2005,Indiana,3334.20
+2005,Iowa,7813.30
+2005,Kansas,5063.70
+2005,Kentucky,3410.90
+2005,Louisiana,1898.20
+2005,Maine,1027.10
+2005,Maryland,1211.40
+2005,Massachusetts,1054.60
+2005,Michigan,3481.60
+2005,Minnesota,6597.40
+2005,Mississippi,3305.00
+2005,Missouri,3948.80
+2005,Montana,1841.10
+2005,Nebraska,6412.10
+2005,Nevada,382.80
+2005,New Hampshire,225.10
+2005,New Jersey,1052.60
+2005,New Mexico,1910.10
+2005,New York,3218.10
+2005,North Carolina,6206.80
+2005,North Dakota,2300.00
+2005,Ohio,3570.80
+2005,Oklahoma,3637.40
+2005,Oregon,4863.90
+2005,Pennsylvania,4659.30
+2005,Rhode Island,145.40
+2005,South Carolina,1672.40
+2005,South Dakota,3017.30
+2005,Tennessee,2591.70
+2005,Texas,12684.80
+2005,Utah,865.40
+2005,Vermont,560.10
+2005,Virginia,2282.80
+2005,Washington,7025.10
+2005,West Virginia,394.80
+2005,Wisconsin,5300.00
+2005,Wyoming,652.60
+2005,New England,3551.20
+2005,Mideast,10791.60
+2005,Great Lakes,19609.10
+2005,Plains,35168.00
+2005,Southeast,44156.20
+2005,Southwest,21250.50
+2005,Rocky Mountain,10028.40
+2005,Far West,51015.80
+2006,United States,199349.00
+2006,Alabama,3185.20
+2006,Alaska,433.60
+2006,Arizona,2856.50
+2006,Arkansas,4254.10
+2006,California,37555.70
+2006,Colorado,3196.00
+2006,Connecticut,567.50
+2006,Delaware,543.20
+2006,District of Columbia,0.80
+2006,Florida,9590.70
+2006,Georgia,4776.90
+2006,Hawaii,711.30
+2006,Idaho,3675.80
+2006,Illinois,5885.30
+2006,Indiana,3949.50
+2006,Iowa,8183.80
+2006,Kansas,4284.10
+2006,Kentucky,3838.20
+2006,Louisiana,2159.90
+2006,Maine,1106.00
+2006,Maryland,1245.60
+2006,Massachusetts,1254.90
+2006,Michigan,4161.00
+2006,Minnesota,7448.10
+2006,Mississippi,2409.70
+2006,Missouri,4444.40
+2006,Montana,1483.20
+2006,Nebraska,5550.30
+2006,Nevada,420.90
+2006,New Hampshire,241.90
+2006,New Jersey,1238.30
+2006,New Mexico,1666.10
+2006,New York,3321.70
+2006,North Carolina,6294.10
+2006,North Dakota,2582.10
+2006,Ohio,3947.80
+2006,Oklahoma,3012.50
+2006,Oregon,5556.40
+2006,Pennsylvania,4755.10
+2006,Rhode Island,159.70
+2006,South Carolina,1707.20
+2006,South Dakota,2399.50
+2006,Tennessee,3201.30
+2006,Texas,11681.30
+2006,Utah,756.10
+2006,Vermont,493.70
+2006,Virginia,2126.60
+2006,Washington,7875.20
+2006,West Virginia,379.70
+2006,Wisconsin,5501.00
+2006,Wyoming,681.60
+2006,New England,3821.90
+2006,Mideast,11110.30
+2006,Great Lakes,23433.20
+2006,Plains,34920.50
+2006,Southeast,43899.20
+2006,Southwest,19225.00
+2006,Rocky Mountain,9796.10
+2006,Far West,52589.40
+2007,United States,176569.00
+2007,Alabama,2307.60
+2007,Alaska,368.70
+2007,Arizona,2616.40
+2007,Arkansas,3626.00
+2007,California,34372.30
+2007,Colorado,3013.70
+2007,Connecticut,464.50
+2007,Delaware,416.70
+2007,District of Columbia,0.30
+2007,Florida,7642.60
+2007,Georgia,4191.90
+2007,Hawaii,509.30
+2007,Idaho,3562.40
+2007,Illinois,6170.60
+2007,Indiana,3848.40
+2007,Iowa,8083.40
+2007,Kansas,4163.80
+2007,Kentucky,2560.10
+2007,Louisiana,1850.60
+2007,Maine,897.40
+2007,Maryland,954.50
+2007,Massachusetts,1041.80
+2007,Michigan,3307.10
+2007,Minnesota,5910.40
+2007,Mississippi,2301.30
+2007,Missouri,3615.80
+2007,Montana,1547.00
+2007,Nebraska,6071.10
+2007,Nevada,270.30
+2007,New Hampshire,191.60
+2007,New Jersey,973.10
+2007,New Mexico,1608.70
+2007,New York,3039.20
+2007,North Carolina,4701.30
+2007,North Dakota,3104.10
+2007,Ohio,3403.60
+2007,Oklahoma,2312.60
+2007,Oregon,4230.10
+2007,Pennsylvania,3904.00
+2007,Rhode Island,117.30
+2007,South Carolina,1207.30
+2007,South Dakota,3283.60
+2007,Tennessee,2209.00
+2007,Texas,10025.70
+2007,Utah,658.00
+2007,Vermont,504.80
+2007,Virginia,1649.40
+2007,Washington,7359.20
+2007,West Virginia,271.60
+2007,Wisconsin,5345.50
+2007,Wyoming,437.00
+2007,New England,3207.90
+2007,Mideast,9289.60
+2007,Great Lakes,22055.90
+2007,Plains,34242.40
+2007,Southeast,34510.80
+2007,Southwest,16575.40
+2007,Rocky Mountain,9221.30
+2007,Far West,47118.80
+2008,United States,180295.00
+2008,Alabama,2251.50
+2008,Alaska,415.60
+2008,Arizona,2007.30
+2008,Arkansas,3577.50
+2008,California,31667.90
+2008,Colorado,2678.10
+2008,Connecticut,473.60
+2008,Delaware,411.30
+2008,District of Columbia,0.10
+2008,Florida,6945.10
+2008,Georgia,4526.40
+2008,Hawaii,528.50
+2008,Idaho,3652.60
+2008,Illinois,8214.90
+2008,Indiana,4938.00
+2008,Iowa,9617.70
+2008,Kansas,4866.70
+2008,Kentucky,1875.30
+2008,Louisiana,1711.20
+2008,Maine,887.60
+2008,Maryland,1056.90
+2008,Massachusetts,1056.50
+2008,Michigan,3426.70
+2008,Minnesota,7978.10
+2008,Mississippi,2089.20
+2008,Missouri,4502.00
+2008,Montana,1721.60
+2008,Nebraska,6677.90
+2008,Nevada,357.20
+2008,New Hampshire,215.50
+2008,New Jersey,887.30
+2008,New Mexico,1467.00
+2008,New York,3355.10
+2008,North Carolina,4765.70
+2008,North Dakota,4025.20
+2008,Ohio,3409.00
+2008,Oklahoma,2544.70
+2008,Oregon,4214.40
+2008,Pennsylvania,3751.20
+2008,Rhode Island,131.60
+2008,South Carolina,1340.30
+2008,South Dakota,4098.70
+2008,Tennessee,2489.20
+2008,Texas,7798.60
+2008,Utah,660.90
+2008,Vermont,528.80
+2008,Virginia,1725.40
+2008,Washington,7010.30
+2008,West Virginia,309.60
+2008,Wisconsin,4678.20
+2008,Wyoming,553.90
+2008,New England,3283.30
+2008,Mideast,9460.90
+2008,Great Lakes,24646.60
+2008,Plains,41781.10
+2008,Southeast,33590.10
+2008,Southwest,13825.00
+2008,Rocky Mountain,9269.70
+2008,Far West,44213.70
+2009,United States,199976.00
+2009,Alabama,2808.80
+2009,Alaska,416.60
+2009,Arizona,1979.30
+2009,Arkansas,3408.60
+2009,California,37454.90
+2009,Colorado,3227.60
+2009,Connecticut,552.40
+2009,Delaware,640.70
+2009,District of Columbia,0.10
+2009,Florida,8172.80
+2009,Georgia,5238.00
+2009,Hawaii,720.60
+2009,Idaho,3416.60
+2009,Illinois,7816.70
+2009,Indiana,4963.40
+2009,Iowa,9764.60
+2009,Kansas,6356.70
+2009,Kentucky,2885.80
+2009,Louisiana,2226.40
+2009,Maine,951.20
+2009,Maryland,1319.20
+2009,Massachusetts,1208.30
+2009,Michigan,3523.60
+2009,Minnesota,7279.60
+2009,Mississippi,2484.50
+2009,Missouri,5110.60
+2009,Montana,1914.50
+2009,Nebraska,8075.10
+2009,Nevada,418.30
+2009,New Hampshire,213.70
+2009,New Jersey,1116.30
+2009,New Mexico,1364.40
+2009,New York,3200.10
+2009,North Carolina,6012.90
+2009,North Dakota,4213.50
+2009,Ohio,4816.20
+2009,Oklahoma,2130.70
+2009,Oregon,4421.90
+2009,Pennsylvania,3915.80
+2009,Rhode Island,139.80
+2009,South Carolina,1652.20
+2009,South Dakota,4745.50
+2009,Tennessee,2351.10
+2009,Texas,8514.80
+2009,Utah,586.40
+2009,Vermont,462.50
+2009,Virginia,2077.10
+2009,Washington,7902.30
+2009,West Virginia,326.80
+2009,Wisconsin,4440.70
+2009,Wyoming,693.30
+2009,New England,3526.60
+2009,Mideast,10193.80
+2009,Great Lakes,25546.20
+2009,Plains,45562.70
+2009,Southeast,39634.10
+2009,Southwest,14005.80
+2009,Rocky Mountain,9838.80
+2009,Far West,51319.80
+2010,United States,193856.00
+2010,Alabama,2447.20
+2010,Alaska,471.10
+2010,Arizona,2160.30
+2010,Arkansas,2753.60
+2010,California,36879.50
+2010,Colorado,3096.40
+2010,Connecticut,502.80
+2010,Delaware,520.30
+2010,District of Columbia,0.30
+2010,Florida,8042.40
+2010,Georgia,4030.50
+2010,Hawaii,648.40
+2010,Idaho,3538.00
+2010,Illinois,6664.90
+2010,Indiana,4425.80
+2010,Iowa,8894.80
+2010,Kansas,6256.80
+2010,Kentucky,2063.30
+2010,Louisiana,2277.00
+2010,Maine,972.40
+2010,Maryland,1087.40
+2010,Massachusetts,1264.70
+2010,Michigan,3835.90
+2010,Minnesota,7506.40
+2010,Mississippi,2603.20
+2010,Missouri,4299.50
+2010,Montana,1942.20
+2010,Nebraska,7750.40
+2010,Nevada,388.10
+2010,New Hampshire,204.90
+2010,New Jersey,962.90
+2010,New Mexico,1778.40
+2010,New York,3558.50
+2010,North Carolina,5460.60
+2010,North Dakota,3806.80
+2010,Ohio,4061.70
+2010,Oklahoma,2856.80
+2010,Oregon,3812.70
+2010,Pennsylvania,3951.00
+2010,Rhode Island,132.30
+2010,South Carolina,1520.80
+2010,South Dakota,3909.20
+2010,Tennessee,1619.30
+2010,Texas,12004.30
+2010,Utah,769.50
+2010,Vermont,511.80
+2010,Virginia,1803.80
+2010,Washington,7337.10
+2010,West Virginia,297.20
+2010,Wisconsin,5126.30
+2010,Wyoming,701.60
+2010,New England,3593.10
+2010,Mideast,10079.30
+2010,Great Lakes,24117.60
+2010,Plains,42434.70
+2010,Southeast,34944.80
+2010,Southwest,18805.00
+2010,Rocky Mountain,10048.00
+2011,Far West,49519.70
+2011,United States,186395.00
+2011,Alabama,1632.60
+2011,Alaska,543.10
+2011,Arizona,2482.20
+2011,Arkansas,2329.40
+2011,California,33687.50
+2011,Colorado,2889.40
+2011,Connecticut,387.30
+2011,Delaware,383.00
+2011,District of Columbia,0.30
+2011,Florida,6345.30
+2011,Georgia,3579.50
+2011,Hawaii,576.50
+2011,Idaho,3545.10
+2011,Illinois,8075.70
+2011,Indiana,4811.60
+2011,Iowa,11081.90
+2011,Kansas,6376.20
+2011,Kentucky,2229.30
+2011,Louisiana,1904.80
+2011,Maine,844.70
+2011,Maryland,985.80
+2011,Massachusetts,1007.10
+2011,Michigan,4309.50
+2011,Minnesota,7208.70
+2011,Mississippi,1847.10
+2011,Missouri,4169.60
+2011,Montana,1694.70
+2011,Nebraska,9840.80
+2011,Nevada,384.30
+2011,New Hampshire,190.50
+2011,New Jersey,840.10
+2011,New Mexico,1622.60
+2011,New York,3209.10
+2011,North Carolina,3951.20
+2011,North Dakota,3148.80
+2011,Ohio,4578.70
+2011,Oklahoma,2813.60
+2011,Oregon,3559.00
+2011,Pennsylvania,3682.60
+2011,Rhode Island,111.70
+2011,South Carolina,1160.10
+2011,South Dakota,5089.20
+2011,Tennessee,1757.90
+2011,Texas,8716.80
+2011,Utah,803.70
+2011,Vermont,497.50
+2011,Virginia,1828.30
+2011,Washington,7212.30
+2011,West Virginia,304.20
+2011,Wisconsin,5355.00
+2011,Wyoming,819.70
+2011,New England,3038.70
+2011,Mideast,9100.90
+2011,Great Lakes,27130.30
+2011,Plains,46916.20
+2011,Southeast,28869.90
+2011,Southwest,15636.20
+2011,Rocky Mountain,9752.50
+2012,Far West,45963.00
+2012,United States,179573.00
+2012,Alabama,1802.20
+2012,Alaska,497.50
+2012,Arizona,1903.90
+2012,Arkansas,2573.50
+2012,California,34377.20
+2012,Colorado,2559.70
+2012,Connecticut,409.30
+2012,Delaware,417.00
+2012,District of Columbia,0.40
+2012,Florida,6682.80
+2012,Georgia,4205.80
+2012,Hawaii,536.20
+2012,Idaho,3444.60
+2012,Illinois,5911.10
+2012,Indiana,4087.70
+2012,Iowa,10520.50
+2012,Kansas,5402.20
+2012,Kentucky,2112.10
+2012,Louisiana,2101.70
+2012,Maine,828.60
+2012,Maryland,1044.00
+2012,Massachusetts,1009.60
+2012,Michigan,3286.10
+2012,Minnesota,8746.50
+2012,Mississippi,1902.10
+2012,Missouri,3341.10
+2012,Montana,1834.40
+2012,Nebraska,7575.10
+2012,Nevada,294.80
+2012,New Hampshire,221.90
+2012,New Jersey,824.30
+2012,New Mexico,1416.40
+2012,New York,2872.80
+2012,North Carolina,4602.40
+2012,North Dakota,4959.30
+2012,Ohio,3762.90
+2012,Oklahoma,3057.50
+2012,Oregon,3690.40
+2012,Pennsylvania,3705.00
+2012,Rhode Island,102.50
+2012,South Carolina,1188.10
+2012,South Dakota,4278.60
+2012,Tennessee,1356.60
+2012,Texas,8217.60
+2012,Utah,718.30
+2012,Vermont,445.70
+2012,Virginia,1679.80
+2012,Washington,7291.40
+2012,West Virginia,264.60
+2012,Wisconsin,4945.80
+2012,Wyoming,562.40
+2012,New England,3017.70
+2012,Mideast,8863.50
+2012,Great Lakes,21993.60
+2012,Plains,44823.20
+2012,Southeast,30471.50
+2012,Southwest,14595.40
+2012,Rocky Mountain,9119.40
+2013,Far West,46687.60
+2013,United States,209388.00
+2013,Alabama,3018.80
+2013,Alaska,486.90
+2013,Arizona,2287.30
+2013,Arkansas,3761.10
+2013,California,36815.40
+2013,Colorado,2587.10
+2013,Connecticut,415.00
+2013,Delaware,565.50
+2013,District of Columbia,0.40
+2013,Florida,6229.10
+2013,Georgia,4263.80
+2013,Hawaii,504.30
+2013,Idaho,3691.20
+2013,Illinois,10610.30
+2013,Indiana,7088.10
+2013,Iowa,12566.70
+2013,Kansas,7111.20
+2013,Kentucky,3798.70
+2013,Louisiana,2311.00
+2013,Maine,799.10
+2013,Maryland,1219.40
+2013,Massachusetts,858.80
+2013,Michigan,3829.30
+2013,Minnesota,8508.90
+2013,Mississippi,3202.80
+2013,Missouri,4651.60
+2013,Montana,2081.10
+2013,Nebraska,9876.10
+2013,Nevada,302.00
+2013,New Hampshire,221.60
+2013,New Jersey,776.80
+2013,New Mexico,1384.50
+2013,New York,3232.40
+2013,North Carolina,5082.30
+2013,North Dakota,3470.10
+2013,Ohio,4890.30
+2013,Oklahoma,2980.70
+2013,Oregon,3879.90
+2013,Pennsylvania,4023.20
+2013,Rhode Island,97.50
+2013,South Carolina,1415.70
+2013,South Dakota,5182.70
+2013,Tennessee,2042.40
+2013,Texas,10581.60
+2013,Utah,945.00
+2013,Vermont,490.60
+2013,Virginia,1880.10
+2013,Washington,7062.30
+2013,West Virginia,317.50
+2013,Wisconsin,5276.70
+2013,Wyoming,700.00
+2013,New England,2882.10
+2013,Mideast,9817.50
+2013,Great Lakes,31693.40
+2013,Plains,51368.30
+2013,Southeast,37322.50
+2013,Southwest,17235.00
+2013,Rocky Mountain,10004.30
+2014,Far West,49050.30
+2014,United States,211758.00
+2014,Alabama,2630.90
+2014,Alaska,456.50
+2014,Arizona,2220.80
+2014,Arkansas,3557.00
+2014,California,42489.20
+2014,Colorado,2878.00
+2014,Connecticut,371.60
+2014,Delaware,689.60
+2014,District of Columbia,0.40
+2014,Florida,6652.70
+2014,Georgia,3963.20
+2014,Hawaii,496.80
+2014,Idaho,4221.40
+2014,Illinois,8332.20
+2014,Indiana,5768.10
+2014,Iowa,12102.20
+2014,Kansas,5334.50
+2014,Kentucky,3320.00
+2014,Louisiana,2049.50
+2014,Maine,823.30
+2014,Maryland,1182.50
+2014,Massachusetts,692.10
+2014,Michigan,3678.50
+2014,Minnesota,7896.80
+2014,Mississippi,2672.90
+2014,Missouri,5449.60
+2014,Montana,2213.00
+2014,Nebraska,9408.30
+2014,Nevada,416.10
+2014,New Hampshire,227.30
+2014,New Jersey,786.30
+2014,New Mexico,1709.70
+2014,New York,3622.10
+2014,North Carolina,5822.60
+2014,North Dakota,3231.50
+2014,Ohio,4652.90
+2014,Oklahoma,3660.00
+2014,Oregon,4174.20
+2014,Pennsylvania,4829.90
+2014,Rhode Island,97.20
+2014,South Carolina,1138.00
+2014,South Dakota,4632.50
+2014,Tennessee,1718.40
+2014,Texas,11000.00
+2014,Utah,1121.70
+2014,Vermont,605.50
+2014,Virginia,2030.00
+2014,Washington,7367.70
+2014,West Virginia,354.30
+2014,Wisconsin,6047.80
+2014,Wyoming,810.40
+2014,New England,2811.70
+2014,Mideast,11110.60
+2014,Great Lakes,28486.90
+2014,Plains,48059.00
+2014,Southeast,35917.20
+2014,Southwest,18585.40
+2014,Rocky Mountain,11244.50
+2015,Far West,55389.00
+2015,United States,227217.00
+2015,Alabama,3261.20
+2015,Alaska,426.30
+2015,Arizona,2833.80
+2015,Arkansas,3509.00
+2015,California,45749.70
+2015,Colorado,3521.00
+2015,Connecticut,463.10
+2015,Delaware,631.60
+2015,District of Columbia,0.50
+2015,Florida,8198.40
+2015,Georgia,5395.80
+2015,Hawaii,607.70
+2015,Idaho,4567.70
+2015,Illinois,5696.30
+2015,Indiana,4771.10
+2015,Iowa,11952.70
+2015,Kansas,5399.40
+2015,Kentucky,3704.80
+2015,Louisiana,1979.00
+2015,Maine,984.80
+2015,Maryland,1207.50
+2015,Massachusetts,766.60
+2015,Michigan,4040.80
+2015,Minnesota,8147.10
+2015,Mississippi,2721.10
+2015,Missouri,4096.80
+2015,Montana,2550.10
+2015,Nebraska,10449.00
+2015,Nevada,395.10
+2015,New Hampshire,264.70
+2015,New Jersey,1013.40
+2015,New Mexico,1686.20
+2015,New York,3361.40
+2015,North Carolina,6299.40
+2015,North Dakota,3389.60
+2015,Ohio,3872.60
+2015,Oklahoma,4003.90
+2015,Oregon,4813.80
+2015,Pennsylvania,4530.80
+2015,Rhode Island,118.00
+2015,South Carolina,1268.20
+2015,South Dakota,4871.70
+2015,Tennessee,2078.80
+2015,Texas,15607.40
+2015,Utah,1281.40
+2015,Vermont,546.60
+2015,Virginia,2207.50
+2015,Washington,9405.30
+2015,West Virginia,386.30
+2015,Wisconsin,6745.80
+2015,Wyoming,913.40
+2015,New England,3145.90
+2015,Mideast,10754.20
+2015,Great Lakes,25162.80
+2015,Plains,48297.10
+2015,Southeast,41049.10
+2015,Southwest,24148.40
+2015,Rocky Mountain,12833.40
+2016,Far West,61396.00
+2016,United States,238834.00
+2016,Alabama,2835.10
+2016,Alaska,371.80
+2016,Arizona,3552.80
+2016,Arkansas,3444.40
+2016,California,50398.80
+2016,Colorado,3826.80
+2016,Connecticut,462.60
+2016,Delaware,656.40
+2016,District of Columbia,0.80
+2016,Florida,8251.40
+2016,Georgia,5203.70
+2016,Hawaii,613.00
+2016,Idaho,5084.00
+2016,Illinois,8842.20
+2016,Indiana,5514.30
+2016,Iowa,11715.40
+2016,Kansas,7109.00
+2016,Kentucky,3630.10
+2016,Louisiana,2123.10
+2016,Maine,965.40
+2016,Maryland,1278.70
+2016,Massachusetts,741.20
+2016,Michigan,4088.40
+2016,Minnesota,7715.50
+2016,Mississippi,2711.60
+2016,Missouri,4970.20
+2016,Montana,2687.30
+2016,Nebraska,10695.20
+2016,Nevada,378.30
+2016,New Hampshire,258.00
+2016,New Jersey,1156.10
+2016,New Mexico,2102.80
+2016,New York,3590.50
+2016,North Carolina,6323.60
+2016,North Dakota,4280.80
+2016,Ohio,3998.20
+2016,Oklahoma,3703.30
+2016,Oregon,5390.80
+2016,Pennsylvania,4145.30
+2016,Rhode Island,120.50
+2016,South Carolina,1361.60
+2016,South Dakota,4925.30
+2016,Tennessee,1899.70
+2016,Texas,13584.00
+2016,Utah,1224.80
+2016,Vermont,581.90
+2016,Virginia,2183.40
+2016,Washington,9700.50
+2016,West Virginia,392.40
+2016,Wisconsin,6608.00
+2016,Wyoming,966.70
+2016,New England,3123.90
+2016,Mideast,10838.30
+2016,Great Lakes,29043.30
+2016,Plains,51430.80
+2016,Southeast,40423.20
+2016,Southwest,22999.90
+2016,Rocky Mountain,13793.40
+2017,Far West,66822.30
+2017,United States,233675.00
+2017,Alabama,3110.30
+2017,Alaska,361.90
+2017,Arizona,3272.40
+2017,Arkansas,3939.00
+2017,California,49666.90
+2017,Colorado,3166.90
+2017,Connecticut,461.00
+2017,Delaware,837.60
+2017,District of Columbia,1.20
+2017,Florida,8226.60
+2017,Georgia,5527.20
+2017,Hawaii,624.60
+2017,Idaho,4353.50
+2017,Illinois,8185.10
+2017,Indiana,5340.40
+2017,Iowa,11868.00
+2017,Kansas,5588.00
+2017,Kentucky,3980.80
+2017,Louisiana,2147.60
+2017,Maine,937.00
+2017,Maryland,1391.80
+2017,Massachusetts,759.40
+2017,Michigan,4187.20
+2017,Minnesota,7925.40
+2017,Mississippi,3409.20
+2017,Missouri,4705.20
+2017,Montana,1907.90
+2017,Nebraska,7815.30
+2017,Nevada,395.20
+2017,New Hampshire,259.50
+2017,New Jersey,1095.20
+2017,New Mexico,1962.30
+2017,New York,3777.70
+2017,North Carolina,6820.00
+2017,North Dakota,4136.30
+2017,Ohio,4730.70
+2017,Oklahoma,3863.40
+2017,Oregon,4681.50
+2017,Pennsylvania,4664.80
+2017,Rhode Island,121.50
+2017,South Carolina,1439.10
+2017,South Dakota,4594.30
+2017,Tennessee,1924.10
+2017,Texas,13851.60
+2017,Utah,1188.40
+2017,Vermont,564.90
+2017,Virginia,2362.80
+2017,Washington,9091.60
+2017,West Virginia,450.90
+2017,Wisconsin,6403.20
+2017,Wyoming,875.30
+2017,New England,3101.20
+2017,Mideast,11767.10
+2017,Great Lakes,28864.30
+2017,Plains,46659.30
+2017,Southeast,43364.70
+2017,Southwest,22987.60
+2017,Rocky Mountain,11492.90
+2018,Far West,64753.60
+2018,United States,243393.00
+2018,Alabama,3281.30
+2018,Alaska,342.20
+2018,Arizona,3427.40
+2018,Arkansas,3951.90
+2018,California,49827.10
+2018,Colorado,3498.70
+2018,Connecticut,458.30
+2018,Delaware,899.50
+2018,District of Columbia,1.10
+2018,Florida,8146.40
+2018,Georgia,5522.10
+2018,Hawaii,544.40
+2018,Idaho,5026.70
+2018,Illinois,9565.00
+2018,Indiana,5839.10
+2018,Iowa,13404.30
+2018,Kansas,6340.30
+2018,Kentucky,3947.10
+2018,Louisiana,2263.70
+2018,Maine,922.90
+2018,Maryland,1259.30
+2018,Massachusetts,731.60
+2018,Michigan,4410.00
+2018,Minnesota,8086.50
+2018,Mississippi,3455.70
+2018,Missouri,4497.00
+2018,Montana,2543.60
+2018,Nebraska,8735.60
+2018,Nevada,409.50
+2018,New Hampshire,237.70
+2018,New Jersey,1064.30
+2018,New Mexico,1938.90
+2018,New York,3585.80
+2018,North Carolina,5883.50
+2018,North Dakota,4728.80
+2018,Ohio,5674.00
+2018,Oklahoma,4085.10
+2018,Oregon,5162.60
+2018,Pennsylvania,4355.60
+2018,Rhode Island,118.50
+2018,South Carolina,1416.30
+2018,South Dakota,5451.40
+2018,Tennessee,1810.20
+2018,Texas,14341.90
+2018,Utah,1276.10
+2018,Vermont,540.90
+2018,Virginia,2232.90
+2018,Washington,9764.50
+2018,West Virginia,424.70
+2018,Wisconsin,6682.70
+2018,Wyoming,976.90
+2018,New England,3007.80
+2018,Mideast,11161.60
+2018,Great Lakes,32183.30
+2018,Plains,51255.50
+2018,Southeast,42393.10
+2018,Southwest,23833.70
+2018,Rocky Mountain,13324.00
+2019,Far West,66002.90
+2019,United States,243607.00
+2019,Alabama,2618.10
+2019,Alaska,358.10
+2019,Arizona,3788.30
+2019,Arkansas,2649.40
+2019,California,51797.20
+2019,Colorado,4242.40
+2019,Connecticut,542.30
+2019,Delaware,739.80
+2019,District of Columbia,1.20
+2019,Florida,8325.40
+2019,Georgia,4918.00
+2019,Hawaii,573.00
+2019,Idaho,5926.50
+2019,Illinois,7431.50
+2019,Indiana,4909.70
+2019,Iowa,13370.10
+2019,Kansas,7314.30
+2019,Kentucky,3955.20
+2019,Louisiana,2119.90
+2019,Maine,977.40
+2019,Maryland,1374.80
+2019,Massachusetts,815.20
+2019,Michigan,4343.80
+2019,Minnesota,7913.50
+2019,Mississippi,2866.10
+2019,Missouri,4664.00
+2019,Montana,2856.20
+2019,Nebraska,9526.40
+2019,Nevada,558.20
+2019,New Hampshire,252.40
+2019,New Jersey,1291.40
+2019,New Mexico,2219.90
+2019,New York,4280.70
+2019,North Carolina,5470.60
+2019,North Dakota,4069.80
+2019,Ohio,4458.50
+2019,Oklahoma,4140.20
+2019,Oregon,5381.10
+2019,Pennsylvania,4893.00
+2019,Rhode Island,120.50
+2019,South Carolina,1331.30
+2019,South Dakota,5001.70
+2019,Tennessee,1918.80
+2019,Texas,13521.90
+2019,Utah,1510.20
+2019,Vermont,647.20
+2019,Virginia,2266.90
+2019,Washington,10099.80
+2019,West Virginia,448.60
+2019,Wisconsin,7182.40
+2019,Wyoming,1084.40
+2019,New England,3337.70
+2019,Mideast,12593.60
+2019,Great Lakes,28359.20
+2019,Plains,51881.50
+2019,Southeast,38988.70
+2019,Southwest,23723.30
+2019,Rocky Mountain,15623.40
+2019,Far West,68707.50

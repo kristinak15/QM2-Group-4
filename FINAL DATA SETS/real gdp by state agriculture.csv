@@ -1,0 +1,901 @@
+Year,State,Agri GDP
+2005,United States,196126
+2005,Alabama,3837
+2005,Alaska,417
+2005,Arizona,3019.6
+2005,Arkansas,4282.6
+2005,California,37673.3
+2005,Colorado,3253.3
+2005,Connecticut,565.5
+2005,Delaware,650
+2005,District of Columbia,0.7
+2005,Florida,8987.1
+2005,Georgia,5298.2
+2005,Hawaii,655.7
+2005,Idaho,3415.4
+2005,Illinois,3923.4
+2005,Indiana,3334.2
+2005,Iowa,7813.3
+2005,Kansas,5063.7
+2005,Kentucky,3410.9
+2005,Louisiana,1898.2
+2005,Maine,1027.1
+2005,Maryland,1211.4
+2005,Massachusetts,1054.6
+2005,Michigan,3481.6
+2005,Minnesota,6597.4
+2005,Mississippi,3305
+2005,Missouri,3948.8
+2005,Montana,1841.1
+2005,Nebraska,6412.1
+2005,Nevada,382.8
+2005,New Hampshire,225.1
+2005,New Jersey,1052.6
+2005,New Mexico,1910.1
+2005,New York,3218.1
+2005,North Carolina,6206.8
+2005,North Dakota,2300
+2005,Ohio,3570.8
+2005,Oklahoma,3637.4
+2005,Oregon,4863.9
+2005,Pennsylvania,4659.3
+2005,Rhode Island,145.4
+2005,South Carolina,1672.4
+2005,South Dakota,3017.3
+2005,Tennessee,2591.7
+2005,Texas,12684.8
+2005,Utah,865.4
+2005,Vermont,560.1
+2005,Virginia,2282.8
+2005,Washington,7025.1
+2005,West Virginia,394.8
+2005,Wisconsin,5300
+2005,Wyoming,652.6
+2005,New England,3551.2
+2005,Mideast,10791.6
+2005,Great Lakes,19609.1
+2005,Plains,35168
+2005,Southeast,44156.2
+2005,Southwest,21250.5
+2005,Rocky Mountain,10028.4
+2005,Far West,51015.8
+2006,United States,199349
+2006,Alabama,3185.2
+2006,Alaska,433.6
+2006,Arizona,2856.5
+2006,Arkansas,4254.1
+2006,California,37555.7
+2006,Colorado,3196
+2006,Connecticut,567.5
+2006,Delaware,543.2
+2006,District of Columbia,0.8
+2006,Florida,9590.7
+2006,Georgia,4776.9
+2006,Hawaii,711.3
+2006,Idaho,3675.8
+2006,Illinois,5885.3
+2006,Indiana,3949.5
+2006,Iowa,8183.8
+2006,Kansas,4284.1
+2006,Kentucky,3838.2
+2006,Louisiana,2159.9
+2006,Maine,1106
+2006,Maryland,1245.6
+2006,Massachusetts,1254.9
+2006,Michigan,4161
+2006,Minnesota,7448.1
+2006,Mississippi,2409.7
+2006,Missouri,4444.4
+2006,Montana,1483.2
+2006,Nebraska,5550.3
+2006,Nevada,420.9
+2006,New Hampshire,241.9
+2006,New Jersey,1238.3
+2006,New Mexico,1666.1
+2006,New York,3321.7
+2006,North Carolina,6294.1
+2006,North Dakota,2582.1
+2006,Ohio,3947.8
+2006,Oklahoma,3012.5
+2006,Oregon,5556.4
+2006,Pennsylvania,4755.1
+2006,Rhode Island,159.7
+2006,South Carolina,1707.2
+2006,South Dakota,2399.5
+2006,Tennessee,3201.3
+2006,Texas,11681.3
+2006,Utah,756.1
+2006,Vermont,493.7
+2006,Virginia,2126.6
+2006,Washington,7875.2
+2006,West Virginia,379.7
+2006,Wisconsin,5501
+2006,Wyoming,681.6
+2006,New England,3821.9
+2006,Mideast,11110.3
+2006,Great Lakes,23433.2
+2006,Plains,34920.5
+2006,Southeast,43899.2
+2006,Southwest,19225
+2006,Rocky Mountain,9796.1
+2006,Far West,52589.4
+2007,United States,176569
+2007,Alabama,2307.6
+2007,Alaska,368.7
+2007,Arizona,2616.4
+2007,Arkansas,3626
+2007,California,34372.3
+2007,Colorado,3013.7
+2007,Connecticut,464.5
+2007,Delaware,416.7
+2007,District of Columbia,0.3
+2007,Florida,7642.6
+2007,Georgia,4191.9
+2007,Hawaii,509.3
+2007,Idaho,3562.4
+2007,Illinois,6170.6
+2007,Indiana,3848.4
+2007,Iowa,8083.4
+2007,Kansas,4163.8
+2007,Kentucky,2560.1
+2007,Louisiana,1850.6
+2007,Maine,897.4
+2007,Maryland,954.5
+2007,Massachusetts,1041.8
+2007,Michigan,3307.1
+2007,Minnesota,5910.4
+2007,Mississippi,2301.3
+2007,Missouri,3615.8
+2007,Montana,1547
+2007,Nebraska,6071.1
+2007,Nevada,270.3
+2007,New Hampshire,191.6
+2007,New Jersey,973.1
+2007,New Mexico,1608.7
+2007,New York,3039.2
+2007,North Carolina,4701.3
+2007,North Dakota,3104.1
+2007,Ohio,3403.6
+2007,Oklahoma,2312.6
+2007,Oregon,4230.1
+2007,Pennsylvania,3904
+2007,Rhode Island,117.3
+2007,South Carolina,1207.3
+2007,South Dakota,3283.6
+2007,Tennessee,2209
+2007,Texas,10025.7
+2007,Utah,658
+2007,Vermont,504.8
+2007,Virginia,1649.4
+2007,Washington,7359.2
+2007,West Virginia,271.6
+2007,Wisconsin,5345.5
+2007,Wyoming,437
+2007,New England,3207.9
+2007,Mideast,9289.6
+2007,Great Lakes,22055.9
+2007,Plains,34242.4
+2007,Southeast,34510.8
+2007,Southwest,16575.4
+2007,Rocky Mountain,9221.3
+2007,Far West,47118.8
+2008,United States,180295
+2008,Alabama,2251.5
+2008,Alaska,415.6
+2008,Arizona,2007.3
+2008,Arkansas,3577.5
+2008,California,31667.9
+2008,Colorado,2678.1
+2008,Connecticut,473.6
+2008,Delaware,411.3
+2008,District of Columbia,0.1
+2008,Florida,6945.1
+2008,Georgia,4526.4
+2008,Hawaii,528.5
+2008,Idaho,3652.6
+2008,Illinois,8214.9
+2008,Indiana,4938
+2008,Iowa,9617.7
+2008,Kansas,4866.7
+2008,Kentucky,1875.3
+2008,Louisiana,1711.2
+2008,Maine,887.6
+2008,Maryland,1056.9
+2008,Massachusetts,1056.5
+2008,Michigan,3426.7
+2008,Minnesota,7978.1
+2008,Mississippi,2089.2
+2008,Missouri,4502
+2008,Montana,1721.6
+2008,Nebraska,6677.9
+2008,Nevada,357.2
+2008,New Hampshire,215.5
+2008,New Jersey,887.3
+2008,New Mexico,1467
+2008,New York,3355.1
+2008,North Carolina,4765.7
+2008,North Dakota,4025.2
+2008,Ohio,3409
+2008,Oklahoma,2544.7
+2008,Oregon,4214.4
+2008,Pennsylvania,3751.2
+2008,Rhode Island,131.6
+2008,South Carolina,1340.3
+2008,South Dakota,4098.7
+2008,Tennessee,2489.2
+2008,Texas,7798.6
+2008,Utah,660.9
+2008,Vermont,528.8
+2008,Virginia,1725.4
+2008,Washington,7010.3
+2008,West Virginia,309.6
+2008,Wisconsin,4678.2
+2008,Wyoming,553.9
+2008,New England,3283.3
+2008,Mideast,9460.9
+2008,Great Lakes,24646.6
+2008,Plains,41781.1
+2008,Southeast,33590.1
+2008,Southwest,13825
+2008,Rocky Mountain,9269.7
+2008,Far West,44213.7
+2009,United States,199976
+2009,Alabama,2808.8
+2009,Alaska,416.6
+2009,Arizona,1979.3
+2009,Arkansas,3408.6
+2009,California,37454.9
+2009,Colorado,3227.6
+2009,Connecticut,552.4
+2009,Delaware,640.7
+2009,District of Columbia,0.1
+2009,Florida,8172.8
+2009,Georgia,5238
+2009,Hawaii,720.6
+2009,Idaho,3416.6
+2009,Illinois,7816.7
+2009,Indiana,4963.4
+2009,Iowa,9764.6
+2009,Kansas,6356.7
+2009,Kentucky,2885.8
+2009,Louisiana,2226.4
+2009,Maine,951.2
+2009,Maryland,1319.2
+2009,Massachusetts,1208.3
+2009,Michigan,3523.6
+2009,Minnesota,7279.6
+2009,Mississippi,2484.5
+2009,Missouri,5110.6
+2009,Montana,1914.5
+2009,Nebraska,8075.1
+2009,Nevada,418.3
+2009,New Hampshire,213.7
+2009,New Jersey,1116.3
+2009,New Mexico,1364.4
+2009,New York,3200.1
+2009,North Carolina,6012.9
+2009,North Dakota,4213.5
+2009,Ohio,4816.2
+2009,Oklahoma,2130.7
+2009,Oregon,4421.9
+2009,Pennsylvania,3915.8
+2009,Rhode Island,139.8
+2009,South Carolina,1652.2
+2009,South Dakota,4745.5
+2009,Tennessee,2351.1
+2009,Texas,8514.8
+2009,Utah,586.4
+2009,Vermont,462.5
+2009,Virginia,2077.1
+2009,Washington,7902.3
+2009,West Virginia,326.8
+2009,Wisconsin,4440.7
+2009,Wyoming,693.3
+2009,New England,3526.6
+2009,Mideast,10193.8
+2009,Great Lakes,25546.2
+2009,Plains,45562.7
+2009,Southeast,39634.1
+2009,Southwest,14005.8
+2009,Rocky Mountain,9838.8
+2009,Far West,51319.8
+2010,United States,193856
+2010,Alabama,2447.2
+2010,Alaska,471.1
+2010,Arizona,2160.3
+2010,Arkansas,2753.6
+2010,California,36879.5
+2010,Colorado,3096.4
+2010,Connecticut,502.8
+2010,Delaware,520.3
+2010,District of Columbia,0.3
+2010,Florida,8042.4
+2010,Georgia,4030.5
+2010,Hawaii,648.4
+2010,Idaho,3538
+2010,Illinois,6664.9
+2010,Indiana,4425.8
+2010,Iowa,8894.8
+2010,Kansas,6256.8
+2010,Kentucky,2063.3
+2010,Louisiana,2277
+2010,Maine,972.4
+2010,Maryland,1087.4
+2010,Massachusetts,1264.7
+2010,Michigan,3835.9
+2010,Minnesota,7506.4
+2010,Mississippi,2603.2
+2010,Missouri,4299.5
+2010,Montana,1942.2
+2010,Nebraska,7750.4
+2010,Nevada,388.1
+2010,New Hampshire,204.9
+2010,New Jersey,962.9
+2010,New Mexico,1778.4
+2010,New York,3558.5
+2010,North Carolina,5460.6
+2010,North Dakota,3806.8
+2010,Ohio,4061.7
+2010,Oklahoma,2856.8
+2010,Oregon,3812.7
+2010,Pennsylvania,3951
+2010,Rhode Island,132.3
+2010,South Carolina,1520.8
+2010,South Dakota,3909.2
+2010,Tennessee,1619.3
+2010,Texas,12004.3
+2010,Utah,769.5
+2010,Vermont,511.8
+2010,Virginia,1803.8
+2010,Washington,7337.1
+2010,West Virginia,297.2
+2010,Wisconsin,5126.3
+2010,Wyoming,701.6
+2010,New England,3593.1
+2010,Mideast,10079.3
+2010,Great Lakes,24117.6
+2010,Plains,42434.7
+2010,Southeast,34944.8
+2010,Southwest,18805
+2010,Rocky Mountain,10048
+2011,Far West,49519.7
+2011,United States,186395
+2011,Alabama,1632.6
+2011,Alaska,543.1
+2011,Arizona,2482.2
+2011,Arkansas,2329.4
+2011,California,33687.5
+2011,Colorado,2889.4
+2011,Connecticut,387.3
+2011,Delaware,383
+2011,District of Columbia,0.3
+2011,Florida,6345.3
+2011,Georgia,3579.5
+2011,Hawaii,576.5
+2011,Idaho,3545.1
+2011,Illinois,8075.7
+2011,Indiana,4811.6
+2011,Iowa,11081.9
+2011,Kansas,6376.2
+2011,Kentucky,2229.3
+2011,Louisiana,1904.8
+2011,Maine,844.7
+2011,Maryland,985.8
+2011,Massachusetts,1007.1
+2011,Michigan,4309.5
+2011,Minnesota,7208.7
+2011,Mississippi,1847.1
+2011,Missouri,4169.6
+2011,Montana,1694.7
+2011,Nebraska,9840.8
+2011,Nevada,384.3
+2011,New Hampshire,190.5
+2011,New Jersey,840.1
+2011,New Mexico,1622.6
+2011,New York,3209.1
+2011,North Carolina,3951.2
+2011,North Dakota,3148.8
+2011,Ohio,4578.7
+2011,Oklahoma,2813.6
+2011,Oregon,3559
+2011,Pennsylvania,3682.6
+2011,Rhode Island,111.7
+2011,South Carolina,1160.1
+2011,South Dakota,5089.2
+2011,Tennessee,1757.9
+2011,Texas,8716.8
+2011,Utah,803.7
+2011,Vermont,497.5
+2011,Virginia,1828.3
+2011,Washington,7212.3
+2011,West Virginia,304.2
+2011,Wisconsin,5355
+2011,Wyoming,819.7
+2011,New England,3038.7
+2011,Mideast,9100.9
+2011,Great Lakes,27130.3
+2011,Plains,46916.2
+2011,Southeast,28869.9
+2011,Southwest,15636.2
+2011,Rocky Mountain,9752.5
+2012,Far West,45963
+2012,United States,179573
+2012,Alabama,1802.2
+2012,Alaska,497.5
+2012,Arizona,1903.9
+2012,Arkansas,2573.5
+2012,California,34377.2
+2012,Colorado,2559.7
+2012,Connecticut,409.3
+2012,Delaware,417
+2012,District of Columbia,0.4
+2012,Florida,6682.8
+2012,Georgia,4205.8
+2012,Hawaii,536.2
+2012,Idaho,3444.6
+2012,Illinois,5911.1
+2012,Indiana,4087.7
+2012,Iowa,10520.5
+2012,Kansas,5402.2
+2012,Kentucky,2112.1
+2012,Louisiana,2101.7
+2012,Maine,828.6
+2012,Maryland,1044
+2012,Massachusetts,1009.6
+2012,Michigan,3286.1
+2012,Minnesota,8746.5
+2012,Mississippi,1902.1
+2012,Missouri,3341.1
+2012,Montana,1834.4
+2012,Nebraska,7575.1
+2012,Nevada,294.8
+2012,New Hampshire,221.9
+2012,New Jersey,824.3
+2012,New Mexico,1416.4
+2012,New York,2872.8
+2012,North Carolina,4602.4
+2012,North Dakota,4959.3
+2012,Ohio,3762.9
+2012,Oklahoma,3057.5
+2012,Oregon,3690.4
+2012,Pennsylvania,3705
+2012,Rhode Island,102.5
+2012,South Carolina,1188.1
+2012,South Dakota,4278.6
+2012,Tennessee,1356.6
+2012,Texas,8217.6
+2012,Utah,718.3
+2012,Vermont,445.7
+2012,Virginia,1679.8
+2012,Washington,7291.4
+2012,West Virginia,264.6
+2012,Wisconsin,4945.8
+2012,Wyoming,562.4
+2012,New England,3017.7
+2012,Mideast,8863.5
+2012,Great Lakes,21993.6
+2012,Plains,44823.2
+2012,Southeast,30471.5
+2012,Southwest,14595.4
+2012,Rocky Mountain,9119.4
+2013,Far West,46687.6
+2013,United States,209388
+2013,Alabama,3018.8
+2013,Alaska,486.9
+2013,Arizona,2287.3
+2013,Arkansas,3761.1
+2013,California,36815.4
+2013,Colorado,2587.1
+2013,Connecticut,415
+2013,Delaware,565.5
+2013,District of Columbia,0.4
+2013,Florida,6229.1
+2013,Georgia,4263.8
+2013,Hawaii,504.3
+2013,Idaho,3691.2
+2013,Illinois,10610.3
+2013,Indiana,7088.1
+2013,Iowa,12566.7
+2013,Kansas,7111.2
+2013,Kentucky,3798.7
+2013,Louisiana,2311
+2013,Maine,799.1
+2013,Maryland,1219.4
+2013,Massachusetts,858.8
+2013,Michigan,3829.3
+2013,Minnesota,8508.9
+2013,Mississippi,3202.8
+2013,Missouri,4651.6
+2013,Montana,2081.1
+2013,Nebraska,9876.1
+2013,Nevada,302
+2013,New Hampshire,221.6
+2013,New Jersey,776.8
+2013,New Mexico,1384.5
+2013,New York,3232.4
+2013,North Carolina,5082.3
+2013,North Dakota,3470.1
+2013,Ohio,4890.3
+2013,Oklahoma,2980.7
+2013,Oregon,3879.9
+2013,Pennsylvania,4023.2
+2013,Rhode Island,97.5
+2013,South Carolina,1415.7
+2013,South Dakota,5182.7
+2013,Tennessee,2042.4
+2013,Texas,10581.6
+2013,Utah,945
+2013,Vermont,490.6
+2013,Virginia,1880.1
+2013,Washington,7062.3
+2013,West Virginia,317.5
+2013,Wisconsin,5276.7
+2013,Wyoming,700
+2013,New England,2882.1
+2013,Mideast,9817.5
+2013,Great Lakes,31693.4
+2013,Plains,51368.3
+2013,Southeast,37322.5
+2013,Southwest,17235
+2013,Rocky Mountain,10004.3
+2014,Far West,49050.3
+2014,United States,211758
+2014,Alabama,2630.9
+2014,Alaska,456.5
+2014,Arizona,2220.8
+2014,Arkansas,3557
+2014,California,42489.2
+2014,Colorado,2878
+2014,Connecticut,371.6
+2014,Delaware,689.6
+2014,District of Columbia,0.4
+2014,Florida,6652.7
+2014,Georgia,3963.2
+2014,Hawaii,496.8
+2014,Idaho,4221.4
+2014,Illinois,8332.2
+2014,Indiana,5768.1
+2014,Iowa,12102.2
+2014,Kansas,5334.5
+2014,Kentucky,3320
+2014,Louisiana,2049.5
+2014,Maine,823.3
+2014,Maryland,1182.5
+2014,Massachusetts,692.1
+2014,Michigan,3678.5
+2014,Minnesota,7896.8
+2014,Mississippi,2672.9
+2014,Missouri,5449.6
+2014,Montana,2213
+2014,Nebraska,9408.3
+2014,Nevada,416.1
+2014,New Hampshire,227.3
+2014,New Jersey,786.3
+2014,New Mexico,1709.7
+2014,New York,3622.1
+2014,North Carolina,5822.6
+2014,North Dakota,3231.5
+2014,Ohio,4652.9
+2014,Oklahoma,3660
+2014,Oregon,4174.2
+2014,Pennsylvania,4829.9
+2014,Rhode Island,97.2
+2014,South Carolina,1138
+2014,South Dakota,4632.5
+2014,Tennessee,1718.4
+2014,Texas,11000
+2014,Utah,1121.7
+2014,Vermont,605.5
+2014,Virginia,2030
+2014,Washington,7367.7
+2014,West Virginia,354.3
+2014,Wisconsin,6047.8
+2014,Wyoming,810.4
+2014,New England,2811.7
+2014,Mideast,11110.6
+2014,Great Lakes,28486.9
+2014,Plains,48059
+2014,Southeast,35917.2
+2014,Southwest,18585.4
+2014,Rocky Mountain,11244.5
+2015,Far West,55389
+2015,United States,227217
+2015,Alabama,3261.2
+2015,Alaska,426.3
+2015,Arizona,2833.8
+2015,Arkansas,3509
+2015,California,45749.7
+2015,Colorado,3521
+2015,Connecticut,463.1
+2015,Delaware,631.6
+2015,District of Columbia,0.5
+2015,Florida,8198.4
+2015,Georgia,5395.8
+2015,Hawaii,607.7
+2015,Idaho,4567.7
+2015,Illinois,5696.3
+2015,Indiana,4771.1
+2015,Iowa,11952.7
+2015,Kansas,5399.4
+2015,Kentucky,3704.8
+2015,Louisiana,1979
+2015,Maine,984.8
+2015,Maryland,1207.5
+2015,Massachusetts,766.6
+2015,Michigan,4040.8
+2015,Minnesota,8147.1
+2015,Mississippi,2721.1
+2015,Missouri,4096.8
+2015,Montana,2550.1
+2015,Nebraska,10449
+2015,Nevada,395.1
+2015,New Hampshire,264.7
+2015,New Jersey,1013.4
+2015,New Mexico,1686.2
+2015,New York,3361.4
+2015,North Carolina,6299.4
+2015,North Dakota,3389.6
+2015,Ohio,3872.6
+2015,Oklahoma,4003.9
+2015,Oregon,4813.8
+2015,Pennsylvania,4530.8
+2015,Rhode Island,118
+2015,South Carolina,1268.2
+2015,South Dakota,4871.7
+2015,Tennessee,2078.8
+2015,Texas,15607.4
+2015,Utah,1281.4
+2015,Vermont,546.6
+2015,Virginia,2207.5
+2015,Washington,9405.3
+2015,West Virginia,386.3
+2015,Wisconsin,6745.8
+2015,Wyoming,913.4
+2015,New England,3145.9
+2015,Mideast,10754.2
+2015,Great Lakes,25162.8
+2015,Plains,48297.1
+2015,Southeast,41049.1
+2015,Southwest,24148.4
+2015,Rocky Mountain,12833.4
+2016,Far West,61396
+2016,United States,238834
+2016,Alabama,2835.1
+2016,Alaska,371.8
+2016,Arizona,3552.8
+2016,Arkansas,3444.4
+2016,California,50398.8
+2016,Colorado,3826.8
+2016,Connecticut,462.6
+2016,Delaware,656.4
+2016,District of Columbia,0.8
+2016,Florida,8251.4
+2016,Georgia,5203.7
+2016,Hawaii,613
+2016,Idaho,5084
+2016,Illinois,8842.2
+2016,Indiana,5514.3
+2016,Iowa,11715.4
+2016,Kansas,7109
+2016,Kentucky,3630.1
+2016,Louisiana,2123.1
+2016,Maine,965.4
+2016,Maryland,1278.7
+2016,Massachusetts,741.2
+2016,Michigan,4088.4
+2016,Minnesota,7715.5
+2016,Mississippi,2711.6
+2016,Missouri,4970.2
+2016,Montana,2687.3
+2016,Nebraska,10695.2
+2016,Nevada,378.3
+2016,New Hampshire,258
+2016,New Jersey,1156.1
+2016,New Mexico,2102.8
+2016,New York,3590.5
+2016,North Carolina,6323.6
+2016,North Dakota,4280.8
+2016,Ohio,3998.2
+2016,Oklahoma,3703.3
+2016,Oregon,5390.8
+2016,Pennsylvania,4145.3
+2016,Rhode Island,120.5
+2016,South Carolina,1361.6
+2016,South Dakota,4925.3
+2016,Tennessee,1899.7
+2016,Texas,13584
+2016,Utah,1224.8
+2016,Vermont,581.9
+2016,Virginia,2183.4
+2016,Washington,9700.5
+2016,West Virginia,392.4
+2016,Wisconsin,6608
+2016,Wyoming,966.7
+2016,New England,3123.9
+2016,Mideast,10838.3
+2016,Great Lakes,29043.3
+2016,Plains,51430.8
+2016,Southeast,40423.2
+2016,Southwest,22999.9
+2016,Rocky Mountain,13793.4
+2017,Far West,66822.3
+2017,United States,233675
+2017,Alabama,3110.3
+2017,Alaska,361.9
+2017,Arizona,3272.4
+2017,Arkansas,3939
+2017,California,49666.9
+2017,Colorado,3166.9
+2017,Connecticut,461
+2017,Delaware,837.6
+2017,District of Columbia,1.2
+2017,Florida,8226.6
+2017,Georgia,5527.2
+2017,Hawaii,624.6
+2017,Idaho,4353.5
+2017,Illinois,8185.1
+2017,Indiana,5340.4
+2017,Iowa,11868
+2017,Kansas,5588
+2017,Kentucky,3980.8
+2017,Louisiana,2147.6
+2017,Maine,937
+2017,Maryland,1391.8
+2017,Massachusetts,759.4
+2017,Michigan,4187.2
+2017,Minnesota,7925.4
+2017,Mississippi,3409.2
+2017,Missouri,4705.2
+2017,Montana,1907.9
+2017,Nebraska,7815.3
+2017,Nevada,395.2
+2017,New Hampshire,259.5
+2017,New Jersey,1095.2
+2017,New Mexico,1962.3
+2017,New York,3777.7
+2017,North Carolina,6820
+2017,North Dakota,4136.3
+2017,Ohio,4730.7
+2017,Oklahoma,3863.4
+2017,Oregon,4681.5
+2017,Pennsylvania,4664.8
+2017,Rhode Island,121.5
+2017,South Carolina,1439.1
+2017,South Dakota,4594.3
+2017,Tennessee,1924.1
+2017,Texas,13851.6
+2017,Utah,1188.4
+2017,Vermont,564.9
+2017,Virginia,2362.8
+2017,Washington,9091.6
+2017,West Virginia,450.9
+2017,Wisconsin,6403.2
+2017,Wyoming,875.3
+2017,New England,3101.2
+2017,Mideast,11767.1
+2017,Great Lakes,28864.3
+2017,Plains,46659.3
+2017,Southeast,43364.7
+2017,Southwest,22987.6
+2017,Rocky Mountain,11492.9
+2018,Far West,64753.6
+2018,United States,243393
+2018,Alabama,3281.3
+2018,Alaska,342.2
+2018,Arizona,3427.4
+2018,Arkansas,3951.9
+2018,California,49827.1
+2018,Colorado,3498.7
+2018,Connecticut,458.3
+2018,Delaware,899.5
+2018,District of Columbia,1.1
+2018,Florida,8146.4
+2018,Georgia,5522.1
+2018,Hawaii,544.4
+2018,Idaho,5026.7
+2018,Illinois,9565
+2018,Indiana,5839.1
+2018,Iowa,13404.3
+2018,Kansas,6340.3
+2018,Kentucky,3947.1
+2018,Louisiana,2263.7
+2018,Maine,922.9
+2018,Maryland,1259.3
+2018,Massachusetts,731.6
+2018,Michigan,4410
+2018,Minnesota,8086.5
+2018,Mississippi,3455.7
+2018,Missouri,4497
+2018,Montana,2543.6
+2018,Nebraska,8735.6
+2018,Nevada,409.5
+2018,New Hampshire,237.7
+2018,New Jersey,1064.3
+2018,New Mexico,1938.9
+2018,New York,3585.8
+2018,North Carolina,5883.5
+2018,North Dakota,4728.8
+2018,Ohio,5674
+2018,Oklahoma,4085.1
+2018,Oregon,5162.6
+2018,Pennsylvania,4355.6
+2018,Rhode Island,118.5
+2018,South Carolina,1416.3
+2018,South Dakota,5451.4
+2018,Tennessee,1810.2
+2018,Texas,14341.9
+2018,Utah,1276.1
+2018,Vermont,540.9
+2018,Virginia,2232.9
+2018,Washington,9764.5
+2018,West Virginia,424.7
+2018,Wisconsin,6682.7
+2018,Wyoming,976.9
+2018,New England,3007.8
+2018,Mideast,11161.6
+2018,Great Lakes,32183.3
+2018,Plains,51255.5
+2018,Southeast,42393.1
+2018,Southwest,23833.7
+2018,Rocky Mountain,13324
+2018,Far West,66002.9
+2019,United States,243607
+2019,Alabama,2618.1
+2019,Alaska,358.1
+2019,Arizona,3788.3
+2019,Arkansas,2649.4
+2019,California,51797.2
+2019,Colorado,4242.4
+2019,Connecticut,542.3
+2019,Delaware,739.8
+2019,District of Columbia,1.2
+2019,Florida,8325.4
+2019,Georgia,4918
+2019,Hawaii,573
+2019,Idaho,5926.5
+2019,Illinois,7431.5
+2019,Indiana,4909.7
+2019,Iowa,13370.1
+2019,Kansas,7314.3
+2019,Kentucky,3955.2
+2019,Louisiana,2119.9
+2019,Maine,977.4
+2019,Maryland,1374.8
+2019,Massachusetts,815.2
+2019,Michigan,4343.8
+2019,Minnesota,7913.5
+2019,Mississippi,2866.1
+2019,Missouri,4664
+2019,Montana,2856.2
+2019,Nebraska,9526.4
+2019,Nevada,558.2
+2019,New Hampshire,252.4
+2019,New Jersey,1291.4
+2019,New Mexico,2219.9
+2019,New York,4280.7
+2019,North Carolina,5470.6
+2019,North Dakota,4069.8
+2019,Ohio,4458.5
+2019,Oklahoma,4140.2
+2019,Oregon,5381.1
+2019,Pennsylvania,4893
+2019,Rhode Island,120.5
+2019,South Carolina,1331.3
+2019,South Dakota,5001.7
+2019,Tennessee,1918.8
+2019,Texas,13521.9
+2019,Utah,1510.2
+2019,Vermont,647.2
+2019,Virginia,2266.9
+2019,Washington,10099.8
+2019,West Virginia,448.6
+2019,Wisconsin,7182.4
+2019,Wyoming,1084.4
+2019,New England,3337.7
+2019,Mideast,12593.6
+2019,Great Lakes,28359.2
+2019,Plains,51881.5
+2019,Southeast,38988.7
+2019,Southwest,23723.3
+2019,Rocky Mountain,15623.4
+2019,Far West,68707.5

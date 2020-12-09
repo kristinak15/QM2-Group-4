@@ -14,7 +14,7 @@ Ines: twitter API data, NLP analysis, finish literature review
 Maddy:
 Pia:
 Gabriel: Understand how Python produce choropleth maps, start producing map drafts, finalise choropleth and maybe other types of visualisations such as sunbursts or slopegraphs. I will need help for this.
-Kristina:
+Kristina: normalise GDP (done), add more variables to regression y= Agricultural GDP, x=Total crop, GM corn, exports, employment, wage (in progress), finalise all regression visualisations and timeseries, start making choropleth map
 
 Week 10 (14th Dec)
 Objectives: Finish all visualisations and data analysis, start write up

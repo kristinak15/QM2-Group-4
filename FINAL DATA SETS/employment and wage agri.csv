@@ -1,0 +1,916 @@
+﻿Year,ST,STATE,OCC_TITLE,TOT_EMP,H_MEAN,A_MEAN,H_MEDIAN,A_MEDIAN,JOBS_1000
+2005,AL,Alabama,"Farm, ranch, and other agricultural managers",50,24,49100,23,46990,
+2005,AL,Alabama,"Agricultural workers, all other",110,12,25910,10,21060,
+2005,AZ,Arizona,"Agricultural workers, all other",**,12,25340,11,23000,
+2005,AR,Arkansas,"Farm, ranch, and other agricultural managers",50,25,52940,24,50800,
+2005,AR,Arkansas,"Agricultural workers, all other",250,8,17360,8,16350,
+2005,CA,California,"Farm, ranch, and other agricultural managers",630,29,59450,25,52380,
+2005,CA,California,"Agricultural workers, all other",2250,12,24640,12,24030,
+2005,CO,Colorado,"Farm, ranch, and other agricultural managers",70,29,59490,23,47780,
+2005,CO,Colorado,"Agricultural workers, all other",100,11,22320,9,19140,
+2005,CT,Connecticut,"Farm, ranch, and other agricultural managers",50,37,76620,28,58130,
+2005,CT,Connecticut,"Agricultural workers, all other",100,12,24540,9,19530,
+2005,FL,Florida,"Farm, ranch, and other agricultural managers",130,41,85580,36,75080,
+2005,FL,Florida,"Agricultural workers, all other",100,10,19970,8,16490,
+2005,GA,Georgia,"Farm, ranch, and other agricultural managers",50,26,54810,28,57780,
+2005,GA,Georgia,"Agricultural workers, all other",320,9,17920,8,16730,
+2005,ID,Idaho,"Farm, ranch, and other agricultural managers",160,20,42010,18,36950,
+2005,ID,Idaho,"Agricultural workers, all other",520,10,21370,10,20450,
+2005,IL,Illinois,"Farm, ranch, and other agricultural managers",**,24,49960,26,53770,
+2005,IL,Illinois,"Agricultural workers, all other",250,13,27860,12,24710,
+2005,IN,Indiana,"Farm, ranch, and other agricultural managers",50,*,*,*,*,
+2005,IN,Indiana,"Agricultural workers, all other",**,18,37360,17,35310,
+2005,IA,Iowa,"Farm, ranch, and other agricultural managers",240,29,61200,25,51460,
+2005,IA,Iowa,"Agricultural workers, all other",310,*,*,*,*,
+2005,KS,Kansas,"Farm, ranch, and other agricultural managers",80,27,55910,29,60160,
+2005,KS,Kansas,"Agricultural workers, all other",60,10,20920,8,17460,
+2005,KY,Kentucky,"Farm, ranch, and other agricultural managers",70,26,53260,21,44600,
+2005,LA,Louisiana,"Farm, ranch, and other agricultural managers",60,25,52180,24,50930,
+2005,LA,Louisiana,"Agricultural workers, all other",270,12,25190,12,23980,
+2005,MD,Maryland,"Farm, ranch, and other agricultural managers",50,31,63460,29,60910,
+2005,MD,Maryland,"Agricultural workers, all other",70,16,33270,13,27840,
+2005,MA,Massachusetts,"Farm, ranch, and other agricultural managers",**,19,38610,18,37130,
+2005,MI,Michigan,"Agricultural workers, all other",290,12,24840,10,21220,
+2005,MN,Minnesota,"Agricultural workers, all other",330,11,22500,10,20940,
+2005,MS,Mississippi,"Farm, ranch, and other agricultural managers",30,20,40910,20,41260,
+2005,MS,Mississippi,"Agricultural workers, all other",80,9,17820,7,14050,
+2005,MO,Missouri,"Farm, ranch, and other agricultural managers",50,30,62360,26,54610,
+2005,MT,Montana,"Farm, ranch, and other agricultural managers",30,18,37960,13,27590,
+2005,MT,Montana,"Agricultural workers, all other",**,9,17990,8,16390,
+2005,NE,Nebraska,"Farm, ranch, and other agricultural managers",**,21,43030,20,41230,
+2005,NE,Nebraska,"Agricultural workers, all other",150,8,17480,8,17050,
+2005,NV,Nevada,"Agricultural workers, all other",60,19,40010,18,38180,
+2005,NJ,New Jersey,"Farm, ranch, and other agricultural managers",50,40,82200,32,65920,
+2005,NJ,New Jersey,"Agricultural workers, all other",40,11,23590,11,22890,
+2005,NM,New Mexico,"Farm, ranch, and other agricultural managers",30,20,41190,19,39710,
+2005,NM,New Mexico,"Agricultural workers, all other",50,8,17330,9,18410,
+2005,NY,New York,"Farm, ranch, and other agricultural managers",60,38,79270,33,68020,
+2005,NY,New York,"Agricultural workers, all other",100,16,32860,16,34180,
+2005,NC,North Carolina,"Farm, ranch, and other agricultural managers",60,20,41400,19,40150,
+2005,NC,North Carolina,"Agricultural workers, all other",160,14,29380,15,30960,
+2005,ND,North Dakota,"Agricultural workers, all other",**,10,20710,10,20730,
+2005,OH,Ohio,"Farm, ranch, and other agricultural managers",30,28,57290,22,45550,
+2005,OH,Ohio,"Agricultural workers, all other",60,13,26600,12,24650,
+2005,OK,Oklahoma,"Farm, ranch, and other agricultural managers",120,24,50020,20,42610,
+2005,OK,Oklahoma,"Agricultural workers, all other",80,9,18650,8,16810,
+2005,OR,Oregon,"Farm, ranch, and other agricultural managers",**,29,60510,27,55880,
+2005,OR,Oregon,"Agricultural workers, all other",130,13,26360,13,27010,
+2005,PA,Pennsylvania,"Agricultural workers, all other",50,12,24310,10,21310,
+2005,SC,South Carolina,"Farm, ranch, and other agricultural managers",40,23,47480,24,49980,
+2005,SC,South Carolina,"Agricultural workers, all other",270,10,20380,9,19700,
+2005,TN,Tennessee,"Farm, ranch, and other agricultural managers",30,18,36610,18,37490,
+2005,TN,Tennessee,"Agricultural workers, all other",100,11,22150,11,22210,
+2005,TX,Texas,"Farm, ranch, and other agricultural managers",210,20,41250,20,41300,
+2005,TX,Texas,"Agricultural workers, all other",120,8,16090,7,15520,
+2005,UT,Utah,"Farm, ranch, and other agricultural managers",40,32,66440,31,63970,
+2005,UT,Utah,"Agricultural workers, all other",**,13,26160,11,22670,
+2005,VA,Virginia,"Farm, ranch, and other agricultural managers",50,27,55860,29,61050,
+2005,VA,Virginia,"Agricultural workers, all other",120,10,20280,9,19600,
+2005,WA,Washington,"Farm, ranch, and other agricultural managers",70,36,74260,33,67800,
+2005,WA,Washington,"Agricultural workers, all other",800,15,30250,15,30560,
+2005,WV,West Virginia,"Farm, ranch, and other agricultural managers",30,19,39590,17,36000,
+2005,WI,Wisconsin,"Farm, ranch, and other agricultural managers",30,28,57190,28,59160,
+2005,WI,Wisconsin,"Agricultural workers, all other",230,11,22290,10,20350,
+2005,WY,Wyoming,"Agricultural workers, all other",110,14,28230,11,22580,
+2005,PR,Puerto Rico,"Agricultural workers, all other",**,7,14340,6,12840,
+2006,AL,Alabama,"Farm, ranch, and other agricultural managers",30,24,49820,22,45280,
+2006,AL,Alabama,"Agricultural workers, all other",120,10,20470,8,17370,
+2006,AK,Alaska,"Agricultural workers, all other",**,14,30130,15,30270,
+2006,AZ,Arizona,"Farm, ranch, and other agricultural managers",100,36,74460,35,73500,
+2006,AZ,Arizona,"Agricultural workers, all other",**,14,29900,13,27880,
+2006,AR,Arkansas,"Farm, ranch, and other agricultural managers",60,28,59260,29,60220,
+2006,AR,Arkansas,"Agricultural workers, all other",190,10,20310,9,17870,
+2006,CA,California,"Farm, ranch, and other agricultural managers",590,30,62170,27,56730,
+2006,CA,California,"Agricultural workers, all other",2350,13,26650,12,24190,
+2006,CO,Colorado,"Farm, ranch, and other agricultural managers",60,29,60630,21,43210,
+2006,CO,Colorado,"Agricultural workers, all other",90,12,25940,11,22910,
+2006,CT,Connecticut,"Farm, ranch, and other agricultural managers",40,41,84780,29,59520,
+2006,CT,Connecticut,"Agricultural workers, all other",90,13,27630,10,19770,
+2006,FL,Florida,"Farm, ranch, and other agricultural managers",160,43,89530,49,101450,
+2006,FL,Florida,"Agricultural workers, all other",250,8,17500,7,14860,
+2006,GA,Georgia,"Agricultural workers, all other",240,9,19300,9,18820,
+2006,ID,Idaho,"Farm, ranch, and other agricultural managers",160,27,56430,25,51710,
+2006,ID,Idaho,"Agricultural workers, all other",400,12,24330,12,24020,
+2006,IL,Illinois,"Farm, ranch, and other agricultural managers",**,18,37070,21,42920,
+2006,IL,Illinois,"Agricultural workers, all other",120,18,36650,15,31230,
+2006,IN,Indiana,"Farm, ranch, and other agricultural managers",40,22,46420,21,43960,
+2006,IA,Iowa,"Farm, ranch, and other agricultural managers",110,25,52090,24,49070,
+2006,IA,Iowa,"Agricultural workers, all other",430,14,29810,10,21760,
+2006,KS,Kansas,"Farm, ranch, and other agricultural managers",70,28,57540,28,57780,
+2006,KS,Kansas,"Agricultural workers, all other",50,11,23160,9,19480,
+2006,KY,Kentucky,"Farm, ranch, and other agricultural managers",110,27,55550,23,47920,
+2006,LA,Louisiana,"Farm, ranch, and other agricultural managers",60,28,58690,27,56680,
+2006,LA,Louisiana,"Agricultural workers, all other",300,13,27900,12,24080,
+2006,MD,Maryland,"Agricultural workers, all other",70,17,34910,15,30480,
+2006,MA,Massachusetts,"Farm, ranch, and other agricultural managers",60,18,38290,18,37140,
+2006,MI,Michigan,"Agricultural workers, all other",220,14,30010,11,22270,
+2006,MN,Minnesota,"Agricultural workers, all other",240,10,19770,9,18700,
+2006,MS,Mississippi,"Farm, ranch, and other agricultural managers",40,27,55220,25,51570,
+2006,MO,Missouri,"Farm, ranch, and other agricultural managers",50,35,71850,27,56320,
+2006,MO,Missouri,"Agricultural workers, all other",**,11,22360,10,21260,
+2006,MT,Montana,"Agricultural workers, all other",**,12,24220,8,17430,
+2006,NE,Nebraska,"Farm, ranch, and other agricultural managers",**,25,52670,21,43560,
+2006,NE,Nebraska,"Agricultural workers, all other",70,13,26660,11,22920,
+2006,NV,Nevada,"Agricultural workers, all other",40,18,36790,18,37170,
+2006,NJ,New Jersey,"Farm, ranch, and other agricultural managers",30,34,71590,34,71660,
+2006,NM,New Mexico,"Farm, ranch, and other agricultural managers",30,23,47790,22,46520,
+2006,NM,New Mexico,"Agricultural workers, all other",50,9,18290,9,18290,
+2006,NY,New York,"Farm, ranch, and other agricultural managers",60,37,76010,32,67540,
+2006,NY,New York,"Agricultural workers, all other",90,16,32300,15,31260,
+2006,NC,North Carolina,"Farm, ranch, and other agricultural managers",50,18,38150,19,39650,
+2006,NC,North Carolina,"Agricultural workers, all other",120,12,24360,9,18740,
+2006,ND,North Dakota,"Agricultural workers, all other",70,11,23280,11,22100,
+2006,OH,Ohio,"Farm, ranch, and other agricultural managers",40,28,57460,24,49640,
+2006,OH,Ohio,"Agricultural workers, all other",**,10,21340,7,15060,
+2006,OK,Oklahoma,"Agricultural workers, all other",**,10,21660,9,17960,
+2006,OR,Oregon,"Farm, ranch, and other agricultural managers",90,23,47760,23,47480,
+2006,OR,Oregon,"Agricultural workers, all other",280,9,19000,8,15870,
+2006,PA,Pennsylvania,"Farm, ranch, and other agricultural managers",100,25,51000,24,49920,
+2006,PA,Pennsylvania,"Agricultural workers, all other",60,12,24150,10,21460,
+2006,SC,South Carolina,"Agricultural workers, all other",290,10,20610,9,19440,
+2006,SD,South Dakota,"Farm, ranch, and other agricultural managers",**,21,43850,18,37890,
+2006,TN,Tennessee,"Agricultural workers, all other",220,10,20870,10,20910,
+2006,TX,Texas,"Farm, ranch, and other agricultural managers",150,21,42850,20,41520,
+2006,TX,Texas,"Agricultural workers, all other",**,9,17890,7,13930,
+2006,UT,Utah,"Farm, ranch, and other agricultural managers",40,31,65090,30,62550,
+2006,VA,Virginia,"Agricultural workers, all other",120,10,21590,10,20210,
+2006,WA,Washington,"Farm, ranch, and other agricultural managers",70,39,81490,39,81420,
+2006,WA,Washington,"Agricultural workers, all other",620,13,27340,13,26650,
+2006,WV,West Virginia,"Farm, ranch, and other agricultural managers",30,19,39430,18,36480,
+2006,WI,Wisconsin,"Farm, ranch, and other agricultural managers",30,29,59340,29,61120,
+2006,WI,Wisconsin,"Agricultural workers, all other",120,13,26130,13,26090,
+2006,WY,Wyoming,"Agricultural workers, all other",100,14,28340,9,19080,
+2006,PR,Puerto Rico,"Agricultural workers, all other",30,8,15870,7,14150,
+2007,AL,Alabama,"Agricultural workers, all other",110,11,21890,9,17840,
+2007,AZ,Arizona,"Farm, ranch, and other agricultural managers",90,34,71220,28,58530,
+2007,AZ,Arizona,"Agricultural workers, all other",150,13,26140,11,22530,
+2007,AR,Arkansas,"Farm, ranch, and other agricultural managers",90,27,55650,27,55920,
+2007,AR,Arkansas,"Agricultural workers, all other",150,10,20170,8,17360,
+2007,CA,California,"Farm, ranch, and other agricultural managers",830,34,69770,30,61890,
+2007,CA,California,"Agricultural workers, all other",2430,14,29980,14,29180,
+2007,CO,Colorado,"Farm, ranch, and other agricultural managers",70,32,66440,34,71490,
+2007,CO,Colorado,"Agricultural workers, all other",80,15,30180,15,30190,
+2007,CT,Connecticut,"Agricultural workers, all other",90,17,36250,17,35170,
+2007,FL,Florida,"Farm, ranch, and other agricultural managers",140,43,89840,45,94600,
+2007,FL,Florida,"Agricultural workers, all other",120,10,21480,8,17520,
+2007,GA,Georgia,"Agricultural workers, all other",280,9,19420,9,19210,
+2007,ID,Idaho,"Farm, ranch, and other agricultural managers",130,26,54740,26,53530,
+2007,ID,Idaho,"Agricultural workers, all other",300,13,26100,13,25990,
+2007,IL,Illinois,"Farm, ranch, and other agricultural managers",**,21,43190,24,49530,
+2007,IL,Illinois,"Agricultural workers, all other",70,19,38760,17,35650,
+2007,IN,Indiana,"Farm, ranch, and other agricultural managers",80,26,54250,25,51030,
+2007,IN,Indiana,"Agricultural workers, all other",40,14,29530,9,19100,
+2007,IA,Iowa,"Farm, ranch, and other agricultural managers",70,23,47200,19,40310,
+2007,IA,Iowa,"Agricultural workers, all other",810,14,29470,12,24360,
+2007,KS,Kansas,"Farm, ranch, and other agricultural managers",40,28,57440,25,52420,
+2007,KS,Kansas,"Agricultural workers, all other",60,11,23500,10,19800,
+2007,KY,Kentucky,"Farm, ranch, and other agricultural managers",110,23,47100,19,39060,
+2007,KY,Kentucky,"Agricultural workers, all other",50,9,18200,7,15310,
+2007,LA,Louisiana,"Farm, ranch, and other agricultural managers",50,27,56810,26,54930,
+2007,LA,Louisiana,"Agricultural workers, all other",220,14,28200,13,26080,
+2007,MD,Maryland,"Agricultural workers, all other",50,19,39530,18,38020,
+2007,MA,Massachusetts,"Farm, ranch, and other agricultural managers",**,19,40100,18,38240,
+2007,MI,Michigan,"Farm, ranch, and other agricultural managers",70,26,54870,26,53570,
+2007,MI,Michigan,"Agricultural workers, all other",80,20,40830,21,42760,
+2007,MN,Minnesota,"Agricultural workers, all other",360,11,22990,10,21320,
+2007,MS,Mississippi,"Farm, ranch, and other agricultural managers",**,21,44310,20,42410,
+2007,MO,Missouri,"Farm, ranch, and other agricultural managers",40,36,74530,27,55770,
+2007,MO,Missouri,"Agricultural workers, all other",**,11,23120,11,22570,
+2007,MT,Montana,"Agricultural workers, all other",**,12,25010,9,18530,
+2007,NE,Nebraska,"Farm, ranch, and other agricultural managers",**,27,55530,22,45550,
+2007,NE,Nebraska,"Agricultural workers, all other",**,14,29200,12,24840,
+2007,NV,Nevada,"Agricultural workers, all other",30,20,41440,20,41510,
+2007,NJ,New Jersey,"Farm, ranch, and other agricultural managers",40,25,52650,24,50220,
+2007,NM,New Mexico,"Farm, ranch, and other agricultural managers",30,25,52230,26,53610,
+2007,NM,New Mexico,"Agricultural workers, all other",50,9,19010,8,17560,
+2007,NY,New York,"Farm, ranch, and other agricultural managers",70,36,75330,32,66360,
+2007,NY,New York,"Agricultural workers, all other",130,14,29530,14,28440,
+2007,NC,North Carolina,"Agricultural workers, all other",90,11,23650,9,19220,
+2007,ND,North Dakota,"Agricultural workers, all other",140,11,23700,11,23160,
+2007,OH,Ohio,"Farm, ranch, and other agricultural managers",40,27,55970,25,51860,
+2007,OH,Ohio,"Agricultural workers, all other",80,9,19730,8,15920,
+2007,OK,Oklahoma,"Farm, ranch, and other agricultural managers",60,29,60660,33,68330,
+2007,OK,Oklahoma,"Agricultural workers, all other",40,9,18390,8,17610,
+2007,OR,Oregon,"Farm, ranch, and other agricultural managers",50,29,60700,30,61770,
+2007,OR,Oregon,"Agricultural workers, all other",270,10,20430,8,17340,
+2007,PA,Pennsylvania,"Farm, ranch, and other agricultural managers",**,29,59630,23,48240,
+2007,PA,Pennsylvania,"Agricultural workers, all other",220,13,26640,13,26410,
+2007,SC,South Carolina,"Agricultural workers, all other",70,11,23810,9,19720,
+2007,SD,South Dakota,"Farm, ranch, and other agricultural managers",**,22,45110,19,39320,
+2007,TN,Tennessee,"Farm, ranch, and other agricultural managers",50,33,68960,27,56150,
+2007,TN,Tennessee,"Agricultural workers, all other",70,11,23810,12,25170,
+2007,TX,Texas,"Farm, ranch, and other agricultural managers",120,24,50100,23,48020,
+2007,TX,Texas,"Agricultural workers, all other",100,12,24670,10,21070,
+2007,UT,Utah,"Farm, ranch, and other agricultural managers",50,31,65300,30,63170,
+2007,VA,Virginia,"Agricultural workers, all other",130,10,20300,9,18100,
+2007,WA,Washington,"Farm, ranch, and other agricultural managers",60,40,84020,34,71700,
+2007,WA,Washington,"Agricultural workers, all other",430,15,30510,14,30150,
+2007,WV,West Virginia,"Agricultural workers, all other",30,11,23180,11,22850,
+2007,WI,Wisconsin,"Farm, ranch, and other agricultural managers",90,27,56800,29,60550,
+2007,WI,Wisconsin,"Agricultural workers, all other",**,11,22420,10,20240,
+2007,WY,Wyoming,"Agricultural workers, all other",70,15,31300,12,24600,
+2007,PR,Puerto Rico,"Agricultural workers, all other",30,10,21100,11,21900,
+2008,AL,Alabama,"Agricultural workers, all other",200,10,20190,10,20770,
+2008,AZ,Arizona,"Farm, ranch, and other agricultural managers",100,38,80030,32,67090,
+2008,AZ,Arizona,"Agricultural workers, all other",130,14,28560,12,24190,
+2008,AR,Arkansas,"Farm, ranch, and other agricultural managers",120,26,53130,25,51510,
+2008,AR,Arkansas,"Agricultural workers, all other",80,10,20620,9,18700,
+2008,CA,California,"Farm, ranch, and other agricultural managers",910,34,70470,30,62010,
+2008,CA,California,"Agricultural workers, all other",2270,14,29950,14,28760,
+2008,CO,Colorado,"Farm, ranch, and other agricultural managers",**,35,73370,37,76510,
+2008,CO,Colorado,"Agricultural workers, all other",50,17,34600,15,31580,
+2008,CT,Connecticut,"Agricultural workers, all other",50,*,*,*,*,
+2008,FL,Florida,"Farm, ranch, and other agricultural managers",130,43,90320,42,87640,
+2008,FL,Florida,"Agricultural workers, all other",100,10,21680,9,18750,
+2008,GA,Georgia,"Farm, ranch, and other agricultural managers",30,30,62470,24,49210,
+2008,GA,Georgia,"Agricultural workers, all other",290,10,19960,9,18030,
+2008,HI,Hawaii,"Agricultural workers, all other",30,16,33170,15,31600,
+2008,ID,Idaho,"Farm, ranch, and other agricultural managers",110,33,68620,30,62460,
+2008,ID,Idaho,"Agricultural workers, all other",170,16,34230,15,31200,
+2008,IL,Illinois,"Farm, ranch, and other agricultural managers",110,20,42380,15,30380,
+2008,IL,Illinois,"Agricultural workers, all other",150,21,43960,21,44690,
+2008,IN,Indiana,"Farm, ranch, and other agricultural managers",50,29,59360,26,53430,
+2008,IA,Iowa,"Farm, ranch, and other agricultural managers",100,29,59840,27,55310,
+2008,IA,Iowa,"Agricultural workers, all other",990,11,22710,10,21730,
+2008,KS,Kansas,"Farm, ranch, and other agricultural managers",70,33,67620,34,70590,
+2008,KS,Kansas,"Agricultural workers, all other",**,10,19980,9,19630,
+2008,KY,Kentucky,"Farm, ranch, and other agricultural managers",90,24,49870,20,40970,
+2008,KY,Kentucky,"Agricultural workers, all other",50,10,20210,10,20520,
+2008,LA,Louisiana,"Farm, ranch, and other agricultural managers",60,32,66330,30,61620,
+2008,LA,Louisiana,"Agricultural workers, all other",150,15,31090,13,28040,
+2008,ME,Maine,"Farm, ranch, and other agricultural managers",30,26,53550,26,54890,
+2008,MA,Massachusetts,"Farm, ranch, and other agricultural managers",**,21,44000,21,43220,
+2008,MI,Michigan,"Agricultural workers, all other",**,17,35380,15,31530,
+2008,MN,Minnesota,"Agricultural workers, all other",490,11,23030,10,21250,
+2008,MS,Mississippi,"Farm, ranch, and other agricultural managers",**,20,42600,21,44620,
+2008,MO,Missouri,"Farm, ranch, and other agricultural managers",**,27,55790,19,38600,
+2008,MT,Montana,"Agricultural workers, all other",80,16,33720,16,32480,
+2008,NE,Nebraska,"Farm, ranch, and other agricultural managers",100,31,65140,25,52490,
+2008,NE,Nebraska,"Agricultural workers, all other",**,15,31300,13,26940,
+2008,NJ,New Jersey,"Farm, ranch, and other agricultural managers",**,25,51600,16,33310,
+2008,NM,New Mexico,"Farm, ranch, and other agricultural managers",60,21,42730,18,37050,
+2008,NY,New York,"Farm, ranch, and other agricultural managers",50,28,57930,26,53730,
+2008,NY,New York,"Agricultural workers, all other",110,15,31360,15,30250,
+2008,NC,North Carolina,"Agricultural workers, all other",**,11,23860,9,19540,
+2008,ND,North Dakota,"Agricultural workers, all other",90,10,20980,10,20910,
+2008,OH,Ohio,"Farm, ranch, and other agricultural managers",50,27,56260,26,53230,
+2008,OH,Ohio,"Agricultural workers, all other",150,15,31300,17,34400,
+2008,OK,Oklahoma,"Farm, ranch, and other agricultural managers",40,30,61900,35,72030,
+2008,OK,Oklahoma,"Agricultural workers, all other",**,10,20740,10,21760,
+2008,OR,Oregon,"Farm, ranch, and other agricultural managers",**,28,58790,29,60400,
+2008,OR,Oregon,"Agricultural workers, all other",290,10,21660,9,18250,
+2008,PA,Pennsylvania,"Farm, ranch, and other agricultural managers",**,36,74080,25,51710,
+2008,PA,Pennsylvania,"Agricultural workers, all other",200,14,28150,13,27940,
+2008,SC,South Carolina,"Agricultural workers, all other",40,12,24420,9,18440,
+2008,TN,Tennessee,"Farm, ranch, and other agricultural managers",30,34,69990,27,57040,
+2008,TN,Tennessee,"Agricultural workers, all other",70,10,21460,10,20120,
+2008,TX,Texas,"Farm, ranch, and other agricultural managers",130,25,52170,23,47220,
+2008,TX,Texas,"Agricultural workers, all other",140,11,23380,10,20850,
+2008,UT,Utah,"Farm, ranch, and other agricultural managers",50,27,55990,27,56380,
+2008,UT,Utah,"Agricultural workers, all other",40,14,28420,14,28110,
+2008,VA,Virginia,"Agricultural workers, all other",160,12,24210,11,22190,
+2008,WA,Washington,"Farm, ranch, and other agricultural managers",80,37,76650,34,70960,
+2008,WA,Washington,"Agricultural workers, all other",330,16,33680,17,34510,
+2008,WI,Wisconsin,"Farm, ranch, and other agricultural managers",80,26,54240,24,50920,
+2009,AL,Alabama,"Agricultural workers, all other",240,10,21420,10,20940,0.126
+2009,AZ,Arizona,"Farm, ranch, and other agricultural managers",110,38,78780,34,70710,0.044
+2009,AZ,Arizona,"Agricultural workers, all other",110,13,26510,12,25030,0.043
+2009,AR,Arkansas,"Farm, ranch, and other agricultural managers",120,25,52630,24,50340,0.103
+2009,AR,Arkansas,"Agricultural workers, all other",140,9,18370,8,17380,0.121
+2009,CA,California,"Farm, ranch, and other agricultural managers",950,38,79260,33,68160,0.065
+2009,CA,California,"Agricultural workers, all other",1650,15,31130,14,28990,0.114
+2009,CO,Colorado,"Agricultural workers, all other",**,14,29500,14,28820,**
+2009,FL,Florida,"Farm, ranch, and other agricultural managers",90,34,69830,34,69790,0.012
+2009,FL,Florida,"Agricultural workers, all other",100,13,26920,12,25390,0.014
+2009,ID,Idaho,"Farm, ranch, and other agricultural managers",100,32,66810,30,62570,0.169
+2009,ID,Idaho,"Agricultural workers, all other",70,17,35330,15,31770,0.109
+2009,IL,Illinois,"Farm, ranch, and other agricultural managers",110,22,45950,15,31080,0.019
+2009,IL,Illinois,"Agricultural workers, all other",230,22,46510,24,49540,0.040
+2009,IN,Indiana,"Farm, ranch, and other agricultural managers",50,29,60240,26,54600,0.020
+2009,IN,Indiana,"Agricultural workers, all other",**,13,26480,11,21880,**
+2009,IA,Iowa,"Farm, ranch, and other agricultural managers",90,29,60880,25,52610,0.061
+2009,IA,Iowa,"Agricultural workers, all other",830,11,23030,11,22400,0.564
+2009,KS,Kansas,"Farm, ranch, and other agricultural managers",50,32,66290,31,64200,0.035
+2009,KY,Kentucky,"Farm, ranch, and other agricultural managers",90,22,46430,19,40090,0.052
+2009,KY,Kentucky,"Agricultural workers, all other",80,10,20110,8,16990,0.048
+2009,LA,Louisiana,"Farm, ranch, and other agricultural managers",50,31,65090,31,64950,0.026
+2009,LA,Louisiana,"Agricultural workers, all other",90,14,29590,14,29420,0.048
+2009,ME,Maine,"Farm, ranch, and other agricultural managers",50,29,61220,29,61330,0.079
+2009,MI,Michigan,"Agricultural workers, all other",140,16,34050,15,31000,0.036
+2009,MN,Minnesota,"Agricultural workers, all other",610,11,23150,11,22190,0.233
+2009,MS,Mississippi,"Farm, ranch, and other agricultural managers",**,20,42430,21,43920,**
+2009,MS,Mississippi,"Agricultural workers, all other",140,8,16990,8,16030,0.128
+2009,MO,Missouri,"Farm, ranch, and other agricultural managers",**,22,45020,19,38630,**
+2009,MO,Missouri,"Agricultural workers, all other",50,12,25220,12,25030,0.017
+2009,MT,Montana,"Agricultural workers, all other",90,17,34740,16,34080,0.201
+2009,NE,Nebraska,"Farm, ranch, and other agricultural managers",90,28,59030,23,47470,0.099
+2009,NV,Nevada,"Agricultural workers, all other",70,18,37370,17,35770,0.057
+2009,NH,New Hampshire,"Agricultural workers, all other",50,15,30620,14,29500,0.074
+2009,NJ,New Jersey,"Farm, ranch, and other agricultural managers",40,28,58110,27,57150,0.010
+2009,NM,New Mexico,"Farm, ranch, and other agricultural managers",100,22,46550,21,43250,0.125
+2009,NM,New Mexico,"Agricultural workers, all other",40,17,34920,16,34060,0.056
+2009,NY,New York,"Farm, ranch, and other agricultural managers",50,30,61460,30,61890,0.006
+2009,NY,New York,"Agricultural workers, all other",130,16,32410,15,30490,0.015
+2009,NC,North Carolina,"Agricultural workers, all other",90,14,28320,14,30030,0.024
+2009,ND,North Dakota,"Agricultural workers, all other",90,10,21560,10,21350,0.247
+2009,OH,Ohio,"Farm, ranch, and other agricultural managers",50,28,59150,29,60270,0.010
+2009,OH,Ohio,"Agricultural workers, all other",40,17,34860,18,38360,0.009
+2009,OK,Oklahoma,"Farm, ranch, and other agricultural managers",40,28,57410,32,66000,0.024
+2009,OK,Oklahoma,"Agricultural workers, all other",**,10,21300,10,21790,**
+2009,OR,Oregon,"Farm, ranch, and other agricultural managers",80,33,67880,32,66630,0.051
+2009,OR,Oregon,"Agricultural workers, all other",110,14,28080,12,24880,0.069
+2009,PA,Pennsylvania,"Agricultural workers, all other",180,14,28960,14,28890,0.033
+2009,TN,Tennessee,"Farm, ranch, and other agricultural managers",30,38,79100,29,59310,0.013
+2009,TN,Tennessee,"Agricultural workers, all other",100,11,22960,10,21600,0.039
+2009,TX,Texas,"Farm, ranch, and other agricultural managers",150,27,55980,25,51070,0.014
+2009,TX,Texas,"Agricultural workers, all other",220,11,22000,9,18930,0.021
+2009,VA,Virginia,"Agricultural workers, all other",150,12,24690,12,24080,0.042
+2009,WA,Washington,"Farm, ranch, and other agricultural managers",90,36,74910,34,69750,0.034
+2009,WA,Washington,"Agricultural workers, all other",430,17,34470,17,35010,0.153
+2009,WI,Wisconsin,"Farm, ranch, and other agricultural managers",90,29,59710,28,57570,0.032
+2009,WI,Wisconsin,"Agricultural workers, all other",150,12,24250,11,23010,0.057
+2009,PR,Puerto Rico,"Agricultural workers, all other",**,22,45610,22,46460,**
+2010,AL,Alabama,"Farmers, Ranchers, and Other Agricultural Managers",30,36,75490,38,78880,0.017
+2010,AL,Alabama,"Agricultural Workers, All Other",310,10,21170,10,19820,0.172
+2010,AZ,Arizona,"Farmers, Ranchers, and Other Agricultural Managers",110,32,67150,29,60440,0.045
+2010,AZ,Arizona,"Agricultural Workers, All Other",30,16,33730,17,34450,0.014
+2010,AR,Arkansas,"Farmers, Ranchers, and Other Agricultural Managers",60,29,60950,30,62040,0.052
+2010,AR,Arkansas,"Agricultural Workers, All Other",260,9,19280,9,18250,0.225
+2010,CA,California,"Farmers, Ranchers, and Other Agricultural Managers",950,39,80740,34,71630,0.068
+2010,CA,California,"Agricultural Workers, All Other",1600,13,26990,12,24230,0.114
+2010,CO,Colorado,"Agricultural Workers, All Other",70,15,30320,14,28630,0.030
+2010,FL,Florida,"Farmers, Ranchers, and Other Agricultural Managers",160,32,67390,33,68110,0.022
+2010,FL,Florida,"Agricultural Workers, All Other",**,13,27400,12,25000,**
+2010,GA,Georgia,"Agricultural Workers, All Other",510,12,25620,10,19910,0.136
+2010,ID,Idaho,"Farmers, Ranchers, and Other Agricultural Managers",90,36,75250,35,73480,0.160
+2010,ID,Idaho,"Agricultural Workers, All Other",70,17,34400,16,32350,0.117
+2010,IL,Illinois,"Farmers, Ranchers, and Other Agricultural Managers",150,24,50360,16,33420,0.027
+2010,IL,Illinois,"Agricultural Workers, All Other",240,22,45250,24,48920,0.043
+2010,IN,Indiana,"Farmers, Ranchers, and Other Agricultural Managers",60,36,74130,23,46840,0.022
+2010,IA,Iowa,"Farmers, Ranchers, and Other Agricultural Managers",240,33,67590,27,55820,0.167
+2010,IA,Iowa,"Agricultural Workers, All Other",620,11,22610,11,22400,0.428
+2010,KS,Kansas,"Farmers, Ranchers, and Other Agricultural Managers",40,*,*,*,*,0.030
+2010,KY,Kentucky,"Farmers, Ranchers, and Other Agricultural Managers",120,25,51760,22,45430,0.070
+2010,KY,Kentucky,"Agricultural Workers, All Other",60,12,25430,12,24610,0.037
+2010,LA,Louisiana,"Farmers, Ranchers, and Other Agricultural Managers",50,33,69170,32,66590,0.026
+2010,LA,Louisiana,"Agricultural Workers, All Other",150,20,41940,19,40100,0.082
+2010,ME,Maine,"Farmers, Ranchers, and Other Agricultural Managers",40,30,61760,28,58130,0.063
+2010,MD,Maryland,"Farmers, Ranchers, and Other Agricultural Managers",70,38,79510,30,63380,0.028
+2010,MI,Michigan,"Farmers, Ranchers, and Other Agricultural Managers",30,34,70640,34,69720,0.009
+2010,MI,Michigan,"Agricultural Workers, All Other",170,14,29360,12,25520,0.045
+2010,MN,Minnesota,"Farmers, Ranchers, and Other Agricultural Managers",30,32,65770,32,67300,0.013
+2010,MN,Minnesota,"Agricultural Workers, All Other",560,12,24350,11,23140,0.218
+2010,MS,Mississippi,"Farmers, Ranchers, and Other Agricultural Managers",**,25,52810,28,57390,**
+2010,MS,Mississippi,"Agricultural Workers, All Other",150,8,17110,8,16670,0.136
+2010,MO,Missouri,"Farmers, Ranchers, and Other Agricultural Managers",80,30,62770,28,58640,0.030
+2010,MO,Missouri,"Agricultural Workers, All Other",80,10,20060,9,19660,0.030
+2010,MT,Montana,"Agricultural Workers, All Other",90,16,32610,16,32750,0.218
+2010,NE,Nebraska,"Farmers, Ranchers, and Other Agricultural Managers",70,27,56420,21,44050,0.079
+2010,NV,Nevada,"Agricultural Workers, All Other",70,17,35970,17,35300,0.064
+2010,NH,New Hampshire,"Agricultural Workers, All Other",50,15,31580,14,29870,0.080
+2010,NM,New Mexico,"Farmers, Ranchers, and Other Agricultural Managers",120,22,46360,20,42140,0.155
+2010,NM,New Mexico,"Agricultural Workers, All Other",**,14,30090,11,23480,**
+2010,NY,New York,"Farmers, Ranchers, and Other Agricultural Managers",120,35,72480,35,72690,0.015
+2010,NY,New York,"Agricultural Workers, All Other",110,20,41810,20,41760,0.013
+2010,NC,North Carolina,"Agricultural Workers, All Other",**,15,32030,16,32730,**
+2010,ND,North Dakota,"Agricultural Workers, All Other",120,11,22020,10,20390,0.342
+2010,OH,Ohio,"Farmers, Ranchers, and Other Agricultural Managers",60,29,60730,30,61960,0.012
+2010,OH,Ohio,"Agricultural Workers, All Other",40,20,41170,20,41130,0.007
+2010,OK,Oklahoma,"Agricultural Workers, All Other",**,10,21700,11,22050,**
+2010,OR,Oregon,"Farmers, Ranchers, and Other Agricultural Managers",120,29,60830,30,62570,0.077
+2010,OR,Oregon,"Agricultural Workers, All Other",110,14,29720,12,25620,0.069
+2010,PA,Pennsylvania,"Farmers, Ranchers, and Other Agricultural Managers",40,25,52790,26,53250,0.007
+2010,PA,Pennsylvania,"Agricultural Workers, All Other",140,16,33180,16,33560,0.025
+2010,TN,Tennessee,"Farmers, Ranchers, and Other Agricultural Managers",60,18,36890,17,35130,0.022
+2010,TN,Tennessee,"Agricultural Workers, All Other",190,11,23430,10,21280,0.072
+2010,TX,Texas,"Farmers, Ranchers, and Other Agricultural Managers",260,22,46010,17,34890,0.026
+2010,TX,Texas,"Agricultural Workers, All Other",270,12,25850,11,23150,0.027
+2010,VA,Virginia,"Farmers, Ranchers, and Other Agricultural Managers",30,30,62060,26,54740,0.010
+2010,VA,Virginia,"Agricultural Workers, All Other",160,12,24860,11,22990,0.045
+2010,WA,Washington,"Farmers, Ranchers, and Other Agricultural Managers",90,39,80590,35,72290,0.032
+2010,WA,Washington,"Agricultural Workers, All Other",390,17,35200,18,37470,0.146
+2010,WI,Wisconsin,"Farmers, Ranchers, and Other Agricultural Managers",70,31,64470,32,66660,0.026
+2010,WI,Wisconsin,"Agricultural Workers, All Other",180,13,26240,12,24030,0.069
+2010,PR,Puerto Rico,"Agricultural Workers, All Other",**,9,19680,9,18210,**
+2011,AL,Alabama,"Agricultural Workers, All Other",300,9,19500,9,18480,0.163
+2011,AZ,Arizona,"Farmers, Ranchers, and Other Agricultural Managers",100,34,70790,33,69600,0.042
+2011,AZ,Arizona,"Agricultural Workers, All Other",**,16,32440,15,31450,**
+2011,AR,Arkansas,"Farmers, Ranchers, and Other Agricultural Managers",70,27,55920,27,55540,0.061
+2011,AR,Arkansas,"Agricultural Workers, All Other",220,9,19470,9,18260,0.195
+2011,CA,California,"Farmers, Ranchers, and Other Agricultural Managers",910,40,83860,38,78340,0.065
+2011,CA,California,"Agricultural Workers, All Other",1160,14,28470,11,23830,0.082
+2011,CO,Colorado,"Agricultural Workers, All Other",60,16,33340,16,33190,0.029
+2011,FL,Florida,"Farmers, Ranchers, and Other Agricultural Managers",150,32,66950,33,68220,0.021
+2011,FL,Florida,"Agricultural Workers, All Other",90,13,26940,9,19290,0.013
+2011,GA,Georgia,"Farmers, Ranchers, and Other Agricultural Managers",30,34,71180,31,65330,0.009
+2011,GA,Georgia,"Agricultural Workers, All Other",**,17,34770,15,31540,**
+2011,ID,Idaho,"Farmers, Ranchers, and Other Agricultural Managers",90,32,66150,29,60220,0.148
+2011,ID,Idaho,"Agricultural Workers, All Other",**,16,33560,16,32880,**
+2011,IL,Illinois,"Farmers, Ranchers, and Other Agricultural Managers",160,30,61530,25,52230,0.028
+2011,IL,Illinois,"Agricultural Workers, All Other",200,21,43490,24,50270,0.035
+2011,IA,Iowa,"Farmers, Ranchers, and Other Agricultural Managers",150,40,82420,36,75880,0.105
+2011,IA,Iowa,"Agricultural Workers, All Other",350,12,25790,12,23930,0.239
+2011,KS,Kansas,"Farmers, Ranchers, and Other Agricultural Managers",30,46,95190,37,76820,0.026
+2011,KY,Kentucky,"Farmers, Ranchers, and Other Agricultural Managers",140,24,50830,21,44620,0.080
+2011,KY,Kentucky,"Agricultural Workers, All Other",110,12,23970,11,22790,0.066
+2011,LA,Louisiana,"Farmers, Ranchers, and Other Agricultural Managers",50,30,63210,27,56420,0.025
+2011,LA,Louisiana,"Agricultural Workers, All Other",270,15,30930,14,29110,0.144
+2011,ME,Maine,"Farmers, Ranchers, and Other Agricultural Managers",**,28,58780,25,52230,**
+2011,MD,Maryland,"Farmers, Ranchers, and Other Agricultural Managers",70,35,72800,28,57910,0.028
+2011,MI,Michigan,"Farmers, Ranchers, and Other Agricultural Managers",40,35,72320,37,76090,0.010
+2011,MI,Michigan,"Agricultural Workers, All Other",80,*,*,*,*,0.021
+2011,MN,Minnesota,"Farmers, Ranchers, and Other Agricultural Managers",30,37,77990,36,75800,0.012
+2011,MN,Minnesota,"Agricultural Workers, All Other",440,12,24730,11,23400,0.171
+2011,MS,Mississippi,"Agricultural Workers, All Other",80,9,18390,9,18070,0.075
+2011,MO,Missouri,"Farmers, Ranchers, and Other Agricultural Managers",60,34,69710,34,70850,0.023
+2011,MO,Missouri,"Agricultural Workers, All Other",140,11,23120,10,21590,0.054
+2011,MT,Montana,"Agricultural Workers, All Other",80,16,33520,16,34160,0.180
+2011,NE,Nebraska,"Farmers, Ranchers, and Other Agricultural Managers",70,28,57350,24,50940,0.080
+2011,NV,Nevada,"Agricultural Workers, All Other",50,19,38810,19,39570,0.049
+2011,NH,New Hampshire,"Agricultural Workers, All Other",**,15,31140,14,29700,**
+2011,NJ,New Jersey,"Agricultural Workers, All Other",**,14,29870,15,31650,**
+2011,NM,New Mexico,"Farmers, Ranchers, and Other Agricultural Managers",**,26,54780,25,51540,**
+2011,NM,New Mexico,"Agricultural Workers, All Other",**,15,31920,14,28330,**
+2011,NY,New York,"Farmers, Ranchers, and Other Agricultural Managers",60,37,76920,34,71730,0.007
+2011,NY,New York,"Agricultural Workers, All Other",100,21,43490,21,43210,0.011
+2011,NC,North Carolina,"Agricultural Workers, All Other",210,14,29630,15,31330,0.055
+2011,ND,North Dakota,"Agricultural Workers, All Other",**,12,24230,11,22260,**
+2011,OH,Ohio,"Farmers, Ranchers, and Other Agricultural Managers",50,33,67670,32,67480,0.009
+2011,OK,Oklahoma,"Farmers, Ranchers, and Other Agricultural Managers",50,22,45850,22,45310,0.033
+2011,OK,Oklahoma,"Agricultural Workers, All Other",**,12,24020,12,24280,**
+2011,OR,Oregon,"Farmers, Ranchers, and Other Agricultural Managers",60,32,67560,34,71430,0.039
+2011,OR,Oregon,"Agricultural Workers, All Other",100,13,27630,11,23570,0.060
+2011,PA,Pennsylvania,"Farmers, Ranchers, and Other Agricultural Managers",40,26,54440,26,54570,0.008
+2011,PA,Pennsylvania,"Agricultural Workers, All Other",110,17,36140,18,37310,0.020
+2011,TN,Tennessee,"Farmers, Ranchers, and Other Agricultural Managers",50,17,35170,16,33890,0.020
+2011,TN,Tennessee,"Agricultural Workers, All Other",180,12,24300,10,20540,0.071
+2011,TX,Texas,"Farmers, Ranchers, and Other Agricultural Managers",280,25,51430,20,41650,0.027
+2011,TX,Texas,"Agricultural Workers, All Other",470,10,21430,9,18130,0.046
+2011,VA,Virginia,"Agricultural Workers, All Other",150,11,22230,10,20640,0.043
+2011,WA,Washington,"Farmers, Ranchers, and Other Agricultural Managers",80,42,87270,40,83200,0.031
+2011,WA,Washington,"Agricultural Workers, All Other",370,17,35850,18,37900,0.136
+2011,WI,Wisconsin,"Farmers, Ranchers, and Other Agricultural Managers",50,37,76350,33,68110,0.019
+2011,WI,Wisconsin,"Agricultural Workers, All Other",170,13,27050,12,25190,0.063
+2011,PR,Puerto Rico,"Agricultural Workers, All Other",90,9,19550,9,18370,0.100
+2012,AL,Alabama,"Agricultural Workers, All Other",340,9,18180,9,17920,0.189
+2012,AZ,Arizona,"Farmers, Ranchers, and Other Agricultural Managers",130,35,72080,31,65290,0.056
+2012,AZ,Arizona,"Agricultural Workers, All Other",340,14,29830,14,29820,0.141
+2012,AR,Arkansas,"Farmers, Ranchers, and Other Agricultural Managers",130,33,67620,32,66690,0.112
+2012,AR,Arkansas,"Agricultural Workers, All Other",90,11,22210,10,19910,0.079
+2012,CA,California,"Farmers, Ranchers, and Other Agricultural Managers",1010,43,89460,40,83610,0.070
+2012,CA,California,"Agricultural Workers, All Other",740,15,30730,13,28060,0.052
+2012,CO,Colorado,"Agricultural Workers, All Other",40,17,36010,17,35140,0.017
+2012,FL,Florida,"Farmers, Ranchers, and Other Agricultural Managers",**,33,67830,33,67610,**
+2012,FL,Florida,"Agricultural Workers, All Other",60,13,26270,9,19560,0.009
+2012,GA,Georgia,"Agricultural Workers, All Other",30,12,24060,9,19340,0.009
+2012,ID,Idaho,"Farmers, Ranchers, and Other Agricultural Managers",100,29,60680,26,54860,0.172
+2012,ID,Idaho,"Agricultural Workers, All Other",150,17,34860,17,34450,0.242
+2012,IL,Illinois,"Farmers, Ranchers, and Other Agricultural Managers",180,33,69460,31,63810,0.032
+2012,IL,Illinois,"Agricultural Workers, All Other",230,19,39420,19,40500,0.041
+2012,IN,Indiana,"Farmers, Ranchers, and Other Agricultural Managers",**,40,84130,32,67260,**
+2012,IA,Iowa,"Farmers, Ranchers, and Other Agricultural Managers",210,38,79830,35,72790,0.143
+2012,IA,Iowa,"Agricultural Workers, All Other",230,13,26970,12,24250,0.155
+2012,KY,Kentucky,"Farmers, Ranchers, and Other Agricultural Managers",130,30,61510,27,55530,0.071
+2012,KY,Kentucky,"Agricultural Workers, All Other",100,13,26130,12,24870,0.055
+2012,LA,Louisiana,"Farmers, Ranchers, and Other Agricultural Managers",50,30,63330,27,56660,0.025
+2012,LA,Louisiana,"Agricultural Workers, All Other",250,15,30860,12,24260,0.132
+2012,MD,Maryland,"Farmers, Ranchers, and Other Agricultural Managers",60,39,80270,30,62460,0.023
+2012,MI,Michigan,"Farmers, Ranchers, and Other Agricultural Managers",80,33,69430,32,65670,0.020
+2012,MI,Michigan,"Agricultural Workers, All Other",90,15,31360,11,23190,0.024
+2012,MN,Minnesota,"Farmers, Ranchers, and Other Agricultural Managers",30,38,78520,38,78840,0.013
+2012,MN,Minnesota,"Agricultural Workers, All Other",310,13,27810,12,25410,0.116
+2012,MS,Mississippi,"Agricultural Workers, All Other",40,9,19360,9,18840,0.033
+2012,MO,Missouri,"Farmers, Ranchers, and Other Agricultural Managers",80,31,65490,29,60410,0.031
+2012,MO,Missouri,"Agricultural Workers, All Other",**,11,22730,10,21570,**
+2012,MT,Montana,"Agricultural Workers, All Other",40,14,29890,15,31070,0.090
+2012,NE,Nebraska,"Farmers, Ranchers, and Other Agricultural Managers",110,24,50050,17,34570,0.120
+2012,NV,Nevada,"Agricultural Workers, All Other",30,18,37200,18,36860,0.030
+2012,NH,New Hampshire,"Agricultural Workers, All Other",40,17,34510,17,34340,0.062
+2012,NJ,New Jersey,"Agricultural Workers, All Other",100,14,29000,15,30710,0.026
+2012,NM,New Mexico,"Farmers, Ranchers, and Other Agricultural Managers",60,25,52160,24,50640,0.082
+2012,NY,New York,"Farmers, Ranchers, and Other Agricultural Managers",50,39,80490,35,73170,0.006
+2012,NC,North Carolina,"Agricultural Workers, All Other",160,13,26530,11,22420,0.041
+2012,ND,North Dakota,"Agricultural Workers, All Other",70,12,25550,11,23220,0.169
+2012,OH,Ohio,"Farmers, Ranchers, and Other Agricultural Managers",60,31,64540,29,61190,0.012
+2012,OK,Oklahoma,"Farmers, Ranchers, and Other Agricultural Managers",**,19,40410,14,29890,**
+2012,OR,Oregon,"Farmers, Ranchers, and Other Agricultural Managers",110,32,66280,29,59460,0.067
+2012,OR,Oregon,"Agricultural Workers, All Other",110,13,27060,11,23520,0.069
+2012,PA,Pennsylvania,"Farmers, Ranchers, and Other Agricultural Managers",**,39,80740,41,84380,**
+2012,PA,Pennsylvania,"Agricultural Workers, All Other",90,17,35440,18,36780,0.016
+2012,TN,Tennessee,"Farmers, Ranchers, and Other Agricultural Managers",60,17,35440,16,34050,0.022
+2012,TN,Tennessee,"Agricultural Workers, All Other",280,13,27090,10,20890,0.107
+2012,TX,Texas,"Farmers, Ranchers, and Other Agricultural Managers",270,30,62400,21,43400,0.026
+2012,TX,Texas,"Agricultural Workers, All Other",530,10,21400,9,18490,0.050
+2012,VA,Virginia,"Agricultural Workers, All Other",170,12,25030,11,23010,0.047
+2012,WA,Washington,"Farmers, Ranchers, and Other Agricultural Managers",140,39,80350,35,72380,0.050
+2012,WA,Washington,"Agricultural Workers, All Other",330,18,36900,15,31930,0.118
+2012,WI,Wisconsin,"Farmers, Ranchers, and Other Agricultural Managers",50,40,83000,36,75740,0.017
+2012,WI,Wisconsin,"Agricultural Workers, All Other",50,14,28840,13,26910,0.020
+2012,PR,Puerto Rico,"Agricultural Workers, All Other",40,10,20570,9,18540,0.040
+2013,AL,Alabama,"Agricultural Workers, All Other",360,10,20550,9,19020,0.196
+2013,AZ,Arizona,"Farmers, Ranchers, and Other Agricultural Managers",120,31,64800,23,46810,0.049
+2013,AZ,Arizona,"Agricultural Workers, All Other",370,14,29620,14,29620,0.148
+2013,AR,Arkansas,"Farmers, Ranchers, and Other Agricultural Managers",110,33,69590,33,67880,0.096
+2013,AR,Arkansas,"Agricultural Workers, All Other",120,13,26380,11,22610,0.105
+2013,CA,California,"Farmers, Ranchers, and Other Agricultural Managers",780,45,93630,43,88950,0.053
+2013,CA,California,"Agricultural Workers, All Other",460,17,35060,16,33160,0.031
+2013,CO,Colorado,"Agricultural Workers, All Other",50,16,34150,17,34670,0.020
+2013,FL,Florida,"Farmers, Ranchers, and Other Agricultural Managers",230,37,75960,35,71870,0.030
+2013,FL,Florida,"Agricultural Workers, All Other",70,12,25210,9,19650,0.009
+2013,HI,Hawaii,"Agricultural Workers, All Other",80,20,41770,20,42200,0.141
+2013,ID,Idaho,"Farmers, Ranchers, and Other Agricultural Managers",110,31,63620,27,55260,0.177
+2013,ID,Idaho,"Agricultural Workers, All Other",90,17,34650,16,34230,0.147
+2013,IL,Illinois,"Farmers, Ranchers, and Other Agricultural Managers",230,31,64810,31,64810,0.040
+2013,IL,Illinois,"Agricultural Workers, All Other",420,18,38220,17,35190,0.074
+2013,IN,Indiana,"Farmers, Ranchers, and Other Agricultural Managers",80,32,65610,33,67830,0.027
+2013,IA,Iowa,"Farmers, Ranchers, and Other Agricultural Managers",260,32,66410,28,58540,0.175
+2013,IA,Iowa,"Agricultural Workers, All Other",290,13,27500,11,22990,0.196
+2013,KY,Kentucky,"Farmers, Ranchers, and Other Agricultural Managers",100,31,65150,28,59190,0.058
+2013,KY,Kentucky,"Agricultural Workers, All Other",70,12,25740,12,24810,0.041
+2013,LA,Louisiana,"Agricultural Workers, All Other",290,16,32890,15,31440,0.151
+2013,MD,Maryland,"Agricultural Workers, All Other",60,*,*,*,*,0.023
+2013,MI,Michigan,"Farmers, Ranchers, and Other Agricultural Managers",50,35,73480,34,71190,0.012
+2013,MI,Michigan,"Agricultural Workers, All Other",60,21,43210,22,46120,0.015
+2013,MN,Minnesota,"Agricultural Workers, All Other",210,13,26000,11,22550,0.077
+2013,MS,Mississippi,"Farmers, Ranchers, and Other Agricultural Managers",30,23,47270,21,44070,0.028
+2013,MS,Mississippi,"Agricultural Workers, All Other",50,8,17290,8,17380,0.042
+2013,MO,Missouri,"Farmers, Ranchers, and Other Agricultural Managers",**,28,57890,23,48080,**
+2013,MO,Missouri,"Agricultural Workers, All Other",**,12,24870,11,22290,**
+2013,MT,Montana,"Agricultural Workers, All Other",40,16,33180,16,33080,0.094
+2013,NE,Nebraska,"Farmers, Ranchers, and Other Agricultural Managers",100,30,62120,26,54800,0.113
+2013,NV,Nevada,"Agricultural Workers, All Other",30,18,36670,17,35720,0.029
+2013,NH,New Hampshire,"Agricultural Workers, All Other",40,16,33680,16,33020,0.072
+2013,NJ,New Jersey,"Agricultural Workers, All Other",50,14,28140,13,27700,0.013
+2013,NM,New Mexico,"Farmers, Ranchers, and Other Agricultural Managers",60,24,50810,25,51120,0.083
+2013,NY,New York,"Farmers, Ranchers, and Other Agricultural Managers",40,45,92950,39,81510,0.005
+2013,NC,North Carolina,"Agricultural Workers, All Other",110,12,24110,11,21930,0.028
+2013,ND,North Dakota,"Farmers, Ranchers, and Other Agricultural Managers",**,35,71900,34,69730,**
+2013,ND,North Dakota,"Agricultural Workers, All Other",**,11,22780,10,21500,**
+2013,OH,Ohio,"Farmers, Ranchers, and Other Agricultural Managers",70,30,61620,28,57850,0.013
+2013,OK,Oklahoma,"Farmers, Ranchers, and Other Agricultural Managers",50,24,49390,15,30540,0.032
+2013,OK,Oklahoma,"Agricultural Workers, All Other",**,10,21780,10,21600,**
+2013,OR,Oregon,"Farmers, Ranchers, and Other Agricultural Managers",150,35,73260,33,69480,0.094
+2013,OR,Oregon,"Agricultural Workers, All Other",110,13,27110,11,23520,0.069
+2013,PA,Pennsylvania,"Farmers, Ranchers, and Other Agricultural Managers",**,40,83670,42,86500,**
+2013,TN,Tennessee,"Farmers, Ranchers, and Other Agricultural Managers",40,18,37460,16,33480,0.015
+2013,TN,Tennessee,"Agricultural Workers, All Other",120,15,30620,11,22820,0.046
+2013,TX,Texas,"Farmers, Ranchers, and Other Agricultural Managers",240,34,70460,30,61850,0.022
+2013,TX,Texas,"Agricultural Workers, All Other",450,9,18450,9,18060,0.041
+2013,VA,Virginia,"Agricultural Workers, All Other",140,13,27160,12,25140,0.039
+2013,WA,Washington,"Farmers, Ranchers, and Other Agricultural Managers",130,36,74440,34,71020,0.045
+2013,WA,Washington,"Agricultural Workers, All Other",200,18,37390,15,31730,0.070
+2013,WI,Wisconsin,"Farmers, Ranchers, and Other Agricultural Managers",40,40,83380,37,77570,0.015
+2013,WI,Wisconsin,"Agricultural Workers, All Other",60,13,26980,13,27170,0.023
+2014,AL,Alabama,"Agricultural Workers, All Other",340,11,22310,9,19600,0.183
+2014,AZ,Arizona,"Farmers, Ranchers, and Other Agricultural Managers",130,32,66090,23,47610,0.051
+2014,AZ,Arizona,"Agricultural Workers, All Other",370,18,37990,18,36630,0.148
+2014,AR,Arkansas,"Farmers, Ranchers, and Other Agricultural Managers",70,39,80750,35,73140,0.062
+2014,AR,Arkansas,"Agricultural Workers, All Other",90,15,31490,15,32170,0.074
+2014,CA,California,"Farmers, Ranchers, and Other Agricultural Managers",1070,41,85060,37,77080,0.071
+2014,CA,California,"Agricultural Workers, All Other",640,17,34990,17,34330,0.042
+2014,CO,Colorado,"Farmers, Ranchers, and Other Agricultural Managers",**,23,47480,21,43280,**
+2014,CO,Colorado,"Agricultural Workers, All Other",70,16,33320,17,34470,0.029
+2014,FL,Florida,"Farmers, Ranchers, and Other Agricultural Managers",180,41,84470,36,74840,0.024
+2014,FL,Florida,"Agricultural Workers, All Other",190,11,23070,11,22340,0.025
+2014,HI,Hawaii,"Agricultural Workers, All Other",80,20,41120,20,41510,0.124
+2014,ID,Idaho,"Farmers, Ranchers, and Other Agricultural Managers",110,33,68180,29,60290,0.177
+2014,ID,Idaho,"Agricultural Workers, All Other",90,16,32450,16,32840,0.147
+2014,IL,Illinois,"Farmers, Ranchers, and Other Agricultural Managers",200,33,69550,33,69580,0.035
+2014,IL,Illinois,"Agricultural Workers, All Other",440,17,34890,14,28330,0.076
+2014,IN,Indiana,"Farmers, Ranchers, and Other Agricultural Managers",120,31,63840,30,63100,0.041
+2014,IA,Iowa,"Farmers, Ranchers, and Other Agricultural Managers",230,35,73750,29,60460,0.149
+2014,IA,Iowa,"Agricultural Workers, All Other",440,12,25950,11,23430,0.291
+2014,KY,Kentucky,"Farmers, Ranchers, and Other Agricultural Managers",80,31,63730,29,59440,0.041
+2014,KY,Kentucky,"Agricultural Workers, All Other",50,14,29540,14,28940,0.027
+2014,LA,Louisiana,"Farmers, Ranchers, and Other Agricultural Managers",60,31,64080,30,61970,0.029
+2014,LA,Louisiana,"Agricultural Workers, All Other",140,20,41390,20,42220,0.075
+2014,MD,Maryland,"Agricultural Workers, All Other",80,17,34780,16,34190,0.033
+2014,MI,Michigan,"Farmers, Ranchers, and Other Agricultural Managers",50,30,61560,31,64740,0.013
+2014,MI,Michigan,"Agricultural Workers, All Other",100,16,33360,14,29460,0.025
+2014,MN,Minnesota,"Farmers, Ranchers, and Other Agricultural Managers",40,38,78090,39,80500,0.013
+2014,MN,Minnesota,"Agricultural Workers, All Other",270,15,31460,15,31650,0.097
+2014,MS,Mississippi,"Farmers, Ranchers, and Other Agricultural Managers",30,24,50040,22,45780,0.032
+2014,MS,Mississippi,"Agricultural Workers, All Other",70,11,22610,9,17840,0.068
+2014,MO,Missouri,"Farmers, Ranchers, and Other Agricultural Managers",130,29,60530,23,46830,0.048
+2014,MO,Missouri,"Agricultural Workers, All Other",**,13,27610,12,24990,**
+2014,MT,Montana,"Agricultural Workers, All Other",50,17,34770,16,33770,0.121
+2014,NE,Nebraska,"Farmers, Ranchers, and Other Agricultural Managers",100,*,*,*,*,0.111
+2014,NV,Nevada,"Agricultural Workers, All Other",30,17,35800,17,35240,0.026
+2014,NM,New Mexico,"Farmers, Ranchers, and Other Agricultural Managers",60,23,48270,23,47090,0.073
+2014,NY,New York,"Farmers, Ranchers, and Other Agricultural Managers",50,32,67550,35,72480,0.006
+2014,NC,North Carolina,"Farmers, Ranchers, and Other Agricultural Managers",140,27,56190,23,48320,0.034
+2014,NC,North Carolina,"Agricultural Workers, All Other",150,12,24840,11,22460,0.037
+2014,ND,North Dakota,"Agricultural Workers, All Other",90,15,30610,13,27610,0.204
+2014,OH,Ohio,"Farmers, Ranchers, and Other Agricultural Managers",60,33,68880,28,59180,0.012
+2014,OK,Oklahoma,"Farmers, Ranchers, and Other Agricultural Managers",70,26,54150,25,51910,0.042
+2014,OK,Oklahoma,"Agricultural Workers, All Other",**,11,22460,10,21810,**
+2014,OR,Oregon,"Farmers, Ranchers, and Other Agricultural Managers",280,29,61060,28,57350,0.165
+2014,OR,Oregon,"Agricultural Workers, All Other",50,14,28940,12,24710,0.028
+2014,TN,Tennessee,"Farmers, Ranchers, and Other Agricultural Managers",50,21,43980,21,42850,0.019
+2014,TN,Tennessee,"Agricultural Workers, All Other",110,15,32040,11,23560,0.041
+2014,TX,Texas,"Farmers, Ranchers, and Other Agricultural Managers",280,32,67170,22,46360,0.025
+2014,TX,Texas,"Agricultural Workers, All Other",320,11,21920,10,20650,0.028
+2014,VA,Virginia,"Agricultural Workers, All Other",140,13,26840,12,24880,0.038
+2014,WA,Washington,"Farmers, Ranchers, and Other Agricultural Managers",140,36,74200,34,70000,0.049
+2014,WA,Washington,"Agricultural Workers, All Other",200,18,36470,15,32070,0.069
+2014,WI,Wisconsin,"Farmers, Ranchers, and Other Agricultural Managers",40,36,74340,35,72300,0.014
+2014,WI,Wisconsin,"Agricultural Workers, All Other",60,15,31510,14,28340,0.023
+2014,PR,Puerto Rico,"Agricultural Workers, All Other",**,15,31490,16,33950,**
+2015,AL,Alabama,"Agricultural Workers, All Other",220,12,24500,10,20040,0.117
+2015,AZ,Arizona,"Farmers, Ranchers, and Other Agricultural Managers",120,31,65250,28,58510,0.045
+2015,AZ,Arizona,"Agricultural Workers, All Other",340,20,41450,20,41540,0.131
+2015,AR,Arkansas,"Farmers, Ranchers, and Other Agricultural Managers",160,42,88090,32,67070,0.137
+2015,AR,Arkansas,"Agricultural Workers, All Other",140,12,25740,9,19720,0.122
+2015,CA,California,"Farmers, Ranchers, and Other Agricultural Managers",1080,36,75730,34,70640,0.070
+2015,CA,California,"Agricultural Workers, All Other",740,16,34000,16,33720,0.048
+2015,CO,Colorado,"Farmers, Ranchers, and Other Agricultural Managers",40,21,44180,20,41860,0.018
+2015,CO,Colorado,"Agricultural Workers, All Other",100,15,31270,15,31310,0.040
+2015,FL,Florida,"Farmers, Ranchers, and Other Agricultural Managers",130,46,95990,43,88490,0.017
+2015,GA,Georgia,"Agricultural Workers, All Other",40,17,34780,15,30410,0.011
+2015,HI,Hawaii,"Agricultural Workers, All Other",100,19,38610,19,39950,0.156
+2015,ID,Idaho,"Farmers, Ranchers, and Other Agricultural Managers",130,38,78980,30,61360,0.198
+2015,ID,Idaho,"Agricultural Workers, All Other",60,15,31920,15,30640,0.088
+2015,IL,Illinois,"Farmers, Ranchers, and Other Agricultural Managers",260,32,66400,33,67930,0.044
+2015,IL,Illinois,"Agricultural Workers, All Other",240,15,30190,14,28650,0.041
+2015,IN,Indiana,"Farmers, Ranchers, and Other Agricultural Managers",50,32,65600,30,61450,0.018
+2015,IA,Iowa,"Farmers, Ranchers, and Other Agricultural Managers",370,37,77060,34,70990,0.242
+2015,IA,Iowa,"Agricultural Workers, All Other",550,13,27810,12,24360,0.363
+2015,KY,Kentucky,"Farmers, Ranchers, and Other Agricultural Managers",100,31,65150,31,64800,0.056
+2015,KY,Kentucky,"Agricultural Workers, All Other",60,15,30640,14,29480,0.033
+2015,LA,Louisiana,"Farmers, Ranchers, and Other Agricultural Managers",50,31,64070,31,63940,0.028
+2015,LA,Louisiana,"Agricultural Workers, All Other",170,20,41690,20,42280,0.089
+2015,MD,Maryland,"Agricultural Workers, All Other",90,17,36270,17,35480,0.034
+2015,MI,Michigan,"Farmers, Ranchers, and Other Agricultural Managers",40,29,59760,29,61020,0.010
+2015,MI,Michigan,"Agricultural Workers, All Other",90,16,34080,15,30510,0.023
+2015,MN,Minnesota,"Farmers, Ranchers, and Other Agricultural Managers",60,36,74710,35,72540,0.020
+2015,MN,Minnesota,"Agricultural Workers, All Other",**,17,35890,17,35700,**
+2015,MS,Mississippi,"Farmers, Ranchers, and Other Agricultural Managers",30,24,48910,22,45970,0.030
+2015,MS,Mississippi,"Agricultural Workers, All Other",100,11,23680,9,18210,0.093
+2015,MO,Missouri,"Farmers, Ranchers, and Other Agricultural Managers",**,28,57580,22,45990,**
+2015,MO,Missouri,"Agricultural Workers, All Other",60,13,27220,12,25310,0.022
+2015,MT,Montana,"Agricultural Workers, All Other",**,17,35230,17,34800,**
+2015,NV,Nevada,"Agricultural Workers, All Other",50,18,38430,17,36210,0.041
+2015,NJ,New Jersey,"Farmers, Ranchers, and Other Agricultural Managers",**,40,83740,43,90460,**
+2015,NJ,New Jersey,"Agricultural Workers, All Other",40,13,27220,12,25890,0.010
+2015,NM,New Mexico,"Farmers, Ranchers, and Other Agricultural Managers",40,22,44990,22,45190,0.053
+2015,NY,New York,"Farmers, Ranchers, and Other Agricultural Managers",60,33,68440,34,71430,0.007
+2015,NC,North Carolina,"Farmers, Ranchers, and Other Agricultural Managers",90,28,58090,24,49470,0.023
+2015,NC,North Carolina,"Agricultural Workers, All Other",170,13,27300,13,26040,0.042
+2015,ND,North Dakota,"Farmers, Ranchers, and Other Agricultural Managers",**,36,74970,35,72260,**
+2015,ND,North Dakota,"Agricultural Workers, All Other",**,15,31950,14,28450,**
+2015,OH,Ohio,"Farmers, Ranchers, and Other Agricultural Managers",70,32,66860,27,56480,0.013
+2015,OH,Ohio,"Agricultural Workers, All Other",**,14,28380,14,29000,**
+2015,OK,Oklahoma,"Farmers, Ranchers, and Other Agricultural Managers",90,26,54220,25,52190,0.057
+2015,OR,Oregon,"Farmers, Ranchers, and Other Agricultural Managers",200,29,59650,29,59980,0.116
+2015,OR,Oregon,"Agricultural Workers, All Other",70,15,31990,13,28020,0.039
+2015,PA,Pennsylvania,"Farmers, Ranchers, and Other Agricultural Managers",30,42,88270,42,87280,0.006
+2015,SC,South Carolina,"Farmers, Ranchers, and Other Agricultural Managers",40,37,76880,36,74800,0.020
+2015,TN,Tennessee,"Farmers, Ranchers, and Other Agricultural Managers",70,22,46040,21,44020,0.025
+2015,TX,Texas,"Farmers, Ranchers, and Other Agricultural Managers",340,28,57720,21,44220,0.029
+2015,TX,Texas,"Agricultural Workers, All Other",220,13,27110,13,26520,0.019
+2015,WA,Washington,"Farmers, Ranchers, and Other Agricultural Managers",100,35,71920,33,69170,0.035
+2015,WA,Washington,"Agricultural Workers, All Other",110,16,33410,15,31410,0.036
+2015,WV,West Virginia,"Agricultural Workers, All Other",60,12,24390,10,21800,0.090
+2015,WI,Wisconsin,"Farmers, Ranchers, and Other Agricultural Managers",**,31,64850,33,67780,**
+2015,WI,Wisconsin,"Agricultural Workers, All Other",60,15,31620,14,29050,0.021
+2015,PR,Puerto Rico,"Agricultural Workers, All Other",**,17,35070,17,35610,**
+2016,AL,Alabama,"Agricultural Workers, All Other",280,13,27320,10,19900,0.146
+2016,AZ,Arizona,"Farmers, Ranchers, and Other Agricultural Managers",110,39,81200,33,69100,0.042
+2016,AZ,Arizona,"Agricultural Workers, All Other",280,21,44400,22,46060,0.106
+2016,AR,Arkansas,"Farmers, Ranchers, and Other Agricultural Managers",130,41,86200,33,68280,0.111
+2016,AR,Arkansas,"Agricultural Workers, All Other",80,15,31800,14,29390,0.066
+2016,CA,California,"Farmers, Ranchers, and Other Agricultural Managers",1240,39,80170,34,71120,0.078
+2016,CA,California,"Agricultural Workers, All Other",990,17,34960,16,32640,0.062
+2016,CO,Colorado,"Farmers, Ranchers, and Other Agricultural Managers",**,28,58220,26,53980,**
+2016,CO,Colorado,"Agricultural Workers, All Other",110,16,32920,16,32550,0.045
+2016,FL,Florida,"Farmers, Ranchers, and Other Agricultural Managers",120,51,106020,45,93440,0.015
+2016,FL,Florida,"Agricultural Workers, All Other",**,16,34280,14,28920,**
+2016,GA,Georgia,"Agricultural Workers, All Other",90,19,40540,15,30630,0.021
+2016,HI,Hawaii,"Agricultural Workers, All Other",120,18,37800,18,36510,0.182
+2016,ID,Idaho,"Farmers, Ranchers, and Other Agricultural Managers",140,35,73610,29,59730,0.213
+2016,ID,Idaho,"Agricultural Workers, All Other",130,15,30860,14,29080,0.193
+2016,IL,Illinois,"Farmers, Ranchers, and Other Agricultural Managers",230,33,69190,32,66870,0.039
+2016,IL,Illinois,"Agricultural Workers, All Other",200,14,29400,14,29260,0.033
+2016,IA,Iowa,"Farmers, Ranchers, and Other Agricultural Managers",210,37,77540,34,70470,0.134
+2016,IA,Iowa,"Agricultural Workers, All Other",450,15,30580,14,29200,0.292
+2016,KS,Kansas,"Agricultural Workers, All Other",40,15,31510,11,23370,0.028
+2016,KY,Kentucky,"Farmers, Ranchers, and Other Agricultural Managers",110,38,78530,38,78830,0.057
+2016,KY,Kentucky,"Agricultural Workers, All Other",60,15,31320,14,30150,0.033
+2016,LA,Louisiana,"Farmers, Ranchers, and Other Agricultural Managers",70,31,63850,30,62750,0.035
+2016,LA,Louisiana,"Agricultural Workers, All Other",300,27,55720,19,38730,0.155
+2016,MD,Maryland,"Agricultural Workers, All Other",**,18,37270,15,31740,**
+2016,MI,Michigan,"Farmers, Ranchers, and Other Agricultural Managers",60,32,66040,31,65240,0.014
+2016,MI,Michigan,"Agricultural Workers, All Other",**,14,28940,13,26520,**
+2016,MN,Minnesota,"Farmers, Ranchers, and Other Agricultural Managers",60,39,80500,36,74790,0.021
+2016,MN,Minnesota,"Agricultural Workers, All Other",**,19,38680,18,37320,**
+2016,MS,Mississippi,"Agricultural Workers, All Other",**,15,30250,9,19300,**
+2016,MO,Missouri,"Farmers, Ranchers, and Other Agricultural Managers",110,30,63090,23,48720,0.041
+2016,MO,Missouri,"Agricultural Workers, All Other",60,15,30440,14,28920,0.023
+2016,MT,Montana,"Agricultural Workers, All Other",30,17,35040,17,34470,0.067
+2016,NV,Nevada,"Farmers, Ranchers, and Other Agricultural Managers",30,44,91970,38,78270,0.024
+2016,NV,Nevada,"Agricultural Workers, All Other",40,19,38540,18,36660,0.034
+2016,NJ,New Jersey,"Farmers, Ranchers, and Other Agricultural Managers",50,39,82050,43,90300,0.012
+2016,NJ,New Jersey,"Agricultural Workers, All Other",50,13,27280,12,24610,0.012
+2016,NM,New Mexico,"Farmers, Ranchers, and Other Agricultural Managers",30,22,46670,22,46420,0.042
+2016,NM,New Mexico,"Agricultural Workers, All Other",50,16,32340,17,34350,0.059
+2016,NY,New York,"Farmers, Ranchers, and Other Agricultural Managers",60,36,75360,37,77050,0.007
+2016,NC,North Carolina,"Farmers, Ranchers, and Other Agricultural Managers",130,31,65380,25,51930,0.031
+2016,NC,North Carolina,"Agricultural Workers, All Other",140,12,25830,11,23460,0.034
+2016,ND,North Dakota,"Farmers, Ranchers, and Other Agricultural Managers",60,*,*,*,*,0.141
+2016,ND,North Dakota,"Agricultural Workers, All Other",60,19,39320,18,36800,0.136
+2016,OH,Ohio,"Farmers, Ranchers, and Other Agricultural Managers",70,40,83260,36,74990,0.013
+2016,OK,Oklahoma,"Farmers, Ranchers, and Other Agricultural Managers",140,25,51450,23,46940,0.088
+2016,OR,Oregon,"Farmers, Ranchers, and Other Agricultural Managers",200,26,54280,23,46930,0.110
+2016,OR,Oregon,"Agricultural Workers, All Other",70,16,34110,14,29060,0.037
+2016,PA,Pennsylvania,"Farmers, Ranchers, and Other Agricultural Managers",40,42,87000,42,87590,0.007
+2016,SC,South Carolina,"Farmers, Ranchers, and Other Agricultural Managers",60,40,84010,39,80260,0.029
+2016,SC,South Carolina,"Agricultural Workers, All Other",30,18,37280,16,32420,0.017
+2016,TN,Tennessee,"Farmers, Ranchers, and Other Agricultural Managers",70,26,53180,24,50360,0.025
+2016,TN,Tennessee,"Agricultural Workers, All Other",40,19,38630,18,37490,0.015
+2016,TX,Texas,"Farmers, Ranchers, and Other Agricultural Managers",340,41,85860,28,59130,0.029
+2016,TX,Texas,"Agricultural Workers, All Other",150,14,28640,13,27160,0.013
+2016,VA,Virginia,"Farmers, Ranchers, and Other Agricultural Managers",30,35,73140,30,63220,0.009
+2016,WA,Washington,"Farmers, Ranchers, and Other Agricultural Managers",130,38,79790,36,74460,0.041
+2016,WA,Washington,"Agricultural Workers, All Other",130,17,36120,16,34030,0.041
+2016,WV,West Virginia,"Agricultural Workers, All Other",80,13,27490,12,24280,0.119
+2016,WI,Wisconsin,"Farmers, Ranchers, and Other Agricultural Managers",50,31,64500,32,65650,0.018
+2016,PR,Puerto Rico,"Agricultural Workers, All Other",**,16,32590,17,35590,**
+2017,AL,Alabama,"Agricultural Workers, All Other",340,14,28910,10,20880,0.176
+2017,AZ,Arizona,"Farmers, Ranchers, and Other Agricultural Managers",110,41,86210,35,73210,0.041
+2017,AZ,Arizona,"Agricultural Workers, All Other",170,18,37000,17,36330,0.063
+2017,AR,Arkansas,"Farmers, Ranchers, and Other Agricultural Managers",150,40,82810,32,66590,0.126
+2017,AR,Arkansas,"Agricultural Workers, All Other",90,15,31990,14,29970,0.071
+2017,CA,California,"Farmers, Ranchers, and Other Agricultural Managers",1370,45,92740,38,78280,0.082
+2017,CA,California,"Agricultural Workers, All Other",1420,19,39670,17,36370,0.085
+2017,CO,Colorado,"Agricultural Workers, All Other",120,19,39030,15,31320,0.047
+2017,CT,Connecticut,"Farmers, Ranchers, and Other Agricultural Managers",30,36,75780,34,71680,0.018
+2017,FL,Florida,"Farmers, Ranchers, and Other Agricultural Managers",150,42,86470,38,79940,0.018
+2017,FL,Florida,"Agricultural Workers, All Other",230,12,24130,11,22470,0.027
+2017,GA,Georgia,"Farmers, Ranchers, and Other Agricultural Managers",80,32,65530,22,46240,0.020
+2017,GA,Georgia,"Agricultural Workers, All Other",110,18,38040,14,28620,0.027
+2017,HI,Hawaii,"Agricultural Workers, All Other",140,19,39870,19,39460,0.218
+2017,ID,Idaho,"Farmers, Ranchers, and Other Agricultural Managers",190,35,73570,30,61430,0.277
+2017,ID,Idaho,"Agricultural Workers, All Other",140,15,30710,14,29210,0.202
+2017,IL,Illinois,"Farmers, Ranchers, and Other Agricultural Managers",230,33,67920,30,61960,0.038
+2017,IL,Illinois,"Agricultural Workers, All Other",50,14,29520,14,29850,0.008
+2017,IN,Indiana,"Farmers, Ranchers, and Other Agricultural Managers",40,30,62610,28,57790,0.012
+2017,IN,Indiana,"Agricultural Workers, All Other",40,10,21040,9,19690,0.014
+2017,IA,Iowa,"Farmers, Ranchers, and Other Agricultural Managers",180,35,71770,34,70220,0.118
+2017,IA,Iowa,"Agricultural Workers, All Other",440,16,32360,15,30480,0.285
+2017,KS,Kansas,"Agricultural Workers, All Other",30,16,33930,12,23970,0.023
+2017,KY,Kentucky,"Farmers, Ranchers, and Other Agricultural Managers",90,42,86310,42,87080,0.049
+2017,KY,Kentucky,"Agricultural Workers, All Other",90,15,31940,14,29770,0.048
+2017,LA,Louisiana,"Farmers, Ranchers, and Other Agricultural Managers",40,37,77260,34,69700,0.024
+2017,LA,Louisiana,"Agricultural Workers, All Other",380,24,50200,18,38070,0.199
+2017,MA,Massachusetts,"Farmers, Ranchers, and Other Agricultural Managers",40,31,64950,27,55470,0.011
+2017,MA,Massachusetts,"Agricultural Workers, All Other",70,*,*,*,*,0.021
+2017,MI,Michigan,"Farmers, Ranchers, and Other Agricultural Managers",80,31,64530,33,67660,0.018
+2017,MI,Michigan,"Agricultural Workers, All Other",60,15,30930,13,27530,0.014
+2017,MN,Minnesota,"Farmers, Ranchers, and Other Agricultural Managers",50,39,80210,37,77190,0.017
+2017,MN,Minnesota,"Agricultural Workers, All Other",40,24,48920,25,51540,0.015
+2017,MS,Mississippi,"Agricultural Workers, All Other",40,*,*,*,*,0.038
+2017,MO,Missouri,"Farmers, Ranchers, and Other Agricultural Managers",80,29,59740,25,52380,0.028
+2017,MO,Missouri,"Agricultural Workers, All Other",120,14,30040,15,30370,0.042
+2017,MT,Montana,"Agricultural Workers, All Other",50,18,36960,17,36140,0.118
+2017,NE,Nebraska,"Farmers, Ranchers, and Other Agricultural Managers",50,24,50700,24,49180,0.057
+2017,NV,Nevada,"Farmers, Ranchers, and Other Agricultural Managers",40,40,83390,35,73500,0.029
+2017,NV,Nevada,"Agricultural Workers, All Other",50,19,40080,18,38060,0.034
+2017,NJ,New Jersey,"Farmers, Ranchers, and Other Agricultural Managers",40,39,82130,43,89090,0.009
+2017,NJ,New Jersey,"Agricultural Workers, All Other",100,12,24720,10,21370,0.026
+2017,NM,New Mexico,"Farmers, Ranchers, and Other Agricultural Managers",40,28,57480,24,49110,0.055
+2017,NM,New Mexico,"Agricultural Workers, All Other",50,16,32310,16,34180,0.056
+2017,NY,New York,"Farmers, Ranchers, and Other Agricultural Managers",50,41,86230,40,82950,0.005
+2017,NC,North Carolina,"Farmers, Ranchers, and Other Agricultural Managers",50,45,93780,40,82650,0.011
+2017,NC,North Carolina,"Agricultural Workers, All Other",110,13,26070,10,21710,0.027
+2017,ND,North Dakota,"Farmers, Ranchers, and Other Agricultural Managers",100,*,*,*,*,0.233
+2017,OH,Ohio,"Farmers, Ranchers, and Other Agricultural Managers",80,40,82660,35,73030,0.016
+2017,OK,Oklahoma,"Farmers, Ranchers, and Other Agricultural Managers",100,27,56970,27,55660,0.062
+2017,OR,Oregon,"Farmers, Ranchers, and Other Agricultural Managers",130,30,62180,28,57880,0.069
+2017,OR,Oregon,"Agricultural Workers, All Other",50,18,37600,15,30410,0.029
+2017,PA,Pennsylvania,"Farmers, Ranchers, and Other Agricultural Managers",50,43,89780,42,88340,0.009
+2017,SC,South Carolina,"Farmers, Ranchers, and Other Agricultural Managers",40,36,73940,38,79910,0.019
+2017,TN,Tennessee,"Farmers, Ranchers, and Other Agricultural Managers",60,29,60890,24,49710,0.021
+2017,TN,Tennessee,"Agricultural Workers, All Other",120,15,30250,13,27360,0.041
+2017,TX,Texas,"Farmers, Ranchers, and Other Agricultural Managers",400,38,78340,24,50720,0.034
+2017,TX,Texas,"Agricultural Workers, All Other",**,17,34640,14,29110,**
+2017,VA,Virginia,"Farmers, Ranchers, and Other Agricultural Managers",30,40,83340,40,83240,0.008
+2017,WA,Washington,"Farmers, Ranchers, and Other Agricultural Managers",120,41,85600,38,78340,0.036
+2017,WA,Washington,"Agricultural Workers, All Other",190,16,32820,14,29940,0.061
+2017,WI,Wisconsin,"Farmers, Ranchers, and Other Agricultural Managers",60,35,73330,35,72480,0.021
+2018,AL,Alabama,"Agricultural Workers, All Other",330,15,30560,12,23940,0.169
+2018,AZ,Arizona,"Farmers, Ranchers, and Other Agricultural Managers",120,36,75870,28,57690,0.044
+2018,AZ,Arizona,"Agricultural Workers, All Other",90,18,36570,17,36350,0.033
+2018,AR,Arkansas,"Farmers, Ranchers, and Other Agricultural Managers",110,32,67520,29,61170,0.087
+2018,AR,Arkansas,"Agricultural Workers, All Other",90,15,31640,14,29180,0.076
+2018,CA,California,"Farmers, Ranchers, and Other Agricultural Managers",1460,44,91670,38,78940,0.086
+2018,CA,California,"Agricultural Workers, All Other",1790,18,38230,15,31710,0.105
+2018,CO,Colorado,"Agricultural Workers, All Other",140,20,41150,17,34640,0.054
+2018,FL,Florida,"Farmers, Ranchers, and Other Agricultural Managers",120,35,71880,32,66600,0.013
+2018,FL,Florida,"Agricultural Workers, All Other",290,13,27850,12,24180,0.034
+2018,GA,Georgia,"Farmers, Ranchers, and Other Agricultural Managers",50,40,84110,36,75450,0.012
+2018,GA,Georgia,"Agricultural Workers, All Other",130,21,44700,20,42290,0.030
+2018,HI,Hawaii,"Agricultural Workers, All Other",110,21,44140,21,44190,0.170
+2018,ID,Idaho,"Farmers, Ranchers, and Other Agricultural Managers",220,29,60470,28,58270,0.318
+2018,ID,Idaho,"Agricultural Workers, All Other",120,15,31120,14,29330,0.164
+2018,IL,Illinois,"Farmers, Ranchers, and Other Agricultural Managers",240,32,66820,29,60090,0.040
+2018,IN,Indiana,"Farmers, Ranchers, and Other Agricultural Managers",40,31,64030,28,58090,0.013
+2018,IN,Indiana,"Agricultural Workers, All Other",70,11,22050,9,18830,0.022
+2018,IA,Iowa,"Farmers, Ranchers, and Other Agricultural Managers",140,39,82070,34,70220,0.089
+2018,IA,Iowa,"Agricultural Workers, All Other",430,15,30430,14,29120,0.280
+2018,KY,Kentucky,"Farmers, Ranchers, and Other Agricultural Managers",60,38,78290,35,73110,0.032
+2018,LA,Louisiana,"Farmers, Ranchers, and Other Agricultural Managers",50,36,75170,34,70900,0.028
+2018,LA,Louisiana,"Agricultural Workers, All Other",370,19,40360,13,27740,0.191
+2018,MD,Maryland,"Farmers, Ranchers, and Other Agricultural Managers",50,43,89660,33,69370,0.019
+2018,MD,Maryland,"Agricultural Workers, All Other",60,20,41780,19,39490,0.022
+2018,MA,Massachusetts,"Farmers, Ranchers, and Other Agricultural Managers",70,32,65710,30,62550,0.019
+2018,MA,Massachusetts,"Agricultural Workers, All Other",80,21,43990,19,38530,0.021
+2018,MI,Michigan,"Farmers, Ranchers, and Other Agricultural Managers",80,32,67030,34,70110,0.018
+2018,MI,Michigan,"Agricultural Workers, All Other",60,15,31160,14,28220,0.013
+2018,MN,Minnesota,"Farmers, Ranchers, and Other Agricultural Managers",50,46,95000,46,95930,0.017
+2018,MN,Minnesota,"Agricultural Workers, All Other",**,19,39090,17,34610,**
+2018,MS,Mississippi,"Agricultural Workers, All Other",**,16,33740,14,29250,**
+2018,MO,Missouri,"Farmers, Ranchers, and Other Agricultural Managers",70,30,62850,27,56870,0.024
+2018,MO,Missouri,"Agricultural Workers, All Other",**,16,32290,15,32220,**
+2018,MT,Montana,"Agricultural Workers, All Other",60,17,36340,17,35840,0.137
+2018,NE,Nebraska,"Farmers, Ranchers, and Other Agricultural Managers",120,32,67190,27,55790,0.126
+2018,NV,Nevada,"Farmers, Ranchers, and Other Agricultural Managers",60,44,90900,39,82060,0.047
+2018,NV,Nevada,"Agricultural Workers, All Other",60,*,*,*,*,0.046
+2018,NJ,New Jersey,"Agricultural Workers, All Other",**,12,25040,10,19920,**
+2018,NM,New Mexico,"Agricultural Workers, All Other",40,16,33440,16,34190,0.051
+2018,NY,New York,"Farmers, Ranchers, and Other Agricultural Managers",60,*,*,*,*,0.007
+2018,NC,North Carolina,"Farmers, Ranchers, and Other Agricultural Managers",50,48,100370,44,90730,0.010
+2018,NC,North Carolina,"Agricultural Workers, All Other",100,14,29300,11,23260,0.022
+2018,ND,North Dakota,"Farmers, Ranchers, and Other Agricultural Managers",110,*,*,*,*,0.274
+2018,OH,Ohio,"Farmers, Ranchers, and Other Agricultural Managers",100,38,78330,35,72070,0.019
+2018,OK,Oklahoma,"Farmers, Ranchers, and Other Agricultural Managers",110,28,57230,26,54030,0.068
+2018,OR,Oregon,"Farmers, Ranchers, and Other Agricultural Managers",**,33,68450,33,69530,**
+2018,OR,Oregon,"Agricultural Workers, All Other",30,17,34560,14,28810,0.018
+2018,PA,Pennsylvania,"Farmers, Ranchers, and Other Agricultural Managers",50,44,90650,44,91340,0.009
+2018,SC,South Carolina,"Farmers, Ranchers, and Other Agricultural Managers",40,38,79070,35,73740,0.017
+2018,TN,Tennessee,"Farmers, Ranchers, and Other Agricultural Managers",100,29,60490,23,48620,0.032
+2018,TN,Tennessee,"Agricultural Workers, All Other",220,15,30600,13,27390,0.074
+2018,TX,Texas,"Farmers, Ranchers, and Other Agricultural Managers",400,39,81330,30,63160,0.033
+2018,TX,Texas,"Agricultural Workers, All Other",**,11,23810,10,19840,**
+2018,VA,Virginia,"Farmers, Ranchers, and Other Agricultural Managers",40,41,84630,41,86170,0.009
+2018,WA,Washington,"Farmers, Ranchers, and Other Agricultural Managers",150,42,86640,38,79880,0.046
+2018,WA,Washington,"Agricultural Workers, All Other",500,16,33410,14,29540,0.154
+2018,WI,Wisconsin,"Farmers, Ranchers, and Other Agricultural Managers",60,35,72550,29,60520,0.020
+2018,WY,Wyoming,"Farmers, Ranchers, and Other Agricultural Managers",30,41,84720,38,79010,0.120
+2018,PR,Puerto Rico,"Agricultural Workers, All Other",**,13,27080,11,22830,**
+2019,AL,Alabama,"Agricultural Workers, All Other",180,13,27990,9,19360,0.094
+2019,AZ,Arizona,"Farmers, Ranchers, and Other Agricultural Managers",90,30,62630,26,54530,0.032
+2019,AZ,Arizona,"Agricultural Workers, All Other",50,19,38700,18,36770,0.016
+2019,AR,Arkansas,"Farmers, Ranchers, and Other Agricultural Managers",**,31,64490,28,58340,**
+2019,AR,Arkansas,"Agricultural Workers, All Other",50,15,31410,14,28800,0.041
+2019,CA,California,"Farmers, Ranchers, and Other Agricultural Managers",1490,47,97080,41,85080,0.086
+2019,CA,California,"Agricultural Workers, All Other",1550,19,40200,16,32560,0.089
+2019,CO,Colorado,"Agricultural Workers, All Other",130,20,41160,17,36080,0.048
+2019,FL,Florida,"Farmers, Ranchers, and Other Agricultural Managers",180,31,64020,26,55070,0.020
+2019,FL,Florida,"Agricultural Workers, All Other",300,13,27500,12,24010,0.034
+2019,GA,Georgia,"Farmers, Ranchers, and Other Agricultural Managers",60,36,74520,32,66250,0.014
+2019,GA,Georgia,"Agricultural Workers, All Other",**,19,39420,20,41160,**
+2019,ID,Idaho,"Farmers, Ranchers, and Other Agricultural Managers",230,29,61020,30,61580,0.317
+2019,ID,Idaho,"Agricultural Workers, All Other",40,15,31260,14,28950,0.059
+2019,IL,Illinois,"Farmers, Ranchers, and Other Agricultural Managers",260,35,72040,30,61580,0.044
+2019,IN,Indiana,"Farmers, Ranchers, and Other Agricultural Managers",100,34,69720,33,68010,0.033
+2019,IN,Indiana,"Agricultural Workers, All Other",70,11,23290,10,19830,0.021
+2019,IA,Iowa,"Farmers, Ranchers, and Other Agricultural Managers",160,43,90340,38,79890,0.103
+2019,IA,Iowa,"Agricultural Workers, All Other",310,14,28920,13,27900,0.202
+2019,KY,Kentucky,"Farmers, Ranchers, and Other Agricultural Managers",80,*,*,*,*,0.043
+2019,KY,Kentucky,"Agricultural Workers, All Other",70,16,33980,15,31710,0.035
+2019,LA,Louisiana,"Farmers, Ranchers, and Other Agricultural Managers",70,37,76490,36,74230,0.034
+2019,LA,Louisiana,"Agricultural Workers, All Other",330,15,30240,11,23570,0.171
+2019,ME,Maine,"Farmers, Ranchers, and Other Agricultural Managers",30,30,61640,29,59720,0.050
+2019,MD,Maryland,"Farmers, Ranchers, and Other Agricultural Managers",40,41,84760,33,68920,0.016
+2019,MD,Maryland,"Agricultural Workers, All Other",70,18,37760,18,36630,0.025
+2019,MA,Massachusetts,"Farmers, Ranchers, and Other Agricultural Managers",70,30,63060,28,57370,0.018
+2019,MI,Michigan,"Farmers, Ranchers, and Other Agricultural Managers",90,32,65890,34,71530,0.021
+2019,MI,Michigan,"Agricultural Workers, All Other",60,14,28820,13,27610,0.014
+2019,MN,Minnesota,"Farmers, Ranchers, and Other Agricultural Managers",40,50,103700,47,96940,0.015
+2019,MN,Minnesota,"Agricultural Workers, All Other",**,18,38120,16,33300,**
+2019,MS,Mississippi,"Agricultural Workers, All Other",140,15,31030,14,29270,0.123
+2019,MO,Missouri,"Farmers, Ranchers, and Other Agricultural Managers",100,34,70130,31,64570,0.034
+2019,MO,Missouri,"Agricultural Workers, All Other",**,15,31040,15,30760,**
+2019,MT,Montana,"Agricultural Workers, All Other",**,18,37190,18,36750,**
+2019,NE,Nebraska,"Farmers, Ranchers, and Other Agricultural Managers",190,31,65180,29,61130,0.191
+2019,NV,Nevada,"Farmers, Ranchers, and Other Agricultural Managers",60,41,85490,42,88000,0.042
+2019,NV,Nevada,"Agricultural Workers, All Other",100,*,*,*,*,0.070
+2019,NJ,New Jersey,"Agricultural Workers, All Other",**,14,29700,10,20600,**
+2019,NY,New York,"Farmers, Ranchers, and Other Agricultural Managers",110,48,100750,46,96070,0.012
+2019,NC,North Carolina,"Farmers, Ranchers, and Other Agricultural Managers",50,42,88230,40,84080,0.010
+2019,NC,North Carolina,"Agricultural Workers, All Other",50,20,42500,20,41720,0.011
+2019,ND,North Dakota,"Farmers, Ranchers, and Other Agricultural Managers",60,*,*,*,*,0.133
+2019,OH,Ohio,"Farmers, Ranchers, and Other Agricultural Managers",100,35,71850,32,66170,0.018
+2019,OK,Oklahoma,"Farmers, Ranchers, and Other Agricultural Managers",130,28,59120,28,57440,0.080
+2019,OR,Oregon,"Farmers, Ranchers, and Other Agricultural Managers",100,34,70250,34,70100,0.054
+2019,OR,Oregon,"Agricultural Workers, All Other",40,16,33150,15,30350,0.021
+2019,PA,Pennsylvania,"Farmers, Ranchers, and Other Agricultural Managers",40,41,86070,41,86020,0.007
+2019,SC,Pennsylvania,"Agricultural Workers, All Other",40,22,44850,22,45910,0.007
+2019,TN,Tennessee,"Farmers, Ranchers, and Other Agricultural Managers",70,33,69300,25,51570,0.024
+2019,TN,Tennessee,"Agricultural Workers, All Other",240,14,29900,13,27100,0.080
+2019,TX,Texas,"Farmers, Ranchers, and Other Agricultural Managers",470,35,71830,32,66110,0.038
+2019,TX,Texas,"Agricultural Workers, All Other",980,13,26050,12,24870,0.079
+2019,WA,Washington,"Farmers, Ranchers, and Other Agricultural Managers",130,42,86850,38,79840,0.040
+2019,WA,Washington,"Agricultural Workers, All Other",560,16,33340,14,29720,0.170
+2019,WI,Wisconsin,"Farmers, Ranchers, and Other Agricultural Managers",80,36,73920,31,65060,0.027
+2019,PR,Puerto Rico,"Agricultural Workers, All Other",**,15,30520,13,26590,**

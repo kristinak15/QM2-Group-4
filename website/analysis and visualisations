@@ -1,1 +1,16 @@
 
+PART 1: Economic variables, agriculture and GM crops
+
+Finding data, choosing variables and normalising. 
+- Best way to represent economic effects and output is GDP. Used agriculture GDP because it is more relevant for crop production
+- Limitations of data: only certain states available, time series data and other factors that can influence GDP (prices, exports, rural population)
+- Visualisation: data table
+
+Exploring the data (Use raw data or normalised?)
+- Visualisations: two-variate scatter plots (Yield and GM corn, Agri GDP and GM corn, Agri GDP and export/employment), correlation heatmap, big sns multivariate plot with histogram, multiple linear regression
+- Analysis: 
+
+Context and state comparison using maps
+- Visualisation: Historic interactive map for Agri GDP and GM corn
+
+PART 2: Public opinion and GM crops

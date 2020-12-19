@@ -14,7 +14,7 @@ Ines: twitter API data (done), NLP analysis (in progress, almost done, need gabr
 Maddy:
 Pia:
 Gabriel: Understand how Python produce choropleth maps, start producing map drafts, finalise choropleth and maybe other types of visualisations such as sunbursts or slopegraphs. I will need help for this.
-Kristina: normalise GDP (done), add more variables to regression y= Agricultural GDP, x=Total crop, GM corn, exports, employment, wage (in progress), finalise all regression visualisations and timeseries, start making choropleth map
+Kristina: normalise GDP (done), add more variables to regression y= Agricultural GDP, x=Total crop, GM corn, exports, employment, wage (done), finish regression (in progress), start making choropleth map (in progress)
 
 Week 10 (14th Dec)
 Objectives: Finish all visualisations and data analysis, start write up
@@ -23,7 +23,7 @@ Ines: Finish NLP and general analysis, put togehther all the visualisations we n
 Maddy:
 Pia:
 Gabriel: Finish objectives of previous week if undone, think of structure of the write-up and will write on data analysis methods or conclusions. 
-Kristina:
+Kristina: write aims (done), start planning the analysis and conclusions for my part of the analysis (in progress), adjust data and regression for each year to account for time effect
 
 Week 11 (21st Dec)
 
@@ -31,7 +31,7 @@ Ines: write sections
 Maddy:
 Pia:
 Gabriel: Same objectives as previous weeks, as multiple assignments to hand in may cause delays. The Pearson correlation analysis for state-level still needs to be done. Github needs to be organised.
-Kristina:
+Kristina:Finalise all visualisations, start write-up, finish interactive map
 
 Week 12 (28th Dec)
 

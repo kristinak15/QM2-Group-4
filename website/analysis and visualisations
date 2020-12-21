@@ -15,3 +15,13 @@ Context and state comparison using maps
 - Visualisation: Historic interactive map for Agri GDP and GM corn
 
 PART 2: Public opinion and GM crops
+
+- Google trends used for public engagement with the topic over chosen period of time. 
+  limitations: not representative of the sentiment of the people, no exact number of searches, rather gives an idea of when the search peaks were
+  we then looked for important dates for the technology of GMOs (legislation, regulations, marches agaisnt big companies etc.) and looked for the relationship 
+  between the dates and the search trends.
+  visualisations: search trends overlayed with key dates
+  
+- Around 200 tweets collected from the twitter API, in the USA and mentioning "GMO"
+  limitations: small sample, inaccuracy in the term and how people use it in tweets in comparison with our project
+  visualisations: nlkt plots with 20 most used nouns, verbs and adjectives, (collocations?)

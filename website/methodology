@@ -1,1 +1,8 @@
+Public Opinion
 
+Google trend data directly extracted from the website, choosing the term "GMO".
+Plotted the data. 
+In parallel, looked for key dates regarding the technology from varied sources and plotted them, overlaying the trends. 
+
+Twitter API data collected. Translated into csv file via excel, with rows for each tweet and their respectives links and then merged into a text cell for it to be usable 
+with the nltk library. Plotted 20 most commonly used nouns, verbs and ajectives, longer than two characters. 

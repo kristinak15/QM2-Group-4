@@ -5,10 +5,10 @@ Finding data, choosing variables and normalising.
 - Best way to represent economic effects and output is GDP. Used agriculture GDP because it is more relevant for crop production
 - Limitations of data: only certain states available, time series data and other factors that can influence GDP (prices, exports, rural population)
 - Normalised data by dividing the x-variables by agriculture land operated by state, as well as to have in the same order of magnitude and took log of employment in agriculture
-- Visualisation: data table
+- Visualisation: data table, stacked bar blot for GM corn across states 
 
-Exploring the data (Use raw data or normalised?)
-- Visualisations: two-variate scatter plots (Yield and GM corn, Agri GDP and GM corn, Agri GDP and export/employment), correlation heatmap, big sns multivariate plot with histogram, multiple linear regression
+Exploring the data 
+- Visualisations: two-variate scatter plots (Yield and GM corn, Agri GDP and GM corn, Agri GDP and export/employment), correlation heatmap, big sns multivariate plot with histogram, panel linear regression
 - Analysis: 
 
 Context and state comparison using maps

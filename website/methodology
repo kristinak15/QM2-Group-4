@@ -1,3 +1,22 @@
+Economic variables
+
+Data collection and organisation
+
+The y-variable chosen is Agricultural GDP and the x-variable is GM corn acreage. The other x-variables (corn yield, agricultural exports and employment in agriculture) were later added in order to improve the regression model since Agricultural GDP is affected by a variety of factors. All data for was collected by state to make a comparison, but also because it would give a more in depth look at GM crop usage and its effects. In order to get a greater breadth of data and analyse macroeconomic effects, the timeframe from 2005 to 2019 was used for each state. Due to the lack of data and time, other GM crops like cotton and soybeans were excluded from the analysis. In addition, 13 states were only available for GM corn area, whilst others were grouped under 'Other States', which were also excluded from the analysis.
+
+The data for GM corn acreage, Agricultural GDP, yield, exports was compliled from US Department of Agriculture (USDA) website and empoyment from Bureau of Labor Statistics (BLS) from separate CSV files, uploaded to Github and cleaned using pandas in Google Colab to make one dataframe. Since the GM corn acreage was given in percentage form, data for for total corn area planted was used to calculate the actual GM corn acreage values in acres. 
+
+In order to create the geojson map, the shapefile for United States was downloaded from the Census Government website and used for the visual representation of the data and to reflect on the location of states that have a higher agricultural output and reliance on GM crops. 
+
+Visualisations and regression analysis
+
+The initial exploratory and descriptive data analysis was carried out using pandas, matplotlib, numpy and seaborn libraries. For the regression and panel regression analysis, the linearmodels library was used. The panel linear regression was chosen as it the only linear regression model, which accounts and normalises for both the effect of time and another variable. Since the data is a timeseries, with several panel units, which can be firms, countries or states like in our case, this was the most appropriate regression model. (expand on time effects, random effects and panel data analysis in general) 
+
+In addition, it is important to consider the several assumption for the data that should be tested if a regression analysis is to be carried out, such as testing for linear relationships between y-variable and x-variables, normal distribution of residuals, making sure there is no autocorrelation using Durbin Watson test, heteroskedacity and multicollinearity. However, having researched panel regression, it was unclear whether the exact same assumptions hold and no methods could be found to test for heteroskedacity or residuals in Python. Thus, it is assumed that these hold true. The linear relationships were analysed by looking at the scatterplots and multicollinearity using sns plot, and Durbin Watson test carried out showing a result below 2.5 showing that the model is not autocorrelated.
+
+For the geojson map, the geopandas and bookeh libraries were used. The shapefile was merged with the dataframe from the regression analysis and applied for the interactive map. 
+
+
 Public Opinion
 
 Google trend data directly extracted from the website, choosing the term "GMO".

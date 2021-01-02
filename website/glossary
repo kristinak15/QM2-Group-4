@@ -1,4 +1,13 @@
+Agricultural GDP: Gross Domestic Product coming from the agricultural sector. 
+
+Autocorrelation: degree of similarity between a given time series and a lagged version of itself over successive time intervals. Measures the relationship between a variable's current value and its past values. 
+
 Bar chart: a diagram in which the numerical values of variables are represented by the height or length of lines or rectangles of equal width.
+
+Dependent variable: variable, often denoted by y, whose value depends on that of another. 
+
+Durbin Watson statistic: test for autocorrelation in the residuals from a statistical regression analysis. It always has a value bettween 0 and 4 with values 0 to less than 2 indicating a positive autocorrelation and values
+from 2 to 4 indicating a negative one. 
 
 Food security:  measure of the availability of food and individuals' ability to access it. 
 
@@ -6,24 +15,30 @@ Genetically modified organism: organism whose genome has been engineered in the 
 
 Gross Domestic Product (GDP): Gross domestic product is a monetary measure of the market value of all the final goods and services produced in a specific time period. 
 
+Heteroskedasticity: represents unequal scatter, used in the context of the residuals or error term. It is a systematic change in the spread of the residuals over the range of measured values. It
+can be either conditional or unconditional. 
+
+Independent variable: a variable, often denoted by x, whose variation does not depend on that of another. 
+
+Multicollinearity: occurrence of high intercorrelations among two or more independent variables in a multiple regression model. 
+
 Null hypothesis: a statement assumed to be true unless it can be shown to be incorrect beyond a reasonable doubt.
 
 Pair plot: plots that allow us to see the distribution of single variables and relationships between two variables 
 
+Panel Data: multi-dimensional data that is derived from a number of observations over time on a number of cross-sectional units like individuals, households, firms or governments. 
+
+Panel Regression: modeling method adapted to panel data, i.e. data of an observation that is measured repeatedly over time. 
+
 Public opinion: views prevalent among the public.
+
+Regression model: statistical methods that attempts to determine the strenght and character of the relationship between one dependent variable, often denoted by y, and a series of other
+variables (known as independent variables). 
+
+Standard deviation: quantity expressing by how much the members of a group differ from the mean value for the group. 
 
 Socioeconomic status: social standing or class of an individual or group. It is often measured as a combination of education, income and occupation.
 
 Yield: produce or provide (a natural, agricultural, or industrial product), in agriculture it is a measure of productivity and is defined as the amount of a crop produced per area of land (production/area planted)
 
-Agricultural GDP: 
 
-Panel Data:
-
-Panel Regression: 
-
-Autocorrelation and Durbin Watson test:
-
-Heteroskedacity:
-
-Multicollinearity:

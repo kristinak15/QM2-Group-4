@@ -2,17 +2,18 @@
 PART 1: Economic variables, agriculture and GM crops
 
 Finding data, choosing variables and normalising. 
-- Best way to represent economic effects and output is GDP. Used agriculture GDP because it is more relevant for crop production
-- Limitations of data: only certain states available, time series data and other factors that can influence GDP (prices, exports, rural population)
-- Normalised data by dividing the x-variables by agriculture land operated by state, as well as to have in the same order of magnitude and took log of employment in agriculture
-- Visualisation: data table, stacked bar blot for GM corn across states 
+- stacked bar blot for GM corn across states: It is evident  from the barplot that there is a clear increase of GM corn area between 2005 and 2019 across the 13 states. We want to explore the relationship with economic output using regression and whether there are patterns regarding which states have a high GM corn area and agricultural output using interactive maps.
+- Thus we found that the best way to represent economic effects and output is GDP. Used agriculture GDP because it is more relevant for crop production
+- Data table: As it can be seen from the data table, we used several x-variables other than Agricultural GDP to increase the accuracy of the model. Chose yield as it is a good representation of agricultural productivity, employment and exports as they are macroeconomic factors often used to explain GDP and GM corn area.
+- Normalised data by dividing the x-variables by agriculture land operated by state and the employment by the population, as well as to have in the same order of magnitude and took log of employment in agriculture
+- Limitations of data: only certain states available, time series data and other factors that can influence GDP (prices, exports, rural population). Employment may not be the best variable since agriculture is highly automated. 
 
-Exploring the data 
-- Visualisations: two-variate scatter plots (Yield and GM corn, Agri GDP and GM corn, Agri GDP and export/employment), correlation heatmap, big sns multivariate plot with histogram, panel linear regression
-- Analysis: 
+Exploring the data
+- Firstly, we looked at the correlations using two-variate scatter plots (Yield and GM corn, Agri GDP and GM corn, Agri GDP and export/employment), which showed a clear relationship between Agricultural GDP and GM corn area (data), with some outliers which can be explained by the fact that some states may have high agricultural output, but not be high corn producers. 
+- Correlation heatmap: Then, in order to do the panel regression analysis, we had to make sure that the x-variables were not correlated with each other. As seen from the correlation heatmap, the agricultural exports were highly correlated with GM corn area, which is why it was excluded from the final model.
+- big sns multivariate plot with histogram: All of the x-variables from the scatterplots seem to be correlated with Agri GDP, some more than others. (Comment on distributions)
+- Panel linear regression Analysis: 
 
-Context and state comparison using maps
-- Visualisation: Historic interactive map for Agri GDP and GM corn
 
 PART 2: Public opinion and GM crops
 

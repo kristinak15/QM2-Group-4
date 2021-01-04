@@ -51,23 +51,36 @@ For the geojson map, the geopandas and bookeh libraries were used. The shapefile
 applied for the interactive map. 
 
 
-Public Opinion
+Google Trends 
 
-Google trends 
+Regarding the Google Trend analysis, data was directly extracted from the Google Trend website. The keyword selected was "GMO", and such term was defined as a "topic" and not as a "research term".
 
-Regarding the Google trend analysis, data was directly extracted from the google trend website. The keyword selected was "GMO" and the data points 
+This allowed Google Trend to compile all searches associated with the topic of GMOs (meaning that searches on GM Crops, bio-engineered food were also taken into account for instance)
 
-represented the trends in searches including said keyword in the USA between 2008 and 2020. It is important to note that, as described by Google, each data point 
+rather than compile all searches using only the three characters word.
+
+The data points represented the trends in searches for the topic of GMO in the USA between 2008 and 2020. It is important to note that, as described by Google, each data point 
 
 is divided by the total searches of the geography and time ragne it represents to compare relative popularity. These results are later scaled on a range from 0 to 10.
 
-This unit method is therefore based on proportionality and lacks to show the actual number of searches computed for a given term at a given time. Aforementioned
+This unit method is therefore based on proportionality and lacks to show the actual number of searches computed for a given term at a given time. As mentioned,
 
 data points were downloaded and plotted with Python. In parallel, thorough research was conducted on key dates and events in regard to the genetic modification 
 
 technology, including legislation and policy, civil marches and demonstrations, new scientific findings etc. These dates were then plotted on the trends graph
 
-and conclusions were drawn on the online, namely google interactivity of the public on the subject. 
+to draw correlation and causations, namely on interactivity of the public with the topic. Public interactivity defines how the general public interacted online with
+
+a topic. It corresponds to the frequency of searches on such topic through a given period and does not cover sentiment, or agreement with the topic. 
+
+
+Public Opinion
+
+The analysis of the public opinion relies on correlation analysis, timeline analysis, and language analysis. First, correlations between public discussions and the
+
+level of implementation of genetically modified crops in the United-States were performed. From the US Department of Agriculture dataset, the general production of
+
+genetically modified crops 
 
 
 Twitter API

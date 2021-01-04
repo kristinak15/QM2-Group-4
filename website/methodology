@@ -2,92 +2,37 @@ Economic variables
 
 Data collection and organisation
 
-The y-variable chosen is Agricultural GDP and the x-variable is GM corn acreage. The other x-variables (corn yield, agricultural exports and employment 
+The y-variable chosen is Agricultural GDP, and the x-variable is GM corn acreage. The other x-variables (corn yield, agricultural exports and employment in agriculture) were later added to improve the regression model since Agricultural GDP is affected by a variety of factors. All data were collected by states to make a comparison and to give it a more in-depth look at GM crop usage and its effects. To get a greater breadth of data and analyse macroeconomic effects, the timeframe from 2005 to 201was used for each state. Due to the lack of data and time, other GM crops like cotton and soybeans were excluded from the analysis. In addition, 13 states were only available for GM corn area, whilst others were grouped under 'Other States', which were also excluded from the analysis.
 
-in agriculture) were later added in order to improve the regression model since Agricultural GDP is affected by a variety of factors. All data for was collected 
-
-by state to make a comparison, but also because it would give a more in depth look at GM crop usage and its effects. In order to get a greater breadth of data
-
-and analyse macroeconomic effects, the timeframe from 2005 to 2019 was used for each state. Due to the lack of data and time, other GM crops like cotton and 
-
-soybeans were excluded from the analysis. In addition, 13 states were only available for GM corn area, whilst others were grouped under 'Other States', which 
-
-were also excluded from the analysis.
-
-The data for GM corn acreage, Agricultural GDP, yield, exports was compliled from US Department of Agriculture (USDA) website and empoyment from Bureau of
-
-Labor Statistics (BLS) from separate CSV files, uploaded to Github and cleaned using pandas in Google Colab to make one dataframe. Since the GM corn acreage 
-
-was given in percentage form, data for for total corn area planted was used to calculate the actual GM corn acreage values in acres. 
-
-In order to create the geojson map, the shapefile for United States was downloaded from the Census Government website and used for the visual representation 
-
-of the data and to reflect on the location of states that have a higher agricultural output and reliance on GM crops. 
+The data for GM corn acreage, Agricultural GDP, yield, exports were compiled from US Department of Agriculture (USDA) website and employment from Bureau of Labor Statistics (BLS) from separate CSV files, uploaded to Github and cleaned using pandas in Google Colab to make one data frame. Since the GM corn acreage was given in percentage form, data for total corn area planted was used to calculate the actual GM corn acreage values in acres. The shapefile for the United States was downloaded from the Census Government website to create a geojson map and visualise it. Such data allowed to reflect on states' location with a higher agricultural output and reliance on GM crops.
 
 Visualisations and regression analysis
 
-The initial exploratory and descriptive data analysis was carried out using pandas, matplotlib, numpy and seaborn libraries. For the regression and panel 
+The initial exploratory and descriptive data analysis were carried out using Pandas, matplotlib, NumPy and Seaborn libraries. For the regression and panel regression analysis, the linear model's library was used. The linear panel regression was chosen as it the only linear regression model, which accounts and normalises for both the effect of time and another variable. Since the data is a time series, with several panel units, which can be firms, countries or states like in our case, this was the most appropriate regression model (expand on time effects, random effects and panel data analysis in general). Besides, it is essential to consider the several assumptions for the data that should be tested if a regression analysis is to be carried out, such as testing for linear relationships between y-variable and x-variables, normal distribution of residuals. Ensuring that there is no autocorrelation using a Durbin Watson test, heteroskedasticity and multicollinearity is also required. However, having researched panel regression, it was unclear whether the exact same assumptions hold and no methods could be found to test for heteroskedasticity or residuals in Python. Thus, it is assumed that these hold true. The linear relationships were analysed by
+looking at the scatterplots and multicollinearity using SNS plot, and Durbin Watson test carried out showing a result below 2.5 showing that the model is not autocorrelated.
 
-regression analysis, the linearmodels library was used. The panel linear regression was chosen as it the only linear regression model, which accounts and 
-
-normalises for both the effect of time and another variable. Since the data is a timeseries, with several panel units, which can be firms, countries or states 
-
-like in our case, this was the most appropriate regression model. (expand on time effects, random effects and panel data analysis in general) 
-
-In addition, it is important to consider the several assumption for the data that should be tested if a regression analysis is to be carried out, such as 
-
-testing for linear relationships between y-variable and x-variables, normal distribution of residuals, making sure there is no autocorrelation using Durbin 
-
-Watson test, heteroskedacity and multicollinearity. However, having researched panel regression, it was unclear whether the exact same assumptions hold and 
-
-no methods could be found to test for heteroskedacity or residuals in Python. Thus, it is assumed that these hold true. The linear relationships were analysed by
-
-looking at the scatterplots and multicollinearity using sns plot, and Durbin Watson test carried out showing a result below 2.5 showing that the model is not
-
-autocorrelated.
-
-For the geojson map, the geopandas and bookeh libraries were used. The shapefile was merged with the dataframe from the regression analysis and 
-
-applied for the interactive map. 
+For the geojson map, the geopandas and bookeh libraries were used. The shapefile was merged with the data frame from the regression analysis and applied for the interactive map. 
 
 
-Google Trends 
+Public Opinion 
 
-Regarding the Google Trend analysis, data was directly extracted from the Google Trend website. The keyword selected was "GMO", and such term was defined as a "topic" and not as a "research term".
+Regarding the public opinion analysis, data was used from the USDA and Google Trend. The Google Trend data was directly collected from the Google Trend website. Google Trend informs on how users discuss a topic and on how to map levels of discussions geographically. The keyword selected was "GMO", and such term was defined as a "topic" and not as a "research term" in order to compile all searches associated with the topic of GMO rather than to compile all searches using only the three characters word. Google Trend therefore ensured that all terms referring to the topic of GMO, such as "genetically-modified crops", "bio-engineered food", "CRISPR plants" for example, were included in the data. 
 
-This allowed Google Trend to compile all searches associated with the topic of GMOs (meaning that searches on GM Crops, bio-engineered food were also taken into account for instance)
+The data points generated represented trends in searches on GMO in the United-States between 2007 and 2019. It is important to note that, as described by Google, each data point is divided by the total searches of the geography and time range it represents to compare relative popularity. These results, scaled on a range from 0 to 100 corresponds to an index, where 100 indicates the period where GMOs were the most discussed. Therefore, this unit method is based on proportionality and lacks to show the actual number of searches computed for a given term at a given time.
+This limitation involved adapting others datasets to the same format, as there is no viable method to change an Index Base 100. 
 
-rather than compile all searches using only the three characters word.
+The analysis of the public opinion then relied on correlation analysis, timeline analysis, and language analysis. First, correlations between public discussions and the level of implementation of genetically modified crops in the United-States were performed. From the US Department of Agriculture dataset, the general production of genetically modified crops was formatted in an Index Base 100, the same unit used in the Google Trend data. An Index Base 100 allows to see evolutions and accurately measure how the data changed over time, compared to its maximum value. Furthermore, a dataset in Index Base 100 can only be compared with another dataset using an Index Base 100. As for the economic analysis, only corn was used, as it was the most relevant genetically-modified production. Excel was used to convert the USDA dataset to an index, as it required multiple operations which Python inefficiently handled. This process created two different datasets, one for a national analysis, and the other for a state-analysis. States included in the analysis were all thirteen states included in the original USDA dataset, besides North Dakota, South Dakota and Kansas, as Google Trend did not provide reliable, sufficient data for these two states. Indeed, as Google Trend itself classified the data as "incomplete", those states were excluded from the analysis. 
 
-The data points represented the trends in searches for the topic of GMO in the USA between 2008 and 2020. It is important to note that, as described by Google, each data point 
+For the national perspective, the dataset uses the index of the evolution of genetically modified crop in the United-States and its associated index of public discussion online, referred to as "public interactivity with the topic". Public interactivity defines how the general public interacted online with a topic. It corresponds to the frequency of searches on such topic through a given period and does not cover sentiment, or agreement with the topic. 
+For the state's perspective, each state production index is associated with its own Google Trend index, therefore associating each state with a production level and a level of public interactivity. 
+A total of eleven Pearson correlations were applied, one for the national perspective, and one for each ten states. Such process was realised through Python, using the scipy.stats.stats and pearsonr libraries. Pearson's correlation coefficients were then used to discuss the correlation levels between genetically modified production and public interactivity.
 
-is divided by the total searches of the geography and time ragne it represents to compare relative popularity. These results are later scaled on a range from 0 to 10.
+In parallel, to attempt to discuss causation, thorough research was conducted on key dates and events regarding genetic modification technology, including legislation and policy, civil marches and demonstrations, new scientific findings. These dates were then plotted on the general public interactivity graph to analyse which events might have triggered an intensive discussion online about GMO.
 
-This unit method is therefore based on proportionality and lacks to show the actual number of searches computed for a given term at a given time. As mentioned,
+However, as Google Trend's public interactivity does not provide language analysis or sentiment analysis, Twitter API data was used to analyse those factors. 
 
-data points were downloaded and plotted with Python. In parallel, thorough research was conducted on key dates and events in regard to the genetic modification 
-
-technology, including legislation and policy, civil marches and demonstrations, new scientific findings etc. These dates were then plotted on the trends graph
-
-to draw correlation and causations, namely on interactivity of the public with the topic. Public interactivity defines how the general public interacted online with
-
-a topic. It corresponds to the frequency of searches on such topic through a given period and does not cover sentiment, or agreement with the topic. 
-
-
-Public Opinion
-
-The analysis of the public opinion relies on correlation analysis, timeline analysis, and language analysis. First, correlations between public discussions and the
-
-level of implementation of genetically modified crops in the United-States were performed. From the US Department of Agriculture dataset, the general production of
-
-genetically modified crops 
-
+Regarding visualisations, matplotlib graphs and bar charts were used, notably to compare all states' interactivities with GMOs and to plot the Pearson's correlation coefficients.
 
 Twitter API
 
-Around 200 tweets posted from the USA including the terms "GMO" and/or "genetically modified crops". Said tweets were collected by way of the Twitter API and were 
-
-later translated into a csv file. Using the natural language tool kit (nltk) library on python, natural language from the obtained text (collection of tweets) 
-
-was processed. Indeed, collocations were run, as well as the 20 most common nouns, verbs and adjectives. 
-
+Around 200 tweets posted from the USA including the terms "GMO" or "genetically modified crops". Said tweets were collected using Twitter API search/tweets query, through Python. To access Twitter API resources through Python, the Colab file also authenticated account tokens and keys access. The collection method was parameterised by setting the search on the United-States, through the "country" parameters, and all Tweets collected were written in English. As queries only pulled 100 Tweets, the Colab file had to be run three times, with a week of interval. The results were then transcribed in a CSV file through Python, to be analysed. Using the natural language tool kit (NLTK) library on Python, natural language from the obtained text (collection of tweets) was processed. Indeed, collocations were run, as well as the 20 most common nouns, verbs and adjectives.

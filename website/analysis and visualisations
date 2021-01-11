@@ -25,4 +25,4 @@ PART 2: Public opinion and GM crops
   
 - Around 200 tweets collected from the twitter API, in the USA and mentioning "GMO"
   limitations: small sample, inaccuracy in the term and how people use it in tweets in comparison with our project
-  visualisations: nlkt plots with 20 most used nouns, verbs and adjectives, (collocations?)
+  visualisations: nlkt plots with 20 most used nouns, verbs and adjectives, using nltk tool kit on python (collocations?)

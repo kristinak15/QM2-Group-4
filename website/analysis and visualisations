@@ -1,18 +1,65 @@
 
 PART 1: Economic variables, agriculture and GM crops
 
-Finding data, choosing variables and normalising. 
-- stacked bar blot for GM corn across states: It is evident  from the barplot that there is a clear increase of GM corn area between 2005 and 2019 across the 13 states. We want to explore the relationship with economic output using regression and whether there are patterns regarding which states have a high GM corn area and agricultural output using interactive maps.
-- Thus we found that the best way to represent economic effects and output is GDP. Used agriculture GDP because it is more relevant for crop production
-- Data table: As it can be seen from the data table, we used several x-variables other than Agricultural GDP to increase the accuracy of the model. Chose yield as it is a good representation of agricultural productivity, employment and exports as they are macroeconomic factors often used to explain GDP and GM corn area.
-- Normalised data by dividing the x-variables by agriculture land operated by state and the employment by the population, as well as to have in the same order of magnitude and took log of employment in agriculture
-- Limitations of data: only certain states available, time series data and other factors that can influence GDP (prices, exports, rural population). Employment may not be the best variable since agriculture is highly automated. 
+Figure A1: Genetically-modified corn area of all corn area planted (%) by state for 2005, 2010, 2015 and 2019 
 
-Exploring the data
-- Firstly, we looked at the correlations using two-variate scatter plots (Yield and GM corn, Agri GDP and GM corn, Agri GDP and export/employment), which showed a clear relationship between Agricultural GDP and GM corn area (data), with some outliers which can be explained by the fact that some states may have high agricultural output, but not be high corn producers. 
-- Correlation heatmap: Then, in order to do the panel regression analysis, we had to make sure that the x-variables were not correlated with each other. As seen from the correlation heatmap, the agricultural exports were highly correlated with GM corn area, which is why it was excluded from the final model.
-- big sns multivariate plot with histogram: All of the x-variables from the scatterplots seem to be correlated with Agri GDP, some more than others. (Comment on distributions)
-- Panel linear regression Analysis: 
+Firstly, to explore the first GM crop percentage planted dataset, a bar chart (Figure A1) was created for the states available and for GM corn as it is the focus of the analysis. As stated in the methodology, the rest of the states in the original dataset were grouped under ‘Other States’. These states as well as United States was excluded from the rest of the analysis to ensure a fair state by state analysis. It is evident  from the bar chart that there is a clear increase of GM corn area between 2005 and 2019 across the 13 states as well as the United States. The biggest percentage increase is in Ohio from 2005 to 2010, however since the data is in percentages, the actual area increase may be not as significant. Such drastic increases in genetically modified crops being planted displays an upward trend and levels off above 80% for the sample states, which made us curious to explore whether these increases can explain changes in agricultural and economic output and later the trends in public opinion. 
+
+We found that the best way to represent economic effects and output is GDP. By using Agricultural GDP, the analysis is more relevant for crop production as it is a more accurate reflection of output related solely to the agricultural sector.
+ 
+Figure A2: Agricultural GDP against genetically modified corn acreage for 13 states (2005-2019)
+
+Once the y-variable was decided, we looked at the correlations using two-variate scatter plots, in particular between the Agricultural GDP and GM corn acreage as seen in Figure A2. From the scatter plot in Figure A2 , it is evident that there is a positive upward correlation between Agricultural GDP and GM corn area. As GM corn acreage increases so does the Agricultural GDP, however this could also be explained by the effect of growth and time. There are some outliers in the top left corner, which could be explained by the fact that some states may have high agricultural output, but not be high corn producers. 
+
+However, Agricultural GDP is affected by a multitude of variables, such as rural population, life expectancy, foreign direct investment, the rate of inflation, agricultural exports. Thus, the other x-variables such as agricultural exports, total employment in agriculture and yield were added, as can be seen below.
+
+Figure A3: Raw data table with all x and y variables
+
+The Figure A3 shows several x-variables chosen other than GM crop area to explain Agricultural GDP and increase the accuracy of the model. The agricultural GDP and agricultural exports are displayed in dollars, the GM corn area in acres and yield in production per acre. Yield was chosen as it is a good representation of agricultural productivity which is independent from the land area used in agriculture and is calculated by dividing production by area planted. Meanwhile employment and exports were chosen as they are macroeconomic factors often used to explain GDP.
+ 
+Figure A4: Normalised data table with all variables
+
+The next step was to normalise the data in order to make sure that the correlations are not biased and show a more accurate correlation between the changes in the variables. In Figure A4, the x-variables were divided by agriculture land operated by state and the employment was divided by the population. Then they were normalised to have in the same order of magnitude. The log of employment in agriculture was taken to spread the data since the data points were all grouped in one axis when the data was checked using a scatter plot.
+ 
+Figure A5: Normalised agricultural GDP against normalised GM corn acreage by state (2005-2019)
+
+Figure A5 is similar to Figure A2, but now uses the normalised values and colour coded by state in order to have a more in-depth analysis of the relationship between GM corn area and agricultural GDP by state. It is interesting to compare the relationship between the x and y variables by states, for example for Nebraska it looks much more positive and linear than for other states. Meanwhile, for Texas the data points are more grouped and the GM corn area is much more constant, which could mean that those points could be the outliers from Figure A2. The scatter plot still clearly shows a positive relationship for the majority of states, however for Texas the GM corn area remained almost constant and might not explain the agricultural GDP as well. This could suggest that it is one of the states, which is not a major corn producer and its agricultural sector relies on other produce. But in the majority of other cases, an increase in GM corn area is associated with an increase in Agricultural GDP, which allows for the continuation of the analysis.
+ 
+Figure A6: Correlation heatmap for all normalised variables
+
+Then, in order to do the panel regression analysis, a correlation heatmap was made (Figure A6) to make sure that the x-variables were not correlated with each other, which is one of the main assumptions of linear regressions. As seen from the Pearson correlation heatmap, the agricultural exports were highly correlated with GM corn area with the correlation coefficient above 0.6, which can also be seen in the scatterplot below in Figure A7. Therefore, exports was excluded from the final panel regression model. 
+ 
+Figure A7: Multivariate scatter plot and distribution plot for all normalised values (2005-2019)
+
+Next, a multivariate plot (Figure A7) was used visualise to the relationship between the variables and their distributions. Another key assumption for linear regression is that all x-variables are linearly correlated with the y-variable (N_Agri_GDP), which is the case here and was also shown in the heatmap (Figure A6). The agricultural exports (N_agri_exports) can be seen to have a very strong relationship with both GM corn area and the Yield, which is why they were later excluded from the panel regression. However, it is still interesting to note that at the lower levels of exports, they are highly correlated with agricultural GDP (N_Agri_GDP). Meanwhile, the employment in agriculture (log_TOT_EMP) has a negative relationship with agricultural GDP, which also is not very strong. The red line shows the estimated regression line, and the shaded area the errors, which are most prominent for the log of total agricultural employment (log_TOT_EMP) and yield also has some error, showing how their relationship with the other variables is not very strong. 
+
+Secondly, the distributions for all variables appear standard, with the yield being the most symmetrical and unimodal, which is similar to a normal distribution where most points lie in the middle. The total employment is skewed left and the others has several peaks and  are otherwise uniform, which shows similar probabilities. There do not seem to be any significant outliers. 
+
+Since for the most part the x-variables are not strongly correlated with eachother, but are linearly correlated with the y-variable, we proceeded witht the panel regression. Several panel regression models were carried out and compared for the the R-squares, the y-variable (agricultural GDP) and x-variables (GM corn acreage, yield, total agricultural employment). 
+
+ 
+Figure A8: Results for panel regression analysis
+
+Given the theoretical assumptions given in the methodology, the most relevant model is the PanelOLS with year as an x-variable and PanelOLS2 with time_effects. The Pooled OLS is a normal linear regression model, which does not make any distinctions between the states (entities). Meanwhile the Panel OLS  takes them into account using fixed_effects parameter.
+
+The model comparison shows that the highest R-Squared was achieved by the Panel OLS at 0.66 (2SF), which used the years as another x-variable and is above the Pooled OLS of 0.60 (2SF). This means that around 66% of the variation of the x-variables explain the variation in agricultural GDP. Meanwhile the PanelOLS2 with the time_effects had the lowest R-Squared at 0.28, meaning the variance of the data set is not well-explained. The stark difference in the R-squared of the PanelOLS and the PanelOLS2 shows the possible instability and unreliability of the model, but nevertheless implies that the agricultural GDP can be explained by the GM corn area, the corn yield and total agricultural employment.  However, the R-squared within the same groups (year or states), between the different states or years and the overall average for PanelOLS2 are medium to strong and above 0.52. 
+
+The x-variable coefficients show the strength of the relationship. The GM corn area coefficient is very similar across all five models, which means its relationship with agricultural GDP is positive and above 0.43 in all models. The interpretation is that for every unit increase in GM corn area, the agricultural GDP increases by around 0.43 when other predictors are held constant. Meanwhile for the total employment the coefficient varies significantly and is not always negative. It would be interesting to use another variable instead of employment as it is the weakest x-variable and see if it improves the model.
+
+
+In conclusion, the analysis shows that there is a medium to strong positive relationship between GM corn area and agricultural GDP, as is exemplified by the x-coefficients across all of the regression models. This can also be seen in the positive gradient in Figure A2 and A5.  The panel regression model on the other hand, shows some more variability in the results, especially for the other two x-variables (yield and total employment in agriculture). Therefore, there is still a lot of room for improvement, for example the employment should be substituted since nowadays agriculture is dominated by machines and the employment in agriculture might not significantly explain the agricultural GDP. Although yield has medium to low coefficients in the panel regression, the correlation between yield and GM corn area also seems linear, which is a reason to substitute for another variable. Overall, there has been a significant increase in GM corn area harvested and produced and most of the top agricultural states except for Texas have a positive correlation between GM corn and agricultural GDP. Although in the United States, agricultural GDP is not the main source of growth and income, these positive results show how similar studies could be applied  in developing countries, which depend on the agricultural sector to a greater extent. 
+
+Limitations 
+
+Limitations of GM corn data set: Some of the limitations of the data and this exploration are that only certain states were available in the GM corn dataset meaning that the scope of the data is limited. This also affected the regression model, which becomes more unstable as more x-variables are added, but the length of the dataset is not extended. Nevertheless, the states included are the biggest agricultural producers in the United States, so the results are valuable. 
+
+Limitations of panel regression: Another crucial factor is that time series data was used, which means we had to normalise for the effect of time. Agricultural GDP, despite being more specific than normal GDP,  is an aggregate measure, meaning that a lot of factors affect it such as prices, exports, rural populations, which reduces the accuracy of the panel regression model. Agricultural employment may not be the best variable since agriculture is highly automated. Therefore the model may not be as robust as expected. The Wu-Hausman test should have been used to have empirical evidence for the chosen panel regression model. Limited knowledge and expertise in panel data analysis may have caused further errors in the methodology. 
+
+Context and state comparison using maps
+
+The reason we decided to visualise the data with an interative map is to further see if there are patterns regarding agricultural output and to have a historical perspective of the findings. However, the interactive aspect for the timeline was not functioning, so the map shows the results in the United States for 2019. 
+
+It is interesting to see that the states that were involved in the data analysis in fact have medium agricultural GDP, whilst the East and West Coasts have higher values, with California being the biggest agricultural state. However, since the data was normalised using the agricultural land operated this could have made the smaller states have a higher agricultural GDP in relation to the other states. It would be interesting to further extend the analysis by looking at GM crops other than corn as well as the rest of the high producing agricultural states like California.
 
 
 PART 2: Public opinion and GM crops

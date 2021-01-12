@@ -5,7 +5,7 @@ Figure A1: Genetically-modified corn area of all corn area planted (%) by state 
 
 Firstly, to explore the first GM crop percentage planted dataset, a bar chart (Figure A1) was created for the states available and for GM corn as it is the focus of the analysis. As stated in the methodology, the rest of the states in the original dataset were grouped under ‘Other States’. These states as well as United States was excluded from the rest of the analysis to ensure a fair state by state analysis. It is evident  from the bar chart that there is a clear increase of GM corn area between 2005 and 2019 across the 13 states as well as the United States. The biggest percentage increase is in Ohio from 2005 to 2010, however since the data is in percentages, the actual area increase may be not as significant. Such drastic increases in genetically modified crops being planted displays an upward trend and levels off above 80% for the sample states, which made us curious to explore whether these increases can explain changes in agricultural and economic output and later the trends in public opinion. 
 
-We found that the best way to represent economic effects and output is GDP. By using Agricultural GDP, the analysis is more relevant for crop production as it is a more accurate reflection of output related solely to the agricultural sector.
+As explained earlier in the methodology, we found that the best way to represent economic effects and output is GDP. By using Agricultural GDP, the analysis is more relevant for crop production as it is a more accurate reflection of output related solely to the agricultural sector.
  
 Figure A2: Agricultural GDP against genetically modified corn acreage for 13 states (2005-2019)
 

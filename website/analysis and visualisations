@@ -72,4 +72,31 @@ PART 2: Public opinion and GM crops
   
 - Around 200 tweets collected from the twitter API, in the USA and mentioning "GMO"
   limitations: small sample, inaccuracy in the term and how people use it in tweets in comparison with our project
-  visualisations: nlkt plots with 20 most used nouns, verbs and adjectives, using nltk tool kit on python (collocations?)
+  visualisations: nlkt plots with 20 most used nouns, verbs and adjectives, using nltk tool kit on python, words with more than two characters
+  to target specifically nouns, verbs and adjectives, POS taking was used. 
+  
+  
+  findings:
+  - nouns: most nouns found include expected terms such as 'crops', 'GMO', 'food', 'modified'. this does not seem to indicate any particular popular opinion. 
+         further, wrods like 'product', 'consumption', 'feed' suggest that people mostly discuss the "product" aspect of the topic, rather than seeing it as a scientific advancement
+         the word effects is fourth, suggesting that there is worry about its effect, perhaps on people, as the latter is also included in the top 20 
+         an interesting term that comes up is GMOFreeUSA, this is obviously not a real word and looks more like a popular term invented by people with anti-GMO opinions. this shows there may be a movement against GMOs, popular among USA twitter users and perhaps other social media platforms. 
+         
+ -adjectives:commonly found adjectives such as 'undesirable', 'unstable', 'invasive' indicate a major negative connotation in the collected tweets. 
+            on another hand, terms like natural and good appear, although they could have been originally written in a negative form, as could be expected.
+            terms such as 'new' and 'experimental' could imply that people still see this technology as something that is not currently taking place and that it is not a long-term solution to economic and agricultural issues encountered. 
+            
+ -verbs: 'groundbreaking' is considered here as verb, although it is more of an adjective. this word certainly has a positive connotation to it. 
+        similarly 'clean' is included in the list. these adjectives being highly context-dependent, it is difficult to draw conclusions on their meaning and therefore the common sentiment of tweet authours. 
+        one the contrary, the following term is 'harmed' which implies that a common opinion is that GMOs can be harmful. 
+        others verbs such as 'are', 'was', 'were', 'containing', 'have' are common and don't suggest specific characteristics on sentiment of the tweets. 
+  
+-overall, the most important findings lie in the adjective category, with 'undesirable' and 'unstable' as the most commonly used ones. additionally, the invented term GMOFreeUSA truly shwos the public opposition to the technology. 
+ other more positive terms are used, although their context could give them opposite meaning. 
+ natural language processing therefore has limitations, mainly that words are highly context-dependent and exclusively basing a text sentiment analysis on this tool can draw false conclusions. 
+ after reading the full tweets, it is certain than the vast majority were written by people who were skeptic about GMOs. 
+
+
+  
+  
+  

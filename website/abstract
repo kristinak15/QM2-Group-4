@@ -1,8 +1,10 @@
+Aim and Motivation:  The questions that our group aims to answer encompasses the interests we have in economics, genetics, science policy, and sustainability.  Our goal is to examine the relationship between genetically modified crop production and economic output in agriculture by state in the United States. Secondly, we aim to analyze the correlations between public opinion and GM crop production.
 
-Purpose and motivation:
+Problem:  Despite the controversies regarding GM crops, they could have significant potential in addressing the challenges of sustainable and economic development. Moreover, the general public frequently has limited information regarding GM crops despite its growing implementation in the United States. 
 
-Methods:
+Approach: We have used data from the United States open data sources to look at the correlations between agricultural GDP and GM corn area planted using scatterplots, a map and a panel regression analysis to assess the relationship between the two variables, taking into account other factors that influence GDP. Then, we carried out a Google Trend and NLP Twitter data analysis to assess the trends in interactivity and  public opinion.
+ 
+Result: The economic analysis showed a medium positive relationship between GM corn area planted and agricultural economic output, with some anomalies for certain states like Texas. The map showed that agricultural output is mainly located within the states in the analysis, except for California and some states on the East Coast, thus it would be beneficial to extend the analysis to those states. Whilst the panel regression models contained some inconsistencies in the R-value, meaning other x-variables could be considered. The public opinion analysis presented a medium correlation between the GM corn produced and interactivity with the topic for some of the states, but the spikes in interactivity could be better explained by major events like the trial against Monsanto, which means the analysis is inconclusive. Meanwhile, NLP Twitter results and a Cambridge dataset show the polarisation of views in relation to the topic. 
+ 
+Conclusion: The research supports the hypothesis that genetically modified crop production has a positive effect on economic output in the agriculture sector, accounting for other factors that affect agricultural GDP. The public opinion is an unpredictable factor, which is difficult to represent through web interactivity with the topic, although some correlation with GM crop production and major events were noted. Overall, despite the possible benefits of GM crops such as economic output, there are divided views regarding the technology and people's interest in the topic is volatile. 
 
-Results:
-
-Conclusion:
